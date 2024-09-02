@@ -6,7 +6,7 @@ Die körperlichen Singularitäten sind **Raum**, **Zeit** und **Energie**. Sie e
 **Geistig**:
 Dei geistigen Singularitäten sind **Weisheit**, **Willen** und **Gefühl**. Sie ermöglichen die Existenz von Erinnerungen (Weisheit), Motivation (Willen) und Intuition (Gefühl).
 # Seins-Ebenen
-Als *Magie* sich in Körper und Geist [geteilt hatte](Die%20neue%20Ordnung%20der%20Magie), entstanden dabei die beiden parallelen Ebenen des Körpers und des Geistes. Die Singularitäten entstanden dabei jeweils auf der entsprechenden Ebene. Durch die Singularitäten jedoch, konnten sich die beiden Ebenene berühren und miteinander reagieren. 
+Als *Magie* sich in Körper und Geist [geteilt hatte](Die%20neue%20Ordnung%20der%20Magie.md), entstanden dabei die beiden parallelen Ebenen des Körpers und des Geistes. Die Singularitäten entstanden dabei jeweils auf der entsprechenden Ebene. Durch die Singularitäten jedoch, konnten sich die beiden Ebenene berühren und miteinander reagieren. 
 
 So entstand die Magie **derivärer Ordnung**:
 - [[Die Elemente]] entstanden auf der körperlichen Ebene.

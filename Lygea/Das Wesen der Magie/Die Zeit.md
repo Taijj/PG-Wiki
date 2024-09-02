@@ -9,4 +9,4 @@ Dinge in der globalen Vergangenheit können nicht verändert werden!
 Zeitreisen in die Zukunft versetzen den Punkt der globalen Gegenwart:
 [![](https://www.worldanvil.com/uploads/images/d706e95d3327b762820f08ee3c0d3f54.png "Die_Zeit.png")](https://www.worldanvil.com/i/163191 "Die_Zeit.png")
 ## Zeitreisende
-Es gibt, bis auf die [Regimenta](Die%20Regimenta), eigentlich keine Wesen, die durch die Zeit reisen können. Die [Regidea](Die%20Regidea) wenden allerdings regelmäßig, während ihres **Millenium Kongresses**, die Zukunftssicht an und entscheiden anhand dessen, ob sie versuchen diese zu ändern.
+Es gibt, bis auf die [Regimenta](Die%20Regimenta.md), eigentlich keine Wesen, die durch die Zeit reisen können. Die [Regidea](Die%20Regidea.md) wenden allerdings regelmäßig, während ihres **Millenium Kongresses**, die Zukunftssicht an und entscheiden anhand dessen, ob sie versuchen diese zu ändern.

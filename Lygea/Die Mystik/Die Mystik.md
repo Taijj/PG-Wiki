@@ -39,14 +39,14 @@ Beschwörungen werden ausgeführt, wenn Dinge herbeianimiert werden, die vorher 
 - Licht in einer dunklen Höhle herbei animieren.
 - Ein Schwert aus Eis herbeizaubern, um damit anzugreifen.
 ## Mystifizierungen
-Mystifizierungen geben Orten oder Gegenständen bestimmte Effekte oder sogar eine eigene [Aura](Die%20Aura). Der Unterschied zu [Besessenen](Körperlose%20Seelen) ist hier, dass der Effekt durch eine **Animation** aufrechterhalten wird, die mit einer mystischen Energiequelle verknüpft wurde. Diese mystische Quelle versorgt die **Animation** mit Energie, wie eine Art Magie-Batterie. Beliebte Batterien für Mystifizierungen sind Edelsteine (siehe: [Kristall-Element](Die%20Elemente.md) ) oder die Lebenskraft von Lebewesen.
+Mystifizierungen geben Orten oder Gegenständen bestimmte Effekte oder sogar eine eigene [Aura](Die%20Aura.md). Der Unterschied zu [Besessenen](Körperlose%20Seelen.md) ist hier, dass der Effekt durch eine **Animation** aufrechterhalten wird, die mit einer mystischen Energiequelle verknüpft wurde. Diese mystische Quelle versorgt die **Animation** mit Energie, wie eine Art Magie-Batterie. Beliebte Batterien für Mystifizierungen sind Edelsteine (siehe: [Kristall-Element](Die%20Elemente.md) ) oder die Lebenskraft von Lebewesen.
 Mystifizierungen sind die schwerste und komplexeste Art von Animationen.
 
 **Beispiele**
 - Ein Amulett, was den Träger stärker macht.
 - Mystische Fallen
-- Die Tattoos der [Teyaner](Die%20Teyaner)
-- Die Seelenbäder der [Dragnarier](Die%20Dragnarier)
+- Die Tattoos der [Teyaner](Die%20Teyaner.md)
+- Die Seelenbäder der [Dragnarier](Die%20Dragnarier.md)
 
 # Effekte
 Animationen können **sowohl positive als auch negative Effekte** haben. Dabei spielt es keine Rolle um welche Magieform oder -Ordnung es sich handelt.
@@ -85,7 +85,7 @@ Bei den [Emotionen](Die%20Emotionen) ist es genauso, wie bei den Elementen:
 - Liebe, schlägt Zorn, schlägt Liebe
 Vermischte **Emotionen** haben ebenfalls "Freunde" und "Feinde".
 ## Beispiel: Ein Duell
-Ein [Nerivaner](Die%20Nerivaner) trifft auf einen [Eveliten](Die%20Eveliten) und die beiden geraten in einen Streit. Der Streit eskaliert und die beiden beginnen damit sich elementare Animationen um die Ohren zu werfen. Der Evelit animiert seinen eigenen Schatten, um den Nerivaner anzugreifen, der das Licht im Raum verwendet, um diese Angriffe abzuwehren. Das angreifende Schatten-Element wird also effektiv vom verteidigenden Licht neutralisiert.
+Ein [Nerivaner](Die%20Nerivaner.md) trifft auf einen [Eveliten](Die%20Eveliten.md) und die beiden geraten in einen Streit. Der Streit eskaliert und die beiden beginnen damit sich elementare Animationen um die Ohren zu werfen. Der Evelit animiert seinen eigenen Schatten, um den Nerivaner anzugreifen, der das Licht im Raum verwendet, um diese Angriffe abzuwehren. Das angreifende Schatten-Element wird also effektiv vom verteidigenden Licht neutralisiert.
 Nach einer Weile schafft der Evelit es, einen Treffer zu landen, der bei dem Nerivaner großen Schaden und Schmerzen verursacht. Das Schatten-Element des Angriffs reagiert mit dem Licht-Element, aus dem der Körper des Nerivaners zu einem großen Teil besteht.
 Schatten und Licht neutralisieren sich, was bedeutet, dass der Körper des Nerivaners buchstäblich zersetzt wird.
 
@@ -102,12 +102,12 @@ Anfänger der Mystik, die das Animieren erst noch lernen, benötigen meistens so
 
 ## Die bekanntesten Techniken
 Die Völker Lygeas haben so, im Laufe der Zeit, jeweils bevorzugte Techniken zum Animieren entwickelt, die jeweils Gebrauch von den oben gennanten Hilfsmitteln machen. Je nach gewünschtem Effekt werden diese verwendet, um das Animieren zu erleichter oder gar das volle Potential der Anwendenden freizusetzen. Spiritualität kann dabei auch eine Rolle spielen:
-- **Die Arme von Ves** - die Technik der [Dragnarier](Die%20Dragnarier).
-- **Die Sprüche Evels** - die Technik der [Eveliten](Die%20Eveliten).
-- **Die Flammen der Schlacht** - die Technik der [Forasier](Die%20Forasier).
-- **Die Symbole des Lichts** - die Technik der [Nerivaner](Die%20Nerivaner).
-- **Der Tanz des Windes** - die Technik der [Rowagier](Die%20Rowagier).
-- **Die Gesten der Ruhe** - die Technik der [Teyaner](Die%20Teyaner).
+- **Die Arme von Ves** - die Technik der [Dragnarier](Die%20Dragnarier.md).
+- **Die Sprüche Evels** - die Technik der [Eveliten](Die%20Eveliten.md).
+- **Die Flammen der Schlacht** - die Technik der [Forasier](Die%20Forasier.md).
+- **Die Symbole des Lichts** - die Technik der [Nerivaner](Die%20Nerivaner.md).
+- **Der Tanz des Windes** - die Technik der [Rowagier](Die%20Rowagier.md).
+- **Die Gesten der Ruhe** - die Technik der [Teyaner](Die%20Teyaner.md).
 # Einschränkungen
 
 ## Die Seele
