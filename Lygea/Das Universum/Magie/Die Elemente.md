@@ -1,6 +1,6 @@
 	Die Bausteine der Materie
 
-Die Elemente sind eine Form der [Magie](Die%20Magie) und zwar die **körperliche Form derivärer Ordnung**. Sie sind die Bausteine für alles physische und existieren als kleine, atomare Einheiten. Diese Atome oder Partikel können sich auf verschiedenste Weisen aneinander heften (“Moleküle”) und so unterschiedlichste Stoffe bilden.  
+Die Elemente sind eine Form der [Magie](Die%20Magie.md) und zwar die **körperliche Form derivärer Ordnung**. Sie sind die Bausteine für alles physische und existieren als kleine, atomare Einheiten. Diese Atome oder Partikel können sich auf verschiedenste Weisen aneinander heften (“Moleküle”) und so unterschiedlichste Stoffe bilden.  
 ## Elemente
 [![Magic Circle](https://www.worldanvil.com/uploads/images/66cc85d1e444bcc48bb3f53e1ef4853a.jpg "Magic Circle")](https://www.worldanvil.com/i/249707 "Magic Circle")
 ### Klassen

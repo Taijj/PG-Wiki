@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lygea/Astronomie/Die Himmelskörper.md",
+                "file": "Lygea/Das Universum/Magie/Die Aura.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lygea/Astronomie/Die Himmelskörper.md",
+                "file": "Lygea/Das Universum/Magie/Die Aura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lygea/Astronomie/Die Himmelskörper.md",
+                "file": "Lygea/Das Universum/Magie/Die Aura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lygea/Astronomie/Die Himmelskörper.md"
+                "file": "Lygea/Das Universum/Magie/Die Aura.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "faa41e415c70e067",
   "lastOpenFiles": [
-    "Lygea/Lebewesen/Die Gyrgothen.md",
-    "Lygea/Astronomie/Die Himmelskörper.md",
-    "Lygea/Astronomie/Kosmische Ereignisse.md",
-    "Die Sterne.md",
-    "Lygea/Die Mystik/Die Mystik.md",
-    "Lygea/Lebewesen/Die Regimenta.md",
-    "Lygea/Die Mystik/Mystisches Potential.md",
-    "Lygea/Lebewesen/Invis/Die Forasier.md",
-    "Lygea/Lebewesen/Invis/Die Nerivaner.md",
-    "Lygea/Lebewesen/Die Invis.md",
-    "Lygea/Lebewesen/Die Anomi.md",
-    "Lygea/Lebewesen/Die Urwesen.md",
+    "Lygea/Das Universum/Planet Lygea/Yhra.md",
+    "Lygea/Das Universum/Magie/Die Seele.md",
     "Lygea/Geschichte/Die Strafe der Regimenta.md",
-    "Lygea/Astronomie/Die Regidea.md",
+    "Lygea/Das Universum/Astronomie/Die Regidea.md",
+    "Lygea/Geschichte/Das Dämonengefängnis.md",
+    "Lygea/Geschichte/Foras' Rache.md",
+    "Lygea/Das Universum/Planet Lygea/Die Fliegenden Inseln.md",
+    "Lygea/Das Universum/Planet Lygea/Die Kontinente.md",
+    "Lygea/Lebewesen/Invis/Die Nerivaner.md",
+    "Lygea/Lebewesen/Invis/Die Dragnarier.md",
+    "Lygea/Lebewesen/Invis/Die Eveliten.md",
+    "Lygea/Das Universum/Planet Lygea/Panteus.md",
+    "Lygea/Das Universum/Astronomie/Kosmische Ereignisse.md",
+    "Lygea/Lebewesen/Die Regimenta.md",
+    "Lygeas Kleid.md",
+    "Lygea/Das Universum/Astronomie/Der lygeanische Kalender.md",
+    "Lygea/Das Universum/Planet Lygea",
+    "Lygea/Das Universum",
+    "Lygea/Das Universum/Magie/Die Elemente.md",
+    "Lygea/Das Universum/Astronomie/Die Himmelskörper.md",
+    "Lygea/Lebewesen/Die Gyrgothen.md",
+    "Chrotems Kalender.md",
+    "Lygea/Das Universum/Astronomie/Die Sterne.md",
+    "Lygea/Geschichte/Der Zweite Dämonenkrieg.md",
     "Lygea/Lebewesen/Die Omnipha.md",
-    "Lygea/Geschichte/Emotionen und Elemente.md",
-    "Lygea/Astronomie",
+    "Lygea/Lebewesen/Besessene.md",
+    "Lygea/Lebewesen/Geister.md",
+    "Lygea/Das Universum/Magie/Körperlose Seelen.md",
+    "Lygea/Das Universum/Astronomie",
     "Lygea/Geschichte",
     "Lygea/Lebewesen/Invis",
     "Lygea/Lebewesen",
-    "Untitled",
-    "Lygea/Das Wesen der Magie/Die Magie.md",
-    "Lygea/Das Wesen der Magie/Die Singularitäten.md",
-    "Lygea/Das Wesen der Magie/Die Seele.md",
     "Die Mystik",
-    "Links.md",
-    "Lygea/Lebewesen/Invis/Die Rowagier.md",
-    "Lygea/Lebewesen/Invis/Die Eveliten.md",
-    "Lygea/Lebewesen/Invis/Die Teyaner.md",
-    "Lygea/Lebewesen/Invis/Die Dragnarier.md",
-    "Lygea/Das Wesen der Magie/Körperlose Seelen.md",
-    "Lygea/Das Wesen der Magie/Die Aura.md",
-    "Lygea/Die Mystik",
+    "Lygea/Das Universum/Mystik",
     "Universum",
-    "Lygea/Das Wesen der Magie",
-    "Lygea"
+    "Lygea/Das Universum/Magie"
   ]
 }

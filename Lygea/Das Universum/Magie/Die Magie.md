@@ -13,7 +13,7 @@ Diese beiden Formen beeinflussen sich allerdings gegenseitig. Körperliche Magie
 ## Ordnungen
 Körperliche und geistige Magie existieren weiterhin in jeweils zwei Ordnungen:
 - **Singulär-Magie** ist eine hohe Ordnung der Magie. Sie wird von den 6 [Singularitäten](Die%20Singularitäten.md) representiert, die die Grundlagen der lygeanischen Realität ausmachen.
-- **Derivär-Magie** ist die niedere Ordnung der Magie. Sie ist aus der **Singulär-Magie** entstanden und wird auf körperlicher Seite von den [Elementen](Die%20Elemente.md) und auf geistiger von den [Emotionen](Die%20Emotionen) representiert.
+- **Derivär-Magie** ist die niedere Ordnung der Magie. Sie ist aus der **Singulär-Magie** entstanden und wird auf körperlicher Seite von den [Elementen](Die%20Elemente.md) und auf geistiger von den [Emotionen](Die%20Emotionen.md) representiert.
 
 ## Arten
 Durch die Fähigkeit der geistigen Magie, die körperliche zu kontrollieren, haben sich zusätzlich zu den Formen und Ordnungen noch zwei Arten der Magie herausgebildet. Diese Arten sind allerdings rein deklarativ und dabei geht es vor allem um die Unterscheidung zwischen "normaler Realität" und "Zauberei".

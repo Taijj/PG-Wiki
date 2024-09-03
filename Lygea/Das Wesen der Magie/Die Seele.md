@@ -1,1 +1,0 @@
-Wann ist eine Seele Stark/Groß?

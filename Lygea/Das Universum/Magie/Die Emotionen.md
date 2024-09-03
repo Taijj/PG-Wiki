@@ -1,6 +1,6 @@
 	Die Bausteine der Seele
 
-Die Emotionen sind eine Form der [Magie](Die%20Magie) und zwar die *geistige Form derivärer Ordnung*. Sie sind die Bausteine für alles geistige und existieren als unsichtbare Ströme, die sich oft durchkreuzen und verknoten. So entstehen aus den Emotionen verschiedene Persönlichkeiten.
+Die Emotionen sind eine Form der [Magie](Die%20Magie.md) und zwar die *geistige Form derivärer Ordnung*. Sie sind die Bausteine für alles geistige und existieren als unsichtbare Ströme, die sich oft durchkreuzen und verknoten. So entstehen aus den Emotionen verschiedene Persönlichkeiten.
 
 {{IMAGE}}
 

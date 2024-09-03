@@ -1,4 +1,4 @@
-Die **Mystik** ist eine Art der [Magie](Die%20Magie), die im Volksmund entstanden ist und als "Lehre der Zauberei" definiert wird. Der Volksmund bezeichnet alles als der Mystik zugehörig, was "unnatürlich" oder "unerklärlich" erscheint.
+Die **Mystik** ist eine Art der [Magie](Die%20Magie.md), die im Volksmund entstanden ist und als "Lehre der Zauberei" definiert wird. Der Volksmund bezeichnet alles als der Mystik zugehörig, was "unnatürlich" oder "unerklärlich" erscheint.
 
 # Begriffsdefinitionen
 Durch die Einführung **mystischer Magie** als eigenes Fachgebiet, haben sich vor allem zwei Worstämme besonders herausgebildet, **Mystik** und **Animation**.
@@ -67,19 +67,19 @@ Animationen können **sowohl positive als auch negative Effekte** haben. Dabei s
 Animationseffekte, egal ob elementarer, emotionaler oder singulärer natur, stehen in gewissen Beziehungen zueinander. Diese Beziehungen nehmen ebenfalls großen Einfluss auf die Effektivität einer Animation und können einen Effekt verstärken, abschwächen oder vollständig neutralisieren.
 
 **Singuläre Animationen**
-Animationen, die die [Singularitäten](Die%20Singularitäten) beeinflussen, stehen in einem Schere-Stein-Papier-Verhältnis zueinander:
+Animationen, die die [Singularitäten](Die%20Singularitäten.md) beeinflussen, stehen in einem Schere-Stein-Papier-Verhältnis zueinander:
 - Körperlich: Zeit, schlägt Raum, schlägt Energie, schlägt Zeit
 - Geistig: Willen, schlägt Gefühl, schlägt Wissen, schlägt Willen
 
 **Elementare Animationen**
-[Elemente](Die%20Elemente), die sich im Magiekreis gegenüber liegen, neutralisieren sich gegenseitig. Das gilt sowohl für den Angriff, als auch die Verteidigung:
+[Elemente](Die%20Elemente.md), die sich im Magiekreis gegenüber liegen, neutralisieren sich gegenseitig. Das gilt sowohl für den Angriff, als auch die Verteidigung:
 - Feuer, schlägt Wasser, schlägt Feuer
 - Erde, schlägt Luft, schlägt Erde
 - Licht, schlägt Schatten, schlägt Licht
 Bei Vermischungen (wie 2-Elemente) wird es komplizierter, aber auch diese haben andere "Element-Freunde" und "-Feinde", die verstärkende oder abschwächende Wirkung haben.
 
 **Emotionale Animationen**
-Bei den [Emotionen](Die%20Emotionen) ist es genauso, wie bei den Elementen:
+Bei den [Emotionen](Die%20Emotionen.md) ist es genauso, wie bei den Elementen:
 - Freude, schlägt Trauer, schlägt Freude
 - Mut, schlägt Angst, schlägt Mut
 - Liebe, schlägt Zorn, schlägt Liebe

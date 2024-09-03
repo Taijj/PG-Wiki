@@ -1,8 +1,8 @@
 
-[Magie](Die%20Magie)
+[Magie](Die%20Magie.md)
 [Singularitäten](Die%20Singularitäten.md)
 [Elementen](Die%20Elemente.md)
-[Emotionen](Die%20Emotionen)
+[Emotionen](Die%20Emotionen.md)
 [Mystik](Die%20Mystik.md)
 [Mystisches Potenzial](Mystisches%20Potential.md)
 [Seele](Die%20Seele.md)

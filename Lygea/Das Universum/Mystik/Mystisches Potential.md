@@ -21,16 +21,16 @@ Die Animationsfähigkeiten eines Lebewesens werden grundlegend davon bestimmt, w
 	Die [Seele](Die%20Seele.md) ist die Hauptvorraussetzung für die Animationsfähigkeiten eines Lebewesens. Ihre Stärke ist dabei der ausschlaggebende Faktor, welches Mystische Potential einem Lebewesen zugeordnet wird.
 
 - **Die Persönlichkeit**
-	Die [emotionalen](Die%20Emotionen) Bestandteile der **Seele**, i.e. die Persönlichkeit und Charaktereigenschaften des Mystikers, bestimmen, welche der **Emotionen** und welche der geistigen [Singularitäten](Die%20Singularitäten) ihm zu animieren leicht fallen und welche er grundsätzlich überhaupt animieren kann.
+	Die [emotionalen](Die%20Emotionen.md) Bestandteile der **Seele**, i.e. die Persönlichkeit und Charaktereigenschaften des Mystikers, bestimmen, welche der **Emotionen** und welche der geistigen [Singularitäten](Die%20Singularitäten.md) ihm zu animieren leicht fallen und welche er grundsätzlich überhaupt animieren kann.
 
 - **Der Körper**
-	Die [elementaren](Die%20Elemente) Bestandteile des Körpers des Mystikers bestimmen, welche der **Elemente** und welche körperlichen **Singularitäten** ihm zu animieren leicht fallen und welche er grundsätzlich überhaupt animieren kann.
+	Die [elementaren](Die%20Elemente.md) Bestandteile des Körpers des Mystikers bestimmen, welche der **Elemente** und welche körperlichen **Singularitäten** ihm zu animieren leicht fallen und welche er grundsätzlich überhaupt animieren kann.
 
 # Limitationen
 Das Mystische Potential von Lebewesen wird in Macht-Level eingeteilt. Diese Level stellen dabei einen Durchschnitt dar. Es ist möglich, dass Vertreter, die zu einem niedrigeren Level gehören, unter bestimmten Bedingungen höhere Level erreichen können. Das Gegenteil ist auch möglich.
 
 Folgende Einschränkungen geltendabei für das gesamte lygeanische Universum:
-- Niemand hat Einfluss darauf, wie die **Singularitäten**, **Elemente**, **Emotionen** oder die [Magie](DIe%20Magie) selbst funktionieren
+- Niemand hat Einfluss darauf, wie die **Singularitäten**, **Elemente**, **Emotionen** oder die [Magie](Die%20Magie.md) selbst funktionieren
 - Niemand kann neue **Singularitäten**, **Elemente**, **Emotionen** oder andere zugrunde liegenden Formen von Magie erschaffen, z.B. gibt es das “Äther-Element” nicht.
 - Jedes Lebewesen erreicht, ohne entsprechende Pause, den Punkt der Erschöpfung, ob das Millionen von Jahren dauert oder nur wenige Stunden, spielt dabei keine Rolle.
 - Wenn nicht explizit beschrieben, kann alles, was ein höheres Level nicht kann, das niedrigere Level auch nicht.
@@ -51,7 +51,7 @@ Omnipräsenz würde in diesem Falle auch das Zeitreisen mit einschließen. Doch 
 - Einschränkungen: Aufgabenorientiert
 Level Y Wesen haben genug Macht bekommen, um die Naturgewalten und den Zyklus des Lebens zu kontrollieren. Die Erfüllung ihrer Aufgaben ist dabei ihr stärkster Antrieb, also versuchen sie selten etwas anderes.
 ## Level X - Gottheiten Level
-- Typische Vertreter: [Die Regidea](Die%20Regidea) vor der [Strafe der Regimenta](Die%20Strafe%20der%20Regimenta.md)
+- Typische Vertreter: [Die Regidea](Die%20Regidea.md) vor der [Strafe der Regimenta](Die%20Strafe%20der%20Regimenta.md)
 - Fähigkeiten: Starke Singulär-Animation, unbegrenzte Derivär-Animation
 - Einschränkungen: Kein Allwissen, "kosmetisch” durch 1-Elemente
 Die Regidea, so wie sie geschaffen wurden, hatten ebenfalls eine fast kosmische Macht, sogar über alle Elemente. Dabei haben sie sich allerdings die 1-Elemente, als eine Art persönlichen Stempel, untereinander aufgeteilt.
