@@ -39,7 +39,7 @@ Beschwörungen werden ausgeführt, wenn Dinge herbeianimiert werden, die vorher 
 - Licht in einer dunklen Höhle herbei animieren.
 - Ein Schwert aus Eis herbeizaubern, um damit anzugreifen.
 ## Mystifizierungen
-Mystifizierungen geben Orten oder Gegenständen bestimmte Effekte oder sogar eine eigene [Aura](Die%20Aura.md). Der Unterschied zu [Besessenen](Körperlose%20Seelen.md) ist hier, dass der Effekt durch eine **Animation** aufrechterhalten wird, die mit einer mystischen Energiequelle verknüpft wurde. Diese mystische Quelle versorgt die **Animation** mit Energie, wie eine Art Magie-Batterie. Beliebte Batterien für Mystifizierungen sind Edelsteine (siehe: [Kristall-Element](Die%20Elemente.md) ) oder die Lebenskraft von Lebewesen.
+Mystifizierungen geben Orten oder Gegenständen bestimmte Effekte oder sogar eine eigene [Aura](Die%20Seele#Die%20Aura). Der Unterschied zu [Besessenen](Körperlose%20Seelen.md) ist hier, dass der Effekt durch eine **Animation** aufrechterhalten wird, die mit einer mystischen Energiequelle verknüpft wurde. Diese mystische Quelle versorgt die **Animation** mit Energie, wie eine Art Magie-Batterie. Beliebte Batterien für Mystifizierungen sind Edelsteine (siehe: [Kristall-Element](Die%20Elemente.md) ) oder die Lebenskraft von Lebewesen.
 Mystifizierungen sind die schwerste und komplexeste Art von Animationen.
 
 **Beispiele**

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lygea/Das Universum/Magie/Die Aura.md",
+                "file": "Lygea/Das Universum/Magie/Der Burst.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Aura",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lygea/Das Universum/Magie/Die Aura.md",
+                "file": "Lygea/Das Universum/Magie/Der Burst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lygea/Das Universum/Magie/Die Aura.md",
+                "file": "Lygea/Das Universum/Magie/Der Burst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lygea/Das Universum/Magie/Die Aura.md"
+                "file": "Lygea/Das Universum/Magie/Der Burst.md"
               }
             }
           }
@@ -148,8 +148,23 @@
   },
   "active": "faa41e415c70e067",
   "lastOpenFiles": [
-    "Lygea/Das Universum/Planet Lygea/Yhra.md",
     "Lygea/Das Universum/Magie/Die Seele.md",
+    "Lygea/Das Universum/Astronomie/Der lygeanische Kalender.md",
+    "Lygea/Das Universum/Astronomie/Kosmische Ereignisse.md",
+    "Lygea/Geschichte/Chrotems Kalender.md",
+    "Lygea/Das Universum/Mystik/Die Mystik.md",
+    "Links.md",
+    "Lygea/Das Universum/Magie/Die Emotionen.md",
+    "Lygea/Das Universum/Magie/Die Magie.md",
+    "Lygea/Das Universum/Magie/Die Aura.md",
+    "Lygea/Das Universum/Magie/Die Elemente.md",
+    "Lygea/Das Universum/Magie/Der Burst.md",
+    "Lygea/Das Universum/Magie/Die Singularitäten.md",
+    "Lygea/Das Universum/Magie/Die Zeit.md",
+    "Lygea/Das Universum/Magie/Körperlose Seelen.md",
+    "Lygea/Lebewesen/Besessene.md",
+    "Lygea/Lebewesen/Verfluchte.md",
+    "Lygea/Das Universum/Planet Lygea/Yhra.md",
     "Lygea/Geschichte/Die Strafe der Regimenta.md",
     "Lygea/Das Universum/Astronomie/Die Regidea.md",
     "Lygea/Geschichte/Das Dämonengefängnis.md",
@@ -159,23 +174,8 @@
     "Lygea/Lebewesen/Invis/Die Nerivaner.md",
     "Lygea/Lebewesen/Invis/Die Dragnarier.md",
     "Lygea/Lebewesen/Invis/Die Eveliten.md",
-    "Lygea/Das Universum/Planet Lygea/Panteus.md",
-    "Lygea/Das Universum/Astronomie/Kosmische Ereignisse.md",
-    "Lygea/Lebewesen/Die Regimenta.md",
-    "Lygeas Kleid.md",
-    "Lygea/Das Universum/Astronomie/Der lygeanische Kalender.md",
     "Lygea/Das Universum/Planet Lygea",
     "Lygea/Das Universum",
-    "Lygea/Das Universum/Magie/Die Elemente.md",
-    "Lygea/Das Universum/Astronomie/Die Himmelskörper.md",
-    "Lygea/Lebewesen/Die Gyrgothen.md",
-    "Chrotems Kalender.md",
-    "Lygea/Das Universum/Astronomie/Die Sterne.md",
-    "Lygea/Geschichte/Der Zweite Dämonenkrieg.md",
-    "Lygea/Lebewesen/Die Omnipha.md",
-    "Lygea/Lebewesen/Besessene.md",
-    "Lygea/Lebewesen/Geister.md",
-    "Lygea/Das Universum/Magie/Körperlose Seelen.md",
     "Lygea/Das Universum/Astronomie",
     "Lygea/Geschichte",
     "Lygea/Lebewesen/Invis",

@@ -1,4 +1,4 @@
-Der lygeanische Kalender, oder [Chrotems Kalender](Chrotems%20Kalender), teilt die Zeit in Tage, Wochen, Monate und Jahre ein. Die Jahre kehren dabei in sogenannten Zyklen wieder. Der Kalender ist eine Schöpfung des [Gyrgothen](Die%20Gyrgothen) **Chrotem**, der die Geschwindigkeiten der [Himmelskörper](Die%20Himmelskörper.md) anhand dieses Kalenders definiert hat.
+Der lygeanische Kalender, oder [Chrotems Kalender](Chrotems%20Kalender.md), teilt die Zeit in Tage, Wochen, Monate und Jahre ein. Die Jahre kehren dabei in sogenannten Zyklen wieder. Der Kalender ist eine Schöpfung des [Gyrgothen](Die%20Gyrgothen) **Chrotem**, der die Geschwindigkeiten der [Himmelskörper](Die%20Himmelskörper.md) anhand dieses Kalenders definiert hat.
 
 # Der Kalender
 ---
