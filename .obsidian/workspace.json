@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lygea/Das Universum/Magie/Der Burst.md",
+                "file": "Lygea/Lebewesen/Die Gyrgothen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lygea/Das Universum/Magie/Der Burst.md",
+                "file": "Lygea/Lebewesen/Die Gyrgothen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lygea/Das Universum/Magie/Der Burst.md",
+                "file": "Lygea/Lebewesen/Die Gyrgothen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lygea/Das Universum/Magie/Der Burst.md"
+                "file": "Lygea/Lebewesen/Die Gyrgothen.md"
               }
             }
           }
@@ -148,32 +148,33 @@
   },
   "active": "faa41e415c70e067",
   "lastOpenFiles": [
+    "Lygea/Lebewesen/Die Ersten/Die Omnipha.md",
+    "Lygea/Lebewesen/Die Anomi.md",
+    "Der Zyklus des Lebens.md",
     "Lygea/Das Universum/Magie/Die Seele.md",
+    "Lygea/Das Universum/Magie/Die Magie.md",
+    "Lygea/Lebewesen/Die Ersten/Die Regimenta.md",
+    "Lygea/Geschichte/Die Strafe der Regimenta.md",
+    "Lygea/Das Universum/Mystik/Mystisches Potential.md",
+    "Lygea/Das Universum/Magie/Körperlose Seelen.md",
+    "Lygea/Lebewesen/Die Ersten",
+    "Lygea/Das Universum/Magie/Die Zeit.md",
+    "Lygea/Das Universum/Magie/Die Singularitäten.md",
+    "Lygea/Das Universum/Magie/Die Emotionen.md",
+    "Lygea/Das Universum/Magie/Die Elemente.md",
+    "Lygea/Das Universum/Magie/Der Burst.md",
+    "Lygea/Lebewesen/Die Gyrgothen.md",
+    "Lygea/Das Universum/Astronomie/Die Sterne.md",
     "Lygea/Das Universum/Astronomie/Der lygeanische Kalender.md",
     "Lygea/Das Universum/Astronomie/Kosmische Ereignisse.md",
     "Lygea/Geschichte/Chrotems Kalender.md",
     "Lygea/Das Universum/Mystik/Die Mystik.md",
     "Links.md",
-    "Lygea/Das Universum/Magie/Die Emotionen.md",
-    "Lygea/Das Universum/Magie/Die Magie.md",
     "Lygea/Das Universum/Magie/Die Aura.md",
-    "Lygea/Das Universum/Magie/Die Elemente.md",
-    "Lygea/Das Universum/Magie/Der Burst.md",
-    "Lygea/Das Universum/Magie/Die Singularitäten.md",
-    "Lygea/Das Universum/Magie/Die Zeit.md",
-    "Lygea/Das Universum/Magie/Körperlose Seelen.md",
     "Lygea/Lebewesen/Besessene.md",
     "Lygea/Lebewesen/Verfluchte.md",
     "Lygea/Das Universum/Planet Lygea/Yhra.md",
-    "Lygea/Geschichte/Die Strafe der Regimenta.md",
     "Lygea/Das Universum/Astronomie/Die Regidea.md",
-    "Lygea/Geschichte/Das Dämonengefängnis.md",
-    "Lygea/Geschichte/Foras' Rache.md",
-    "Lygea/Das Universum/Planet Lygea/Die Fliegenden Inseln.md",
-    "Lygea/Das Universum/Planet Lygea/Die Kontinente.md",
-    "Lygea/Lebewesen/Invis/Die Nerivaner.md",
-    "Lygea/Lebewesen/Invis/Die Dragnarier.md",
-    "Lygea/Lebewesen/Invis/Die Eveliten.md",
     "Lygea/Das Universum/Planet Lygea",
     "Lygea/Das Universum",
     "Lygea/Das Universum/Astronomie",
@@ -182,7 +183,6 @@
     "Lygea/Lebewesen",
     "Die Mystik",
     "Lygea/Das Universum/Mystik",
-    "Universum",
-    "Lygea/Das Universum/Magie"
+    "Universum"
   ]
 }

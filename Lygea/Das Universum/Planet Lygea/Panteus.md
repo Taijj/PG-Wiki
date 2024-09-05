@@ -1,6 +1,6 @@
 	Der Urkontinent
 
-Panteus ist der Urkontinent oder das [Kleid Lygeas](Lygeas%20Kleid.md), wie die [Regimenta](Die%20Regimenta) **Lygea** es sich geschaffen hatte. Jeder [Regidea](Die%20Regidea) hatte seinen eigenen Zuständigkeitsbereich, die sich nach [Foras' Rache](Foras'%20Rache.md) mehr oder weniger zu den [Kontinenten](Die%20Kontinente.md) entwickelten.
+Panteus ist der Urkontinent oder das [Kleid Lygeas](Lygeas%20Kleid.md), wie die [Regimenta](Die%20Regimenta.md) **Lygea** es sich geschaffen hatte. Jeder [Regidea](Die%20Regidea) hatte seinen eigenen Zuständigkeitsbereich, die sich nach [Foras' Rache](Foras'%20Rache.md) mehr oder weniger zu den [Kontinenten](Die%20Kontinente.md) entwickelten.
 
 ((IMAGE))
 

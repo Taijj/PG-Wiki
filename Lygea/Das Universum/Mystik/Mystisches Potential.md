@@ -39,7 +39,7 @@ Folgende Einschränkungen geltendabei für das gesamte lygeanische Universum:
 # Die Level
 Die folgenden Durchschnittslevel gibt es. Tendenzen nach oben oder unten hängen dabei, wie bereits angemerkt, vom Individuum ab.
 ## Level Z - Erstschöpfer Level
-- Typische Vertreter: [Die Regimenta](Die%20Regimenta)
+- Typische Vertreter: [Die Regimenta](Die%20Regimenta.md)
 - Fähigkeiten: Omnipotenz, Omnipräsenz, Allwissen, Unsterblichkeit
 - Einschränkungen: Die oben beschriebenen, die eigene Persönlichkeit
 

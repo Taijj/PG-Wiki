@@ -18,7 +18,7 @@ Die Monate sind in genau 5 Wochen unterteilt, welche nach den 5 bewohnten [Konti
 4. Cantiwoche
 5. Finnwoche
 ---
-12 Monate befinden sich in einem Jahr, die **Chrotem** den [Regimenta](Die%20Regimenta) und den [Regidea](Die%20Regidea.md) gewidmet hat:
+12 Monate befinden sich in einem Jahr, die **Chrotem** den [Regimenta](Die%20Regimenta.md) und den [Regidea](Die%20Regidea.md) gewidmet hat:
 1. Lyruar
 2. Tebuar
 3. Veril
