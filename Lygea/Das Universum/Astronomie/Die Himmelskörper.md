@@ -9,4 +9,4 @@ Die folgende Grafik zeigt alle Gestirne des lygeanischen Universums und wie sie 
 ((IMAGE))
 
 # Besonderes
-Die Gestirne bilden die Körper der [Regimenta](Die%20Regimenta.md). Neben den Gestirnen gibt es im lygeanischen Universum auch noch die [Sterne](Die%20Sterne.md). Durch die Bahnen und Verteilung der Gestirne kommt es zu besonderen, [kosmischen Ereignissen](Kosmische%20Ereignisse.md). Eine weitere Besonderheit ist der Komet **Malomar**, der im Artikel zu den [Gyrgothen](Die%20Gyrgothen) genauer beschrieben ist.
+Die Gestirne bilden die Körper der [Regimenta](Die%20Regimenta.md). Neben den Gestirnen gibt es im lygeanischen Universum auch noch die [Sterne](Die%20Sterne.md). Durch die Bahnen und Verteilung der Gestirne kommt es zu besonderen, [kosmischen Ereignissen](Kosmische%20Ereignisse.md). Eine weitere Besonderheit ist der Komet **Malomar**, der im Artikel zu den [Gyrgothen](Die%20Gyrgothen.md) genauer beschrieben ist.

@@ -15,7 +15,7 @@ Bis auf einige Steppen im Norden ist dieser Kontinent mild bis kalt. Die weit ve
 ## Silviem
 Die größte Fläche dieses Kontinents ist ein durchgehender Wald, den die [Nerivaner](Die%20Nerivaner) ihr Zuhause nennen. Der große Wald von Silviem erstreckt sich von den eher subtropischen Gebieten der nördlichen Küsten bis Schnee bedeckten Gipfeln im Süden.
 ## Galerkis
-Die Galerkis ist der massive Gletscher im Norden. Ihre Landschaft ist groß, weit, zerklüftet und kalt. In dieser Einöde leben nur einige der [Anomi](Die%20Anomi), denen die beißende Kälte nichts ausmacht. Es dauerte lange, bis die ersten Invis es auch nur versuchten sich dort niederzulassen.
+Die Galerkis ist der massive Gletscher im Norden. Ihre Landschaft ist groß, weit, zerklüftet und kalt. In dieser Einöde leben nur einige der [Anomi](Die%20Anomi.md), denen die beißende Kälte nichts ausmacht. Es dauerte lange, bis die ersten Invis es auch nur versuchten sich dort niederzulassen.
 
 # Besonderheiten
 

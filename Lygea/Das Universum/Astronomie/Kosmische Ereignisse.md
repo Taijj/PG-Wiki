@@ -10,7 +10,7 @@ Diese Ereignisse sind auf globaler Ebene besonders spürbar. Ihre Effekte sind s
 - Dauer: 1 Woche
 - Effekt: **Elementarchaos**
 
-Die [Völker Lygeas](Die%20Invis) können nur das ihrem Volk zugeordnete [Element](Die%20Elemente.md) animieren animieren. Während eines Elementarchaos' wird diese Regel aber komplett außer Kraft gesetzt. Die Bewohner Lygeas bekommen plötzlich Fähigkeiten, die sie normalerweise gar nicht lernen können. Welche das sind, entscheidet der Zufall und ändert sich, während der Dauer der Konjunktion, regelmäßig. Kinder, die während eines Elementarchaos’ geboren werden, kommen sogar mit permanenten, Volks untypischen, elementaren Fähigkeiten zur Welt.
+Die [Völker Lygeas](Die%20Invis.md) können nur das ihrem Volk zugeordnete [Element](Die%20Elemente.md) animieren animieren. Während eines Elementarchaos' wird diese Regel aber komplett außer Kraft gesetzt. Die Bewohner Lygeas bekommen plötzlich Fähigkeiten, die sie normalerweise gar nicht lernen können. Welche das sind, entscheidet der Zufall und ändert sich, während der Dauer der Konjunktion, regelmäßig. Kinder, die während eines Elementarchaos’ geboren werden, kommen sogar mit permanenten, Volks untypischen, elementaren Fähigkeiten zur Welt.
 
 Beispiele
 - Ein [Rowagier](Die%20Rowagier) kann plötzlich nur noch die Erde animieren.

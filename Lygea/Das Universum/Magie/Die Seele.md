@@ -18,13 +18,13 @@ Eine **Seele** wird in einem Körper stabilisiert und ihr Verfall wird deutlich 
 In einer Gesellschaft führt das zu einem stetigen **emotionalen** Austausch. **Seelen** zehren und nähren einander, entfremden sich oder wachsen zusammen, bestimmte Personen tun einem gut, andere scheinen einem die Energie regelrecht abzuziehen
 Welche **Emotionen** abgegeben werden, richtet sich nach dem Gemütszustand des Lebewesens. Wenn jemand traurig ist, ist seine **Aura** entsprechend traurig. Durch die ständige Abgabe von **Emotionen**, hinterlassen Lebewesen überall dort **emotionale** Überreste oder Spuren, wo sie sind.
 ## Orte
-Wenn mehr **Emotionen** an einem bestimmten Ort abgegeben werden, ohne, dass diese wieder anderweitig aufgenommen werden, dann passiert es, dass dieser Ort **emotional** so gesättigt wird, dass er eine eigene **Seele** und eine **Aura** entwickelt. Diese **Auren** können weiterhin [Geister](Geister) anziehen und sich so noch mehr verstärken. Wird nichts dagegen unternommen, kann dieser Zustand sehr lange aufrecht erhalten werden.
+Wenn mehr **Emotionen** an einem bestimmten Ort abgegeben werden, ohne, dass diese wieder anderweitig aufgenommen werden, dann passiert es, dass dieser Ort **emotional** so gesättigt wird, dass er eine eigene **Seele** und eine **Aura** entwickelt. Diese **Auren** können weiterhin [Geister](Geister.md) anziehen und sich so noch mehr verstärken. Wird nichts dagegen unternommen, kann dieser Zustand sehr lange aufrecht erhalten werden.
 
 **Beispiele**:
 - Eine bekannte Touristenattraktion entwickelt eine fröhliche und neugierige Seele, die wortwortlich alle Besucher ansteckt.
 - Ein Dorf wird komplett ausgelöscht, aber die Angst und Verzweiflung der Bewohner bleibt dort zurück.
 ## Gegenstände
-Nicht nur lebendige Wesen dienen einer **Seele** als Körper, auch leblose Objekte können **emotionale** Energie stabilisieren. Daher passiert es ebenfalls, dass Gegenstände auch eine **Aura** entwickeln. Das kann auf natürliche Weise geschehen, wenn z.B. ein Gegenstand einer Person sehr lieb und teuer ist, oder auf unnatürliche Weise, z.B. durch [Mystifizierungen](Die%20Mystik#Mystifizierungen) oder [Flüche](Verfluchte.md). Gegenstände können sich auch zu [Besessenen](Besessene) entwicklen.
+Nicht nur lebendige Wesen dienen einer **Seele** als Körper, auch leblose Objekte können **emotionale** Energie stabilisieren. Daher passiert es ebenfalls, dass Gegenstände auch eine **Aura** entwickeln. Das kann auf natürliche Weise geschehen, wenn z.B. ein Gegenstand einer Person sehr lieb und teuer ist, oder auf unnatürliche Weise, z.B. durch [Mystifizierungen](Die%20Mystik#Mystifizierungen) oder [Flüche](Verfluchte.md). Gegenstände können sich auch zu [Besessenen](Besessene.md) entwicklen.
 
 **Beispiele**
 - Ein Ring, der sich weigert vom Finger genommen zu werden und Tragende in den Wahnsinn treibt.
