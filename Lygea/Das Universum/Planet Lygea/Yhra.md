@@ -4,7 +4,7 @@ Yhra ist ein Kilometer großes Loch, inmitten des Ozeans. Das Loch ist so tief u
 
 ((IMAGE))
 # Entstehung
-Yhra ist nach [Foras' Rache](Foras'%20Rache.md) entstanden. [Foras](Foras) warf seinen Speer auf das [Dämonengefängnis](Das%20Dämonengefängnis.md), was die anderen [Regidea](Die%20Regidea) zu verhindern versuchten. Als diese beiden Kräfte aufeinander prallten, teilte das nicht nur [Panteus](Panteus) in die [Kontinente](Die%20Kontinente), sondern schlug **Lygea**, der [Regimenta](Die%20Regimenta.md), eine sehr tiefe Wunde. Die Narbe dieser Wunde ist Yhra.
+Yhra ist nach [Foras' Rache](Foras'%20Rache.md) entstanden. [Foras](Foras.md) warf seinen Speer auf das [Dämonengefängnis](Das%20Dämonengefängnis.md), was die anderen [Regidea](Die%20Regidea.md) zu verhindern versuchten. Als diese beiden Kräfte aufeinander prallten, teilte das nicht nur [Panteus](Panteus) in die [Kontinente](Die%20Kontinente), sondern schlug **Lygea**, der [Regimenta](Die%20Regimenta.md), eine sehr tiefe Wunde. Die Narbe dieser Wunde ist Yhra.
 
 ((Image))
 Schematische Darstellung von Yhra von der Seite.

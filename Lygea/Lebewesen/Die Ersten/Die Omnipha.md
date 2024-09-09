@@ -6,30 +6,24 @@ Die Omnipha schufen also keine Körper mehr, jedoch blieb das Beseelen der durch
 
 # Ursprung
 Die Omnipha wurden von den **Regimenta**, im Laufe der Schöpfungsgeschichte, aus verschiedenen Gründen geschaffen. Sie schufen die unterschiedlichen Arten der [Anomi](Die%20Anomi.md) und bevölkerten Lygea so mit vielen verschiedenen Lebewesen.
-
-**Herba**
+#### Herba
 Herba ist der Lebensgeist der [Pflanzen](Die%20Pflanzen.md). Sie war der erste Omnipha und war für [Lygeas Kleid](Lygeas%20Kleid) verantwortlich. Sie schuf die ersten [Urwesen](Die%20Urwesen.md), die **Urpflanzen**.
-
-**Feres**
+#### Feres
 Feres spendet den [Tieren](Die%20Tiere.md) Leben. Er schuf die **Urtiere**, die auch im Zuge von **Lygeas Kleid** entstanden sind.
-
-**Vigotha**
+#### Vigotha
 Vigotha schuf am Anfang der [dunklen Zeit](Die%20Dunkle%20Zeit.md) die **Urdämonen**. Im weiteren ist sie der Lebensgeist der [Dämonen](Die%20Dämonen.md), der nach der [Entlarvung der Dämonen](Die%20Entlarvung%20der%20Dämonen.md) in [Vigo](Die%20Sterne#Vigo) eingesperrt wurde.
-
-**Lapur**
+#### Lapur
 Lapur ist der Lebensgeist der [Elementare](Die%20Elementare.md). Er wurde zusammen mit den beiden folgenden Omnipha nach der dunklen Zeit erschaffen, als das [Leben wieder erblühte](Das%20Leben%20Erblüht.md).
-
-**Phanra**
+#### Phanra
 Genau wie Lapur, wurde Phanra zur Zeit erschaffen, als das Leben nach der dunklen Zeit wieder erblühte. Sie ist der Geist des Lebens für die [Mythen](Die%20Mythen.md).
-
-**Obiskur**
+#### Obiskur
 Obiskur wurde zur selben Zeit erschaffen wie Phanra und Lapur. Er ist der Lebensgeist der [Partikulare](Die%20Partikulare.md).
 
 # Der eine Omnipha
 Die Ereignisse der Schöpfungsgeschichte haben nicht nur für die Entstehung der Omnipha gesorgt, sondern auch für eine Art Neuorientierung der Lebensgeister.
 
 **Die Invis**
-Die 6 ursprünglichen Omnipha schufen also alle [Anomi](Die%20Anomi). Die [Invis](Die%20Invis) wurden allerdings von den [Regidea](Die%20Regidea) während des [ersten Dämonenkrieges](Der%20Erste%20Dämonenkrieg) geschaffen. Daher wurden die **Invis** auch von den **Regidea** beseelt.
+Die 6 ursprünglichen Omnipha schufen also alle [Anomi](Die%20Anomi). Die [Invis](Die%20Invis) wurden allerdings von den [Regidea](Die%20Regidea.md) während des [ersten Dämonenkrieges](Der%20Erste%20Dämonenkrieg) geschaffen. Daher wurden die **Invis** auch von den **Regidea** beseelt.
 Das änderte sich allerdings nach der [Strafe der Regimenta](Die%20Strafe%20der%20Regimenta). Die **Regidea** waren nicht mehr dazu in der Lage, Lebewesen aus nichts zu erschaffen, geschweige den diese mit neuen [Seelen](Die%20Seele) auszustatten. Diese Aufgabe ging also auch an die Omnipha über.
 
 **Vereinigung**
