@@ -32,17 +32,8 @@ Die Regidea selbst haben auch gewisse, regelmäßige, rituelle Gepflogenheiten.
 ## Der Rat von Catedra
 Als [Panteus](Panteus) noch existierte, pflegten die Regidea sich auf der Spitze des Berges **Catedra** zu versammeln. Bei einer solchen Versammlung tauschten sie Ereignisse und Ratschläge aus, gaben einander Feedback und lösten globale Probleme.
 ## Der Millennium Kongress
-// TODO
-Dieser ersetzte den **Rat von Catedra**, nach [Foras' Rache](Foras'%20Rache) . Zu Beginn eines jeden Jahrtausends versammeln sich die Regidea and einem Ort ihrer Wahl, Um das vergangen Jahrtausend zu besprechen. 
-
-
-- die Zeit steht still
-Zur selben Zeit findet eine [Konjunktion](Kosmische%20Ereignisse#Konjunktion%20-%20Elementarchaos) statt. In der Gruppe erlangen die Regidea dann wieder einen gewissen Teil ihrer Macht zurück.
-#### Das Ritual der Prophetie
-Während des **Millenium Kongresses** führen die Regidea ein Ritual durch, mit dessen Hilfe sie in die Zukunft sehen können. Dabei versammeln sie sich an einem Ort
-Dabei stellen sie sich im Kreis auf und kombinieren ihre Kräfte. Es entsteht, in ihrer Mitte, ein mächtiges Bündel aus mystischer Energie. Nur wenn alle 6 anwesend sind, ermöglicht ihnen dieses Bündel, in die Zeit hinein zu sehen.
-Während die Regidea in die Zeit sehen, hält Chrotem die Zeit an. Die gebündelte Magie wird wieder gelöst, sobald sie nicht mehr von allen 6 Regidea aufrechterhalten wird. Bricht das Bündel, endet das Ritual und die Zeit kehrt zu ihrem normalen Fluss zurück.
-Die Regidea verwenden die Zeitsicht, um eine mögliche Zukunft zu sehen. Anhand dieser möglichen Zukunft entscheiden sie dann, welche Maßnahmen sie für das nächste Jahrtausend ergreifen wollen.
+Dieser ersetzte den **Rat von Catedra**, nach [Foras' Rache](Foras'%20Rache).  Zu Beginn eines jeden Jahrtausends versammeln sich die Regidea and einem Ort ihrer Wahl. Dort präsentieren sie sich gegenseitig die Entwicklung ihrer [Völker](Die%20Invis), tauschen Ratschläge aus und diskutieren generell über das Vergangene Jahrtausend.
+Zur selben Zeit findet eine [Konjunktion](Kosmische%20Ereignisse#Konjunktion%20-%20Elementarchaos) statt und genau, wenn alle [Gestirne](Die%20Himmelskörper#Die%20Gestirne) in einer perfekten Linie stehen, stoppt [Chrotem](Die%20Gyrgothen#Chrotem) die Zeit. Das Universum friert ein, mit Ausnahme der Regidea und Chrotem selbst. In diesem Moment gewährt Chrotem den Regide, wie von den [Regimenta](Die%20Regimenta) beschlossen, Visionen über die Zukunft. Diese sind eher kryptischer Natur und die restliche Zeit der Versammlung nutzen die Regidea dann, um diese Auszuwerten und Pläne fürs kommende Jahrtausend zu machen.
 ## Die Seelen-Besänftigung
 Die erste Aufgabe der Regidea war es, [körperlose Seelen](Körperlose%20Seelen) zur Vernunft zu bringen und zu besänftigen. Dafür hat jeder Regidea seine eigene Methode entwickelt, aus denen sich später die **Seelen-Rituale** der [Invis](Die%20Invis) entwickelt haben:
 - **Dragnar** - Er besänftigt [Seelen](Die%20Seele), durch die Bereitstellung von Ruhebädern, z.B.: mystische Seen, Flüsse, Quellen, Saunen, Wellness Bereiche. Daraus entwickelten sich die [dragnarischen Seelenbäder](Die%20Dragnarier#Rituale).

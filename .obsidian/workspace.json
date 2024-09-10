@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lygea/Lebewesen/Die Ersten/Regidea/Die Regidea.md",
+                "file": "Lygea/Lebewesen/Die Ersten/Regidea/Foras.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lygea/Lebewesen/Die Ersten/Regidea/Die Regidea.md",
+                "file": "Lygea/Lebewesen/Die Ersten/Regidea/Foras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lygea/Lebewesen/Die Ersten/Regidea/Die Regidea.md",
+                "file": "Lygea/Lebewesen/Die Ersten/Regidea/Foras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lygea/Lebewesen/Die Ersten/Regidea/Die Regidea.md"
+                "file": "Lygea/Lebewesen/Die Ersten/Regidea/Foras.md"
               }
             }
           }
@@ -148,20 +148,20 @@
   },
   "active": "faa41e415c70e067",
   "lastOpenFiles": [
-    "Lygea/Lebewesen/Invis/Die Rowagier.md",
-    "Lygea/Lebewesen/Die Ersten/Regidea/Die Regidea.md",
-    "Lygea/Lebewesen/Invis/Die Invis.md",
-    "Lygea/Das Universum/Magie/Die Seele.md",
-    "Lygea/Das Universum/Magie/Körperlose Seelen.md",
-    "Lygea/Das Universum/Astronomie/Kosmische Ereignisse.md",
-    "Lygea/Das Universum/Mystik/Mystisches Potential.md",
     "Lygea/Lebewesen/Die Ersten/Regidea/Neriva.md",
-    "Lygea/Lebewesen/Die Ersten/Die Gyrgothen.md",
-    "Lygea/Lebewesen/Die Ersten/Regidea/Teya.md",
-    "Lygea/Lebewesen/Die Ersten/Regidea/Rowagass.md",
     "Lygea/Lebewesen/Die Ersten/Regidea/Foras.md",
     "Lygea/Lebewesen/Die Ersten/Regidea/Evel.md",
     "Lygea/Lebewesen/Die Ersten/Regidea/Dragnar.md",
+    "Lygea/Das Universum/Mystik/Mystisches Potential.md",
+    "Lygea/Lebewesen/Die Ersten/Regidea/Die Regidea.md",
+    "Lygea/Lebewesen/Die Ersten/Die Gyrgothen.md",
+    "Lygea/Das Universum/Astronomie/Kosmische Ereignisse.md",
+    "Lygea/Lebewesen/Invis/Die Rowagier.md",
+    "Lygea/Lebewesen/Invis/Die Invis.md",
+    "Lygea/Das Universum/Magie/Die Seele.md",
+    "Lygea/Das Universum/Magie/Körperlose Seelen.md",
+    "Lygea/Lebewesen/Die Ersten/Regidea/Teya.md",
+    "Lygea/Lebewesen/Die Ersten/Regidea/Rowagass.md",
     "Das Ende der Dunklen Zeit.md",
     "Lygea/Lebewesen/Die Ersten/Regidea/Untitled.md",
     "Lygea/Lebewesen/Die Ersten/Lygrassyl.md",
