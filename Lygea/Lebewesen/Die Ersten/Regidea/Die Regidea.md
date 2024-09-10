@@ -1,6 +1,6 @@
 Die Regidea können als weltliche Gottheiten bezeichnet werden. Sie sind sehr mächtige, [elementare](Die%20Elemente) Wesen. Sie wurden von den [Regimenta](Die%20Regimenta), für die Besänftigung von [Seelen](Die%20Seele) und als [Hüter der Schöpfung](Das%20Ende%20der%20Dunklen%20Zeit), geschaffen.
 
-Die Regidea sind außerdem die Schöpfer der [Invis](Die%20Invis) -Völker. Deshalb haben sie sich, im späteren Verlauf der Weltgeschichte, für die Völker Lygeas zu eigenen Gottheiten entwickelt.
+Die Regidea sind außerdem die Schöpfer der [Invis](Die%20Invis)-Völker. Deshalb haben sie sich, im späteren Verlauf der Weltgeschichte, für die Völker Lygeas zu eigenen Gottheiten entwickelt.
 # Die 6 Regidea
 Nach der [Strafe der Regimenta](Die%20Strafe%20der%20Regimenta) mussten sich die 6 Regidea jeweils um ihre geschaffenen **Invis** kümmern. Dazu wurde ihnen von **Lygea** sogenannte Hirtenwerkzeuge gegeben. Diese symbolischen Werkzeuge sollten die Regidea bei der Leitung ihrer Völker unterstützen.
 
