@@ -23,7 +23,7 @@ Obiskur wurde zur selben Zeit erschaffen wie Phanra und Lapur. Er ist der Lebens
 Die Ereignisse der Schöpfungsgeschichte haben nicht nur für die Entstehung der Omnipha gesorgt, sondern auch für eine Art Neuorientierung der Lebensgeister.
 
 **Die Invis**
-Die 6 ursprünglichen Omnipha schufen also alle [Anomi](Die%20Anomi). Die [Invis](Die%20Invis) wurden allerdings von den [Regidea](Die%20Regidea.md) während des [ersten Dämonenkrieges](Der%20Erste%20Dämonenkrieg) geschaffen. Daher wurden die **Invis** auch von den **Regidea** beseelt.
+Die 6 ursprünglichen Omnipha schufen also alle [Anomi](Die%20Anomi). Die [Invis](Die%20Invis) wurden allerdings von den [Regidea](Die%20Regidea.md) während des [ersten Dämonenkrieges](Der%20Erste%20Dämonenkrieg.md) geschaffen. Daher wurden die **Invis** auch von den **Regidea** beseelt.
 Das änderte sich allerdings nach der [Strafe der Regimenta](Die%20Strafe%20der%20Regimenta). Die **Regidea** waren nicht mehr dazu in der Lage, Lebewesen aus nichts zu erschaffen, geschweige den diese mit neuen [Seelen](Die%20Seele) auszustatten. Diese Aufgabe ging also auch an die Omnipha über.
 
 **Vereinigung**

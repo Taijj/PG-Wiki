@@ -1,4 +1,4 @@
-Die Regidea können als weltliche Gottheiten bezeichnet werden. Sie sind sehr mächtige, [elementare](Die%20Elemente) Wesen. Sie wurden von den [Regimenta](Die%20Regimenta), für die Besänftigung von [Seelen](Die%20Seele) und als [Hüter der Schöpfung](Das%20Ende%20der%20Dunklen%20Zeit), geschaffen.
+Die Regidea können als weltliche Gottheiten bezeichnet werden. Sie sind sehr mächtige, [elementare](Die%20Elemente) Wesen. Sie wurden von den [Regimenta](Die%20Regimenta), für die Besänftigung von [Seelen](Die%20Seele) und als [Hüter der Schöpfung](Das%20Ende%20der%20Dunklen%20Zeit.md), geschaffen.
 
 Die Regidea sind außerdem die Schöpfer der [Invis](Die%20Invis)-Völker. Deshalb haben sie sich, im späteren Verlauf der Weltgeschichte, für die Völker Lygeas zu eigenen Gottheiten entwickelt.
 # Die 6 Regidea
@@ -13,7 +13,7 @@ Im Folgenden werden die Regidea und ihre Hirtenwerkzeuge aufgelistet:
 - [Teya](Teya.md) die Hüterin der Erde - Wanderstab
 
 # Geschichte
-Die ersten zehntausende von Jahren ihrer Existenz verbrachten die Regidea damit, ihre jeweiligen [Seelen-Rituale](#Rituale) zu entwickeln und durchzuführen. Durch den [ersten Dämonenkrieg](Der%20Erste%20Dämonenkrieg) gaben sie diese Aufgabe dann an ihre **Invis**-Völker weiter, um die Streitigkeiten zwischen den [Anomi](Die%20Anomi) zu schlichten.
+Die ersten zehntausende von Jahren ihrer Existenz verbrachten die Regidea damit, ihre jeweiligen [Seelen-Rituale](#Rituale) zu entwickeln und durchzuführen. Durch den [ersten Dämonenkrieg](Der%20Erste%20Dämonenkrieg.md) gaben sie diese Aufgabe dann an ihre **Invis**-Völker weiter, um die Streitigkeiten zwischen den [Anomi](Die%20Anomi) zu schlichten.
 Über die Jahrtausende, bis hin zum Beginn von [Chrotems Kalender](Chrotems%20Kalender), entwickelten sie sich zu Führern und Lehrern ihrer Völker. Diese Position nahmen sie selbst nach der **Strafe der Regimenta** noch ein.
 # Fähigkeiten
 Die Fähigkeiten der Regidea haben sich während der Schöpfungsgeschichte stark gewandelt. Waren sie am Anfang noch so etwas wie eine abgeschwächte Variante der [Regimenta](Die%20Regimenta), wurde ihr [mystisches Potenzial](Mystisches%20Potential) allerdings nach der der Strafe auf [Level X](Mystisches%20Potential#Level%20X%20-%20Gottheiten%20Level) reduziert.
