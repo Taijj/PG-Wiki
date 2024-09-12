@@ -1,0 +1,5 @@
+
+/* Hides blank line above tables, but only in edit mode...
+.cm-line:has(+ .cm-embed-block.cm-table-widget) br {
+	display: none;
+}*/
