@@ -2,10 +2,10 @@ Die Pflanzen sind die zahl- und formreichste Art der [Anomi](Die%20Anomi). Sie w
 # Arten
 Die aufgelisteten Pflanzenarten waren die ersten, ursprünglichen Arten. Aus diesen haben sich über die Zeit viele neue Pflanzen entwickelt.
 
-| [[#^Blumen]]           | [[#^Wasserpflanzen]] | [[#^Wurzler]]        |
-| ---------------------- | -------------------- | -------------------- |
-| [[#^Graeser\|^Gräser]] | [[#^Kakteen]]        | [[#^Baeume\|^Bäume]] |
-| [[#^Schlinger]]        | [[#^Moose]]          | [[#^Sporoiden]]      |
+| [[#^Blumen]] | [[#^Wasserpflanzen]] | [[#^Wurzler]] |
+| --- | --- | --- |
+| [[#^Graeser\|^Gräser]] | [[#^Kakteen]] | [[#^Baeume\|^Bäume]] |
+| [[#^Schlinger]] | [[#^Moose]] | [[#^Sporoiden]] |
 
 >[!plant] Blumen
 Sehr friedliche Pflanzen, die große, bunt-gesättigte Blüten haben und einen wohligen, frischen Geruch verbreiten.
