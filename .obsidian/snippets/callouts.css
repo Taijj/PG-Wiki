@@ -1,9 +1,29 @@
 .callout[data-callout="plant"] {
 	--callout-color: 171, 235, 148;
-	--callout-icon: lucide-flower-2;
+	--callout-icon: lucide-sprout;
 }
 
 .callout[data-callout="demon"] {
 	--callout-color: 118, 72, 181;
 	--callout-icon: lucide-brain-cog;
+}
+
+.callout[data-callout="animal"] {
+	--callout-color: 153, 102, 60;
+	--callout-icon: lucide-squirrel;
+}
+
+.callout[data-callout="mythos"] {
+	--callout-color: 92, 172, 181;
+	--callout-icon: lucide-star;
+}
+
+.callout[data-callout="elemental"] {
+	--callout-color: 191, 181, 94;
+	--callout-icon: lucide-sparkles;
+}
+
+.callout[data-callout="particular"] {
+	--callout-color: 191, 63, 110;
+	--callout-icon: lucide-torus;
 }
