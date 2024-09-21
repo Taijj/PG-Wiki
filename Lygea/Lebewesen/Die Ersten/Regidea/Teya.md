@@ -5,7 +5,7 @@ Teya ist die [Regidea](Die%20Regidea) der [Erde](Die%20Elemente). Teya liebt die
 {{IMAGE}}
 # Info
 
-| Spezies                  | Mystisches Potential                                                   | Element                                    |
+| **Spezies**                  | **Mystisches Potential**                                                   | **Element**                                    |
 | ------------------------ | ---------------------------------------------------------------------- | ------------------------------------------ |
 | [Regidea](Die%20Regidea) | [Level X/S](Mystisches%20Potential#Level%20X%20-%20Gottheiten%20Level) | [Erde](Die%20Elemente)                     |
 | **Symbol**               | **Seelenritual**                                                       | **Werte**                                  |

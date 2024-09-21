@@ -5,7 +5,7 @@ Dragnar ist der [Regidea](Die%20Regidea) des [Wassers](Die%20Elemente). Er liebt
 {{IMAGE}}
 # Info
 
-| Spezies                  | Mystisches Potential                                                   | Element                                                      |
+| **Spezies**              | **Mystisches Potential**                                               | **Element**                                                  |
 | ------------------------ | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [Regidea](Die%20Regidea) | [Level X/S](Mystisches%20Potential#Level%20X%20-%20Gottheiten%20Level) | [Wasser](Die%20Elemente)                                     |
 | **Symbol**               | **Seelenritual**                                                       | **Werte**                                                    |

@@ -4,7 +4,8 @@ Rowagass ist die [Regidea](Die%20Regidea) der [Luft](Die%20Elemente). Sie liebt 
 # Bild
 {{IMAGE}}
 # Info
-| Spezies                            | Mystisches Potential                                                   | Element                                                             |
+
+| **Spezies**                        | **Mystisches Potential**                                               | **Element**                                                         |
 | ---------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Regidea](Die%20Regidea)           | [Level X/S](Mystisches%20Potential#Level%20X%20-%20Gottheiten%20Level) | [Luft](Die%20Elemente)                                              |
 | **Symbol**                         | **Seelenritual**                                                       | **Werte**                                                           |
