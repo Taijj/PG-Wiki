@@ -4,7 +4,8 @@ Neriva ist die [Regidea](Die%20Regidea) des [Lichts](Die%20Elemente). Neriva lie
 # Bild
 {{IMAGE}}
 # Info
-| Spezies                  | Mystisches Potential                                                   | Element                                    |
+
+| **Spezies**              | **Mystisches Potential**                                               | **Element**                                |
 | ------------------------ | ---------------------------------------------------------------------- | ------------------------------------------ |
 | [Regidea](Die%20Regidea) | [Level X/S](Mystisches%20Potential#Level%20X%20-%20Gottheiten%20Level) | [Licht](Die%20Elemente)                    |
 | **Symbol**               | **Seelenritual**                                                       | **Werte**                                  |

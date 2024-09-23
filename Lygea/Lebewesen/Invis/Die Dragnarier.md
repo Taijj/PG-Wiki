@@ -2,14 +2,47 @@
 
 Die Dragnarier sind eine Art der [[Die Invis|Invis]], bzw. das Volk des [[Die Elemente|Wassers]]. Mit ihren Schiffen fahren sie über die Ozeane, um mit anderen Völkern Handel zu treiben und die Welt zu erkunden. Sie sind sehr kooperativ eingestellt, werden allerdings schnell angriffslustig,
 sobald ihr Besitz in Gefahr ist.
-# Übersicht
->[!animal] Allgemeines
-> - Schöpfer: Dragnar
-> - Übergeordnete Spezies: Invis
-> - Element: Wasser
-> - Mystisches Potential: Level B/C
-> - Mystische Technik: Die Arme von Ves
-> - Seelen-Ritual: Seelenbad
+--- start-multi-column: ID_ptgr
+```column-settings
+Number of Columns: 3
+Largest Column: standard
+Border: off
+```
+
+>[!common] Allgemeines
+> **Schöpfer**
+> 	Dragnar
+> **Übergeordnete Spezies**
+> 	Invis
+> **Element**
+> 	Wasser
+> **Mystisches Potential**
+> 	Level B/C
+> **Mystische Technik**
+> 	Die Arme von Ves
+> **Seelen-Ritual**
+> 	Seelenbad 
+
+--- column-break ---
+
+>[!note] Allgemeines
+> **Schöpfer**
+> 	Dragnar
+> **Übergeordnete Spezies**
+> 	Invis
+> **Element**
+> 	Wasser
+> **Mystisches Potential**
+> 	Level B/C
+> **Mystische Technik**
+> 	Die Arme von Ves
+> **Seelen-Ritual**
+> 	Seelenbad 
+
+--- end-multi-column
+
+
+
 
 
 Physik

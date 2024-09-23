@@ -5,7 +5,7 @@ Evel ist der [Regidea](Die%20Regidea) des [Schattens](Die%20Elemente). Er mag di
 {{IMAGE}}
 # Info
 
-| Spezies                  | Mystisches Potential                                                   | Element                                           |
+| **Spezies**                  | **Mystisches Potential**                                                   | **Element**                                           |
 | ------------------------ | ---------------------------------------------------------------------- | ------------------------------------------------- |
 | [Regidea](Die%20Regidea) | [Level X/S](Mystisches%20Potential#Level%20X%20-%20Gottheiten%20Level) | [Schatten](Die%20Elemente)                        |
 | **Symbol**               | **Seelenritual**                                                       | **Werte**                                         |

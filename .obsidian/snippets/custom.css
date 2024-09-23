@@ -1,5 +1,14 @@
 
-/* Hides blank line above tables, but only in edit mode...
+/* Hides blank line above tables, but only in edit mode... */
 .cm-line:has(+ .cm-embed-block.cm-table-widget) br {
 	display: none;
-}*/
+}
+
+/* Remove bold from table headers */
+.markdown-preview-view th {
+    font-weight:normal;
+}
+
+.cm-s-obsidian .cm-table-widget th {
+    font-weight:normal;
+}
