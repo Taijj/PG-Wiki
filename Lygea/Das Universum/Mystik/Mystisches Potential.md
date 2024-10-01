@@ -77,7 +77,7 @@ Level A bilden, einfach gesprochen, mythologische Kreaturen, deren Fähigkeiten 
 - Einschränkungen: Level B Wesen haben generell wenige Probleme Singulär-Animation zu erlernen, sind aber auf ein 1-Element/Emotion und deren Nachbarn beschränkt.
 
 **Beispiele**
-- [Nerivaner](Die%20Nerivaner) können nur Licht, Kristall, Nuklear, Blitz und Leben animieren.
+- [Nerivaner](Die%20Nerivaner.md) können nur Licht, Kristall, Nuklear, Blitz und Leben animieren.
 - [Forasier](Die%20Forasier) können nur Feuer, Metall, Nuklear, Schall und Negativ animieren.
 ## Level C - Verurteilten Level
 - Typische Vertreter: Die **Invis** Kinder

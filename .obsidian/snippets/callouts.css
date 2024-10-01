@@ -27,3 +27,26 @@
 	--callout-color: 191, 63, 110;
 	--callout-icon: lucide-torus;
 }
+
+
+
+.callout[data-callout="common"] {
+	--callout-color: 150, 170, 150;
+	--callout-icon: lucide-align-left;
+}
+.callout[data-callout="physical"] {
+	--callout-color: 150, 170, 150;
+	--callout-icon: lucide-activity;
+}
+.callout[data-callout="from-reality"] {
+	--callout-color: 150, 170, 150;
+	--callout-icon: lucide-scan;
+}
+.callout[data-callout="fertility"] {
+	--callout-color: 150, 170, 150;
+	--callout-icon: lucide-copy;
+}
+.callout[data-callout="cultural"] {
+	--callout-color: 150, 170, 150;
+	--callout-icon: lucide-book-text;
+}

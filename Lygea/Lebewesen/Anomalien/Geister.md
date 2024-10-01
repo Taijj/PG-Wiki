@@ -1,0 +1,14 @@
+Geister sind [[Die Emotionen|emotional]] aufgeladene Lebewesen, deren Körper aus instabiler Materie bestehen. Sie bewegen sich meistens schwebend fort und suchen besonders Orte mit ähnlich aufgeladenen [[Die Seele#Die Aura|Auren]] heim.
+# Entstehung
+Geister entstehen aus [[Körperlose Seelen|körperlose Seelen]], die bereits einige Zeit ohne Körper umherirren. Eine [[Die Seele|Seele]] hat sich über diese Zeit mit entsprechenden, oft negativen, **Emotionen** angereichert. Wenn diese Mischung zu stark wird, beginnt die **Seele** Materie anzuziehen, bis ein geisterhafter Körper daraus entsteht.
+# Körperliche Eigenschaften
+Die Instabilität dieser geisterhaften Körper manifestiert sich auf viele unterschiedliche Arten. Sie können z.B. durchsichtig, unsichtbar oder unantastbar sein. Viele Geister können auch zwischen Sichtbarkeit und Unsichtbarkeit, Antastbarkeit und Unantastbarkeit hin- und herwechseln.
+Die **Seelen** von Geistern ergreifen, technisch gesprochen, von der Luft oder anderen Gasen Besitz. Deshalb können Geister sogar auch als besondere Art von [[Besessene|Besessenen]] gesehen werden.
+# Geistige Eigenschaften
+Die **Seele** eines Geistes ist sehr stark mit einer bestimmten **Emotion** gesättigt. Diese emotionale Sättigung bestimmt, wie der Geist sich verhält, welche Orte oder Personen er heimsucht und wie man den Geist wieder loswerden kann. Auch seine [[Die Mystik|mystischen Fähigkeiten]] werden davon bestimmt.
+Mit welcher **Emotion** ein Geist aufgeladen ist, ob und welche Ziele er verflogt, hängt von den Umständen ab, in dem sein ursprünglicher Körper den Tod fand.
+# Lebensdauer
+Hat sich erst einmal ein Geist gebildet, fängt dessen **Seele** ebenfalls an, **Emotionen** in die Umgebung abzugeben. Befindet sich ein Geist in einer entsprechenden **Aura**, kann er dort so lange existieren, wie die **Aura** selbst, was potenziell ewig sein kann. Die **Aura** und der Geist halten sich so gegenseitig am Leben.
+Ohne eine passende **Aura** als Lebensraum, wie z.B. Friedhöfe oder Schlachtfelder, löst sich der Geist ganz langsam in seine emotionalen Bestandteile auf. Dieser Prozess kann allerdings ebenfalls Jahrzehnte dauern.
+# Austreibung
+Um einen Geist los zu werden, reicht die Zerstörung seines Körpers, z.B. durch körperliche Angriffe, im Allgemeinen nicht aus. Viele Geister reagieren erst gar nicht auf physische Angriffe. Eine korrekte Austreibung eines Geistes hängt natürlich von der Art des Geistes ab. Die bekanntesten und effizientesten Methoden sind allerdings die sogenannten **Seelen-Rituale** der [[Die Regidea|Regidea]], die sie und ihre [[Die Invis|Invis]] regelmäßig praktizieren.

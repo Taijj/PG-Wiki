@@ -8,6 +8,7 @@ sobald ihr Besitz in Gefahr ist.
 Number of Columns: 3
 Largest Column: standard
 Border: off
+Shadow: off
 ```
 
 >[!common] Allgemeines
@@ -28,9 +29,9 @@ Border: off
 
 >[!physical] Physik
 > **Größe**
-> *152cm*
+> *152 cm*
 > **Gewicht**
-> *75kg*
+> *75 kg*
 > **Energiebedarf**
 > *1500 kcal pro Tag*
 > **Flüssigkeitsbedarf**
@@ -55,6 +56,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 Number of Columns: 2
 Largest Column: standard
 Border: off
+Shadow: off
 ```
 
 >[!fertility] Fortpflanzung

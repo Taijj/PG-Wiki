@@ -11,9 +11,9 @@ südöstlichen Teil, ist alles dabei.
 ## Finnindor
 Den Wüstenkontinent nennen die [Teyaner](Die%20Teyaner) ihr Heim. Neben der größten Wüste des Planeten, beherbergt der Kontinent außerdem noch einen großen Dschungel, der sich in den feuchteren, nördlichen Gebieten befindet.
 ## Cantien
-Bis auf einige Steppen im Norden ist dieser Kontinent mild bis kalt. Die weit verteilten Gebirge beherbergen die [Rowagier](Die%20Rowagier), die von den Bergspitzen aus sogar einige der fliegenden Inseln besiedelt haben.
+Bis auf einige Steppen im Norden ist dieser Kontinent mild bis kalt. Die weit verteilten Gebirge beherbergen die [Rowagier](Die%20Rowagier.md), die von den Bergspitzen aus sogar einige der fliegenden Inseln besiedelt haben.
 ## Silviem
-Die größte Fläche dieses Kontinents ist ein durchgehender Wald, den die [Nerivaner](Die%20Nerivaner) ihr Zuhause nennen. Der große Wald von Silviem erstreckt sich von den eher subtropischen Gebieten der nördlichen Küsten bis Schnee bedeckten Gipfeln im Süden.
+Die größte Fläche dieses Kontinents ist ein durchgehender Wald, den die [Nerivaner](Die%20Nerivaner.md) ihr Zuhause nennen. Der große Wald von Silviem erstreckt sich von den eher subtropischen Gebieten der nördlichen Küsten bis Schnee bedeckten Gipfeln im Süden.
 ## Galerkis
 Die Galerkis ist der massive Gletscher im Norden. Ihre Landschaft ist groß, weit, zerklüftet und kalt. In dieser Einöde leben nur einige der [Anomi](Die%20Anomi.md), denen die beißende Kälte nichts ausmacht. Es dauerte lange, bis die ersten Invis es auch nur versuchten sich dort niederzulassen.
 

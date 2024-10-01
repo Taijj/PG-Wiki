@@ -4,7 +4,7 @@ Lygrassyl ist ein großer, sehr alter Baum voller Licht und Leben, der den groß
 | -------------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
 | [Urpflanze](Die%20Urwesen) | [Level S](Mystisches%20Potential#Level%20S%20-%20Wächter%20Level) | Baum des Lebens, Baum des Lichts, Heilige Mutter |
 # Freund der Nerivaner
-Lygrassyl ist eines der wenigen bekannten, noch lebende **Urwesen**. Sie steht in enger Freundschaft mit den [Nerivanern](Die%20Nerivaner), vor allem mit deren Matriarchin [Neriva](Neriva.md). Der größte Teil der nerivanischen Siedlungen wurden um den Stamm des großen Baumes errichtet. **Neriva** und
+Lygrassyl ist eines der wenigen bekannten, noch lebende **Urwesen**. Sie steht in enger Freundschaft mit den [Nerivanern](Die%20Nerivaner.md), vor allem mit deren Matriarchin [Neriva](Neriva.md). Der größte Teil der nerivanischen Siedlungen wurden um den Stamm des großen Baumes errichtet. **Neriva** und
 ihr Volk pflegen Lygrassyl und sie hat sich für sie zu einem Heiligtum entwickelt.
 
 # Lebensspender

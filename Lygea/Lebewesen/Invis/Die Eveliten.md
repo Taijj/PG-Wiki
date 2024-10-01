@@ -6,6 +6,7 @@ Die Eveliten sind eine Art der [[Die Invis|Invis]]. Sie sind das Volk des [[Die 
 Number of Columns: 3
 Largest Column: standard
 Border: off
+Shadow: off
 ```
 
 >[!common] Allgemeines
@@ -26,9 +27,9 @@ Border: off
 
 >[!physical] Physik
 > **Größe**
-> *220cm*
+> *220 cm*
 > **Gewicht**
-> *65kg*
+> *65 kg*
 > **Energiebedarf**
 > *900 kcal pro Tag*
 > **Flüssigkeitsbedarf**
@@ -53,6 +54,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 Number of Columns: 2
 Largest Column: standard
 Border: off
+Shadow: off
 ```
 
 >[!fertility] Fortpflanzung
