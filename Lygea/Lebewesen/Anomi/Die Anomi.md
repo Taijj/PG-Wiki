@@ -1,5 +1,5 @@
 Die Anomi sind die "nichtmenschlichen" Kreaturen von Lygea. Sie umfassen Kreaturen wie beispielsweise Tiere, Pflanzen, Fabelwesen, mythologische Kreaturen und Monster. Die Anomi wurden von den [Regimenta](Die%20Regimenta) und den [Omnipha](Die%20Omnipha) erschaffen. Sie sollten die
-neuen Körper für die [Seelen](Die%20Seele) der [Urwesen](Die%20Urwesen) sein, die die [Regidea](Die%20Regidea) während der [dunklen Zeit](Die%20Dunkle%20Zeit) gesammelt hatten.
+neuen Körper für die [Seelen](Die%20Seele) der [Urwesen](Die%20Urwesen.md) sein, die die [Regidea](Die%20Regidea) während der [dunklen Zeit](Die%20Dunkle%20Zeit) gesammelt hatten.
 # Arten
 Bei der Erschaffung der Anomi haben sich jeweils ein **Regimenta** und ein **Omnipha** zusammengetan. So sind die folgenden 6 Arten entstanden:
 - Die [Tiere](Die%20Tiere)

@@ -6,8 +6,8 @@ Eine [Seele](Die%20Seele), die ihren Körper aus irgendeinem Grund verliert, exi
 Körperlose Seelen lösen sich in ihre Einzelteile - also [Emotionen](Die%20Emotionen), Charakterzüge, Erinnerungen, etc.- auf. Dabei können bestimmte Einzelteile in einer **Seele** sehr stark ausgeprägt sein. Ihr Zustand, wenn sie ihren Körper verlässt, verstärkt dabei ebenfalls, welcher Teil der **körperlosen Seele** besonders stark ist.
 Die stärksten Teile, sowie die, die der **Seele** zum Lebzeiten sehr wichtig waren, sorgen dafür, dass sie von entsprechend ähnlich ausgeprägten [Auren](Die%20Seele#Die%20Aura) angezogen wird. Deshalb sind an Orten mit starken **Auren**, meistens ebenfalls eine Vielzahl an entsprechenden **körperlosen Seelen** zu finden.
 
-**Beispiel**
-	Ein Lebewesen stirbt und empfindet dabei großen Zorn. Die **Seele** legt langsam alles ab, was nicht **Zorn** ist und wird von zornigen **Auren** angezogen. In einer solchen **Aura** wird die **Seele** dann von Zorn gesättigt.
+>[!example]- Beispiel
+>Ein Lebewesen stirbt und empfindet dabei großen Zorn. Die **Seele** legt langsam alles ab, was nicht **Zorn** ist und wird von zornigen **Auren** angezogen. In einer solchen **Aura** wird die **Seele** dann von Zorn gesättigt.
 
 # Anomalien
 Eine **Seele**, die bemerkt, wie sie sich zersetzt, hat meistens das Bedürfnis, schnell einen neuen Körper zu besitzen. Ein Körper ist wie ein Gefäß für eine **Seele**, was diese stabilisiert. Eine **körperlose Seele** läuft so mit der Zeit immer mehr Gefahr, zu einem [Geist](Geister.md),
