@@ -1,0 +1,4 @@
+Das zweite Ereignis der Schöpfung Lygeas war die Entstehung der [[Die Elemente|Elemente]] und der [[Die Emotionen|Emotionen]]. Durch [[Die neue Ordnung der Magie]] wurden die Grundlagen der lygeanischen Realität gelegt. Diese Grundlagen, die beiden Seins-Ebenen **Körper** und **Geist**, sowie die [[Die Singularitäten|Singularitäten]], wurden anschließend um die körperlichen und geistigen Grundbausteine erweitert.
+
+Die **Singularitäten** reagierten mit den beiden **Seins-Ebenen** und verknüpften einander so gegenseitig. Diese Verknüpfungen waren die Grundbausteine der Materie, die **Elemente**, sowie die Grundbausteine der [[Die Seele|Seele]], die **Emotionen**.
+{{IMAGE}}

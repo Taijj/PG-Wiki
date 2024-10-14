@@ -1,4 +1,4 @@
-Lygrassyl ist ein großer, sehr alter Baum voller Licht und Leben, der den großen Wald im nördlichen [Silviem](Die%20Kontinente) überschattet. Sie ist eines der wenigen [Urwesen](Die%20Urwesen.md), die die [dunkle Zeit](Die%20Dunkle%20Zeit) überlebt haben.
+Lygrassyl ist ein großer, sehr alter Baum voller Licht und Leben, der den großen Wald im nördlichen [Silviem](Die%20Kontinente) überschattet. Sie ist eines der wenigen [Urwesen](Die%20Urwesen.md), die die [dunkle Zeit](Die%20Dunkle%20Zeit.md) überlebt haben.
 
 | Spezies                    | Mystisches Potential                                              | Alternative Namen                                |
 | -------------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |

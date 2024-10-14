@@ -1,0 +1,7 @@
+Die Entlarvung der Dämonen ist ein Ereignis der Schöpfungsgeschichte.
+# Dämonischer Leichtsinn
+Während die [[Die Anomi|Anomi]] und die [[Die Invis|Invis]] um ihre Verluste aus dem [[Der Zweite Dämonenkrieg|zweiten Dämonenkrieg]] trauerten, suchten die [[Die Dämonen|Dämonen]] bereits neue Wege, den Frieden wieder zu zerstören. Dabei waren sie übermütig und versuchten die [[Die Regidea|Regidea]] selbst zu manipulieren, da sie in diesen ihre stärksten Gegenspieler sahen. Die **Regidea** sorgten immer wieder dafür, dass die perfekte Welt, für die **Dämonen**, zerstört wurde und mussten beseitigt werden. Ihre Manipulationsversuche wurden allerdings sofort aufgedeckt.
+# Verständnis
+Die **Regidea** verstanden jetzt auch, wie die vorherigen Streitigkeiten so auswuchern konnten. Gemeinsam suchten sie Rat bei den [[Die Regimenta|Regimenta]], denn sie wussten nicht mehr, was sie machen sollten. Die **Dämonen** waren auch ein Teil der Schöpfung, die sie als Teil ihrer Aufgaben zu beschützen hatten. Doch gefährdeten die **Dämonen** langfristig die Sicherheit und den Frieden der restlichen Schöpfung.
+# Der rote Stern
+In dieser Konferenz zwischen den **Regimenta** und den **Regidea** wurde entschieden, dass die [[Die Omnipha|Omnipha]] **Vigotha** und ihre Geschöpfe, die **Dämonen**, versiegelt werden sollten. **Vigotha** wurde in einem [[Die Sterne|Stern]] versiegelt und konnte von diesem Zeitpunkt an keine Wesen mehr schaffen. Der **Stern** bekam den Namen [[Die Sterne#Vigo|Vigo]] und sein rotes leuchten zierte von diesem Tage an den lygeanischen Nachthimmel.
