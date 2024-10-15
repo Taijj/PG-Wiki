@@ -102,6 +102,9 @@ Die Haut von Nerivanern wird, mit zunehmendem Alter, faltig und verliert an Farb
 Wenn eine Frau fruchtbar ist, trägt sie bunte Blüten in ihrem **Laub**. Nach der Befruchtung durch Geschlechtsverkehr, wachsen aus diesen Blüten Früchte. Wenn die Früchte groß genug geworden sind, fallen sie ab und werden in die Brut gegeben.
 Während der Brut werden die Früchte mit Licht, Wasser und Wärme gepflegt, bis ein nerivanisches Kind aus der Frucht schlüpft. Die Brüste nerivanischer Frauen geben zu Stillzeit einen Fruchtsaft ab, mit dem sie das Kind stillen.
 ## Sänger und Schützen
+
+^4f6f4f
+
 Innerhalb der nerivanischen Rasse, gibt es zwei deutlich unterscheidbare "Unterrassen"
 - **Sänger** besitzen klare, angenehme Stimmen und verstehen instinktiv mit diesen sowohl im Gesang, als auch im Sprechen umzugehen.
 - **Schützen** tendieren dazu schlagkräftig und taff zu sein. Sie besitzen Selbstbewusstsein und Geduld. Nervosität ist ihnen zumeist fremd.

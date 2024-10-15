@@ -41,4 +41,4 @@ Die erste Aufgabe der Regidea war es, [körperlose Seelen](Körperlose%20Seelen)
 - **Foras** - Viele **Seelen** waren voller Aggressionen und Wahnsinn. Foras forderte solche zum Zweikampf und half ihnen sich so abzureagieren. Das forasische [Seelenkampf-Ritual](Die%20Forasier#Rituale) entstand daraus.
 - **Neriva** - Durch ihren konstanten Gesang, berührte und besänftigte sie viele **Seelen**. Die Nerivaner führten ihre Arbeit mit dem [Seelenlied-Ritual](Die%20Nerivaner.md#Rituale) fort.
 - **Rowagass** - Sie motivierte irrende **Seelen**, mit ihr zu Tanzen. Der Tanz und das Lachen von Rowagass besänftigten alle Seelen, die mit ihr tanzten. Das rowagische [Seelentanz-Ritual](Die%20Rowagier.md#Rituale) entwickelte sich daraus.
-- **Teya** - Teya begleitete irrende **Seelen** und sprach sanft zu ihnen, so lange, bis diese sich beruhigten. Daraus entwickelte sich das teyanische [Seelenreise-Ritual](Die%20Teyaner#Rituale).
+- **Teya** - Teya begleitete irrende **Seelen** und sprach sanft zu ihnen, so lange, bis diese sich beruhigten. Daraus entwickelte sich das teyanische [Seelenreise-Ritual](Die%20Teyaner.md#Rituale).

@@ -9,7 +9,7 @@ Gebirgsinselgruppe der **De Monaltas** im Südosten, werden allerdings von den [
 Durandar wird vorrangig von den [Forasiern](Die%20Foraiser) bewohnt, die den [Dragnariern](Die%20Dragnarier) aber immerhin die südwestlichen Küsten und Inseln zugestehen. Die Landschaft ist sehr Abwechslungsreich, von den hohen, kalten Gebirgen im Norden, bis zu einer kleinen Sandwüste, im
 südöstlichen Teil, ist alles dabei.
 ## Finnindor
-Den Wüstenkontinent nennen die [Teyaner](Die%20Teyaner) ihr Heim. Neben der größten Wüste des Planeten, beherbergt der Kontinent außerdem noch einen großen Dschungel, der sich in den feuchteren, nördlichen Gebieten befindet.
+Den Wüstenkontinent nennen die [Teyaner](Die%20Teyaner.md) ihr Heim. Neben der größten Wüste des Planeten, beherbergt der Kontinent außerdem noch einen großen Dschungel, der sich in den feuchteren, nördlichen Gebieten befindet.
 ## Cantien
 Bis auf einige Steppen im Norden ist dieser Kontinent mild bis kalt. Die weit verteilten Gebirge beherbergen die [Rowagier](Die%20Rowagier.md), die von den Bergspitzen aus sogar einige der fliegenden Inseln besiedelt haben.
 ## Silviem
