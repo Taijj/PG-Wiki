@@ -1,0 +1,22 @@
+Dieser Artikel beschreibt die Geschichte des [[Die Teyaner|teyanischen Volkes]] in groben Zügen.
+# Die Anfänge
+Wie alle [[Die Invis|Invis]]-Völker, wurden die Teyaner während des [[Der Erste Dämonenkrieg|ersten Dämonenkrieges]] geschaffen. [[Teya]] schuf sich ein Volk, was das [[Die Teyaner#Die Aufgabe - Das Seelenreise-Ritual|Seelenreise-Ritual]] weiterführen sollte. Das lehrte **Teya** ihrem Volk und während der ersten Jahrtausende machten die Teyaner nichts anderes, als damit [[Die Seele#Körperlose Seelen|Seelen]] zu besänftigen.
+Die Ereignisse des [[Der Zweite Dämonenkrieg|zweiten Dämonenkrieges]] berührten die Teyaner nicht, also führten sie auch in dieser Zeit das **Seelenreise-Ritual** fort.
+# Das erste Jahrtausend
+Im ersten [[Die Regidea#Der Millennium Kongress|Millenium Kongress]] beschloss **Teya**, mit ihrem Volk auf [[Die Kontinente#Finnindor|Finnindor]] zu bleiben. Sie sammelte alle Teyaner und zog mit ihnen in die die große Wüste **Frades**, an die Quelle des Flusses **Niive**.
+## Zeit der Befestigung
+Ungleich den anderen [[Die Regidea|Regidea]], entschied **Teya**, ihr Volk auf Pilgerreisen zu schicken, anstelle von Siedlungen zu bauen. Sie sandte ihre [[Die Invis#Die Ältesten|Ältesten]] in Paaren hinaus in die Wüste, mit dem Auftrag das Volk wachsen zu lassen.
+Diese Familienstämme, die sich aus den jeweiligen **Ältestenpaaren** entwickelten, entdeckten [[Die Ersten Oasen|die ersten Oasen]] und benannten sie. Auf ihren Reisen begegneten ihnen vielen angriffslustigen [[Die Anomi|Anomi]]. Darum lehrte **Teya** ihrem Volk eine waffenlose Kampfkunst und wies sie an, diese nur zur Verteidigung zu nutzen.
+Dennoch waren sie häufig unterlegen. Geschlagen suchten sie dann einen Ort, zu dem sie zurückkehren konnten. So bauten die ersten **Teyaner**, mit ihren [[Die Mystik#Basierend auf Animation|Animationfähigkeiten]], die ersten Lehmhäuser, die im Schutz des großen Gebirges **Magnupeta** standen. Da sich viele **Anomi** durch diese ersten Siedlungen bedroht fühlten, griffen sie häufig auch dort an. Die Teyaner beschlossen deshalb einen großen Wall um ihren Zufluchtsort zu errichten. Dieser war so massiv, dass nur Teyaner mit ihren **Animationsfähigkeiten** hindurchtreten konnten. Dort begann dann später auch der Bau von **Bodh Saxur**, der großen Tempelstadt, in der **Teya** sich niederließ.
+## Zeit der Entwicklung
+Auf ihren Reisen, sowie beim Bau der Tempelstadt, lehrte **Teya** ihrem Volk die Entwicklung von Keramik, Stoffverarbeitung und half ihnen bei der Erfindung des Papiers und Glases. Ebenso, im Laufe der Pilgerreisen, entwickelten die Teyaner ihre eigene, simple Sprache. Darauf basierend lehrte **Teya** ihrem Volk Hieroglyphen, sodass sie ihre Entdeckungen und Erfahrungen festhalten konnten.
+Zur Zeit der Fertigstellung **Bodh Saxurs** stellte sich eine der **Ältesten** gegen **Teya** und, daraus resultierend, befahl sie allen **Ältesten** in der Tempelstadt als [[Die Teyaner#Gesellschaft|Mönche]] zu bleiben. Dazu diktierte sie die **Gesetze des Gleichen**. Details dazu sind in der Erzählung von [[Ma-Teys Verrat]] beschrieben.
+### Fra-Leq-Kan
+Eine bedeutende Figur dieser Zeit war [[Fra-Leq-Kan]] , der mit seinen Reisen viele Oasen entdeckte und diese zu schützenden Siedlungen ausbaute. Seine Errungenschaften werden in [[Fra-Leq-Kans Reisen]] genauer beschrieben.
+
+**Fras** Familie war auch die erste, die aus der Wüste hinaus pilgerte und so eine Siedlung der [[Die Dragnarier|Dragnarier]] entdeckte. Details zu dieser Begegnung befinden sich in [[Die Entdeckung Finnindors#Fra-Leq-Kan|diesem Artikel]].
+## Zeit des Austausches
+In den letzten 4 Jahrhunderten ging das Leben der Teyaner friedlich weiter. Sie pilgerten durch die Wüste, ihre Stämme wuchsen langsam und neue, kleinere Stämme entstanden. Einige der Stämme entschieden sich sesshaft zu werden und in diesen jungen Siedlungen blieben einige Teyaner als **Mönche**, bauten Schreine und pflegten diese.
+Dadurch wuchsen auch diese Siedlungen ein wenig. Hin und wieder fühlten sich einige **Anomi** dadurch verdrängt und reagierten aggressiv, doch diese Konflikte wurden friedlich gelöst.
+
+Trotz ihrer traditionelleren Ausrichtung, begannen einige Familien oder Siedlungen sich ganz langsam von den spirituellen Wurzeln des Volkes weg zu bewegen. Dieser Prozess war so langsam, dass es schwer zu sagen ist, welche Idee und abweichende Lehre sich wann bei den Teyanern durchgesetzt hatte.
