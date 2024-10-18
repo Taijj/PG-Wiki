@@ -1,0 +1,15 @@
+Dieser Artikel berichtet über die Entstehung des [[Die Teyaner#Die Reife - Die alleinige Reise|teyanischen Reife-Rituals]]. Er ist Teil der [[Teyanische Geschichte|teyanische Geschichte]].
+# Die List der Hyänen
+Der [[Die Ersten Oasen|Ve-Stamm]] fühlte sich entmutigt, als sie nach ihrer ersten, langen Reise den Rückweg nach **Bodh Saxur** antraten. Fast all ihre Kinder sind an der neu entdeckten Oase, **Kohel**, zu Tode gekommen. Zuerst war der 16 [[Die Teyaner|Teyaner]] große Stamm voller Freude, die Oase am Berg gefunden zu haben. Den Kindern war es erlaubt, die Oase zu erkunden und den Berg zu besteigen.
+Sie waren unvorsichtig und leichtsinnig. Denn dieser Berg war auch das Zuhause eines Rudels von [[Die Elementare#^Katzen|Hyänen]]. Die jüngsten der teyanischen Kinder waren ein leichtes Fressen für sie. Die älteren, die diese [[Die Elementare|Elementare]] bekämpften, um ihre jüngeren Geschwister zu beschützen, wurden überlistet und den Berg hinunter gestoßen.
+
+Als der Stamm diese Tragödie entdeckte, beschlossen sie, die **Hyänen** zu vertreiben. Dabei kamen nochmal zwei der älteren Teyaner zu Tode. Doch letztendlich vertrieben sie die Kreaturen. Nachdem sie die insgesamt sieben toten bestatteten, machten sie sich auf
+nach **Bodh Saxur**.
+# Teyas neue Regel
+Dort angekommen bejammerten **Ve-Sha** und **Ve-Tey** ihren Verlust vor [[Teya]]. Doch wider erwarten war **Teya** ermahnend. Sie bemängelte ihren Leichtsinn. Offenbar reichte es nicht, dass **Teya** ihr Volk lehrte, sich zu verteidigen und zu überleben. Sie musste auch noch bestimmen, wie sie ihre Nachkommen zu schützen hatten. Dazu erhob sie die Regel der Reifeprüfung.
+Die Erzieher sollen die Teyaner unter 25 Jahren innerhalb des Stammes halten und nicht unbeaufsichtigt in die Wüste oder unbekannte Orte gehen lassen. Innerhalb dieser Jahre sollen sie den Kindern die komplette Lehre **Teyas**, sowie die [[Die Mystik#Basierend auf Animation|Animation]] der [[Die Elemente|Erde]] und die
+Kampfkunst beibringen. Sobald diese das 25. Lebensjahr erreichen, sollen die Kinder alleine zu einem vorbestimmten Ort pilgern. Dort angekommen, empfängt einer der [[Die Invis#Die Ältesten|Ältesten]] den Pilger und meditiert mit diesem.
+Wenn der **Älteste** den Pilger für reif empfindet, fertigt er einen Anhänger an, der den Geist des Pilgers repräsentiert. Dies ist das [[Die Teyaner#Rituale]] und das ist von jedem Teyaner unterschiedlich. Damit begibt sich der Pilger zurück zu seinem Stamm, wo er von dem
+Stammesführer empfangen wird. Dieser erklärt ihn für einen vollwertigen des Stammes.
+
+Damit ausgerüstet kehrte der **Ve**-Stamm zurück in die Wüste. Jeder andere Stamm, der danach nach **Bodh Saxur** kam, wurde von dieser neuen Regelung unterrichtet. Seitdem waren die Tode in den Stämmen erheblich geringer und die Stämme wuchsen schneller und wurden stärker.
