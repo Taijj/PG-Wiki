@@ -1,0 +1,16 @@
+Dies ist die Geschichte der Bestattung von [[Fra-Leq-Kan]], der auf einer Schiffsreise [[Fras Letzte Jahre|gestorben war]]. Es war die letzte von [Fra-Leq-Kans Reisen](https://www.worldanvil.com/w/lygea-taijj/a/fra-leq-kans-reisen-article).  
+## Ein neuer Häuptling
+Bevor **Fra-Leq-Kan** starb, bestimmte er **Zu-Leq** zu seiner Nachfolgerin. **Zu-Leq**, die Tochter von **Ehn-Leq** und **Ra-Leq**, war sehr intelligent und begabt.
+
+Kurz vor seinem Tod, rief Fra-Leq-Kan sie und ihre Eltern zu sich und verkündete ihnen **Zu-Leq** soll der nächste **Häuptling** werden. **Ehn** war empört und kritisierte ihn. **Zu-Leq** war zu jung und eine Frau. Sie kann kein **Häuptling** werden. Doch Fra erklärte ihm, dass die Tradition falsch sei, denn [[Ma-Teys Verrat#Mönche und Gesetze|Teya wollte es nicht so]]. Er sah, dass **Zu-Leq** in seinem Stamm die Weiseste war und somit seine Nachfolgerin werden sollte.
+## Aufbruch
+Bevor **Zu-Leq** sich auf ihre **Häuptlingsreise** begeben konnte, verstarb **Fra** jedoch. Die [[Die Dragnarier|Dragnarier]] hatten gegenüber **Fra** großen Respekt. Daher wollten sie ihn würdigen und bereiteten ihr Ozeanschiff für seine letzte Pilgerreise vor, um ihn damit den **Niive** flussaufwärts, von **Faw** aus, zu transportieren.
+So begaben sich dann alle des **Leq**-Stammes, sowie alle dortigen **Dragnarier** den **Niive** hinauf. Die Teyaner begleiteten das Schiff zu Land. Wenn eine Flussenge, Sandbank oder Ähnliches kam, [[Die Mystik#Basierend auf Animation|animierten]] beide Völker das Schiff hindurch. Die [[Die Elemente|Erd]]-**Animationen** der Teyaner und die [[Die Elemente|Wasse]]r-**Animationen** der **Dragnarier** ergänzten sich dabei hervorragend. 
+## Fras Bestattung
+Diese Reise dauerte ganze 4 Monate. In dieser Zeit kamen viele Teyaner-Stämme, die von **Fras** Tod hörten, dazu und begleiteten diese Reise. Unter anderem die Vier Urstämme, dann der **Rei**-Stamm, **Lir**-Stamm, **Pan**-Stamm und viele mehr. Nahezu alle Teyaner begleiteten letztendlich diese Pilgerformation. Alle wollten ihren Respekt gegenüber **Fra** bezeugen.
+
+Diese alle zogen in **Bodh Saxur** ein und auch die **Dragnarier** wurden willkommen geheißen. Für den **Leq**-Stamm wurde, wie für jeden neuen anerkannten Stamm, eine neue Ahnenhalle ausgebaut. Dort wurde **Fra** zur letzten Ruhe gelegt.
+## Ein neuer Markt
+Nach einigen Tagen der Ruhe tauschten sich die **dragnarischen** und teyanischen [[Die Invis#Die Ältesten|Ältesten]] aus. Den **Dragnariern** wurde die Stadt und Güter gezeigt. Unter anderem auch das See-Plateau, wo sich die Quelle des **Niive** befand. Die **Dragnarier** boten an, den See in ein heilendes Bad zu verwandeln. Für dieses Geschenk erhielten die **Dragnarier**, als erste lebende Kreaturen, einen eigenen Weg durch die große Mauer in die Tempelstadt hinein - ein eigenes, großes Tor auf der Flussseite.
+
+Einige **Dragnarier** trauten sich sogar, sich einem Stamm der Teyaner anzuschließen und in den Norden über Land zu reisen. Von **Quenterra** über **Bodh Thalve** bis **Bodh Saxur** befestigten sie eine Straße, die das Reisen über Land für die **Dragnarier** erleichterte und den Handel zwischen den Völkern beschleunigte.
