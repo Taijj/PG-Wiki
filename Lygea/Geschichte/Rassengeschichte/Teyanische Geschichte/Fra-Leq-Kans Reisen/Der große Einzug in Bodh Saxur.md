@@ -1,4 +1,4 @@
-Dies ist die Geschichte der Bestattung von [[Fra-Leq-Kan]], der auf einer Schiffsreise [[Fras Letzte Jahre|gestorben war]]. Es war die letzte von [Fra-Leq-Kans Reisen](https://www.worldanvil.com/w/lygea-taijj/a/fra-leq-kans-reisen-article).  
+Dies ist die Geschichte der Bestattung von [[Fra-Leq-Kan]], der auf einer Schiffsreise [[Fra's Letzte Jahre|gestorben war]]. Es war die letzte von [Fra-Leq-Kans Reisen](https://www.worldanvil.com/w/lygea-taijj/a/fra-leq-kans-reisen-article).  
 ## Ein neuer Häuptling
 Bevor **Fra-Leq-Kan** starb, bestimmte er **Zu-Leq** zu seiner Nachfolgerin. **Zu-Leq**, die Tochter von **Ehn-Leq** und **Ra-Leq**, war sehr intelligent und begabt.
 
