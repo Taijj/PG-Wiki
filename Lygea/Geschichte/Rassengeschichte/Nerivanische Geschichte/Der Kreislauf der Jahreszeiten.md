@@ -1,17 +1,11 @@
-Diese Geschichte erzählt, wie eines von Nerivas Liedern die Jahreszeiten (siehe: Nimburs Teilung ) in einen Kreislauf brachte. Sie ist Teil der Nerivanische Geschichte .
-Iifa, Final Fantasy IX fanart by Der-Reiko
-Das Duett
-Neriva befand sich oft in der Gesellschaft von Lygrassyl , dem alten Baum. Die beiden waren sehr gute Freunde, die eine sehr enge Beziehung führten. Neriva war die einzige, die mit dem Baum kommunizieren konnte und dessen eigene Seele zu lesen vermochte.
-Eines Tages unterhielten sich die beiden über die alten Zeiten, bevor die Welt geteilt war und Neriva stimmte dann eines ihrer Gebetslieder an. Lygrassyl war davon so berührt, dass sie selbst mit einstimmte. An diesem Tag stand ganz Silviem still und lauschte dem
-Duett. Lygrassyls Wurzeln waren tief und sie gingen weit über die Welt. Sie trugen das Duett sogar bis nach Cantien, wo selbst Sommer, der Halb-Gyrgoth , das Lied hörte.
-Streitende Jahreszeiten
-Sommer war so angetan von dem, was er hörte, dass er seinen Posten verließ und auf die Suche nach der Quelle des Liedes ging. Sommers Reise nach Silviem brachte die Wetter auf der ganzen Welt für kurze Zeit durcheinander. Vor allem sein Ziel, Silviem, war
-stark davon betroffen. Denn auf Silviem saß Frühling und die beiden Jahreszeiten begannen zu streiten.
-Neriva konfrontierte die beiden und versuchte deren Streit zu schlichten. Frühling, liebte Silviem und den Gesang der Nerivaner , doch auch Sommer wollte diesen genießen.
-Der Kreislauf
-Also schlug Neriva den Gyrgothen vor, dass sie den Kontinent jeweils abwechselnd besuchen sollten. Damit es dann auch keinen Streit mit den anderen Jahreszeiten gäbe, wolle sie alle 2 Monate ein anderes Duett, für eine andere Jahreszeit singen.
+Diese Geschichte erzählt, wie eines von [[Neriva|Nerivas]] Liedern die [[Nimburs Teilung|Jahreszeiten]] in einen Kreislauf brachte. Sie ist Teil der [[Nerivanische Geschichte|Nerivanischen Geschichte]].
+# Das Duett
+Neriva befand sich oft in der Gesellschaft von [[Lygrassyl|Lygrassyl]], dem alten Baum. Die beiden waren sehr gute Freunde, die eine sehr enge Beziehung führten. Neriva war die einzige, die mit dem Baum kommunizieren konnte und dessen eigene [[Die Seele|Seele]] zu lesen vermochte.
+Eines Tages unterhielten sich die beiden über die alten Zeiten, bevor die Welt geteilt war und Neriva stimmte dann eines ihrer Gebetslieder an. **Lygrassyl** war davon so berührt, dass sie selbst mit einstimmte. An diesem Tag stand ganz Silviem still und lauschte dem Duett. **Lygrassyls** Wurzeln waren tief und sie gingen weit über die Welt. Sie trugen das Duett sogar bis nach [[Die Kontinente#Cantien|Cantien]], wo selbst **Sommer**, der Halb-[[Die Gyrgothen|Gyrgoth]], das Lied hörte.
+# Streitende Jahreszeiten
+**Sommer** war so angetan von dem, was er hörte, dass er seinen Posten verließ und auf die Suche nach der Quelle des Liedes ging. **Sommers** Reise nach Silviem brachte die Wetter auf der ganzen Welt für kurze Zeit durcheinander. Vor allem sein Ziel, [[Die Kontinente#Silviem|Silviem]], war stark davon betroffen. Denn auf **Silviem** saß **Frühling** und die beiden Jahreszeiten begannen zu streiten.
+Neriva konfrontierte die beiden und versuchte deren Streit zu schlichten. **Frühling**, liebte **Silviem** und den Gesang der Nerivaner, doch auch **Sommer** wollte diesen genießen.
+# Der Kreislauf
+Also schlug Neriva den [[Die Gyrgothen|Gyrgothen]] vor, dass sie den Kontinent jeweils abwechselnd besuchen sollten. Damit es dann auch keinen Streit mit den anderen Jahreszeiten gäbe, wolle sie alle 2 Monate ein anderes Duett, für eine andere Jahreszeit singen.
 Die Jahreszeiten empfanden das als gut und gerecht. So entstand der Kreislauf der Jahreszeiten auf der ganzen Welt. Jede Jahreszeit würde nacheinander denselben Kontinent besuchen, sodass alle den schönen Liedern Nerivas lauschen könnten.
-So wich Frühling dem Sommer, der nun seine Zeit den Liedern der Nerivaner lauschte. Ihm folgte Stiller, Herbst, Winter und schließlich Wilder. Die Welt war überrascht durch die seltsamen Wetterwechsel, doch gewöhnten sie sich bald an diesen Kreislauf, denn
-das Klima der Kontinente selbst, prägte die Jahreszeiten immer noch auf seine Weise.
-Auf einen Blick:
-Neriva singt mit Lygrassyl ein Duett, worauf die Jahreszeiten aufmerksam werden. Diese streiten sich dann darum, wer von ihnen den nerivanischen Gesängen lauschen dürfte. Die Lösung dieses Streites ist ein geordneter Kreislauf, in den die Jahreszeiten dann fallen.
+So wich **Frühling** dem **Sommer**, der nun seine Zeit den Liedern der Nerivaner lauschte. Ihm folgte **Stiller**, **Herbst**, **Winter** und schließlich **Wilder**. Die Welt war überrascht durch die seltsamen Wetterwechsel, doch gewöhnten sie sich bald an diesen Kreislauf, denn das Klima der Kontinente selbst, prägte die Jahreszeiten immer noch auf seine Weise.

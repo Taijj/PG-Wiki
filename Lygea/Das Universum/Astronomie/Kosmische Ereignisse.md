@@ -29,7 +29,6 @@ Beispiele
 - Ein Forasier mit Dunkel-Feuer Fähigkeiten
 - Ein Dragnarier mit Negativ-Wasser Fähigkeiten
 
-// TODO: Entfernen?
 Darüber hinaus wird der reine sexual Trieb in jedem Lygeaner verstärkt. Die genaue Stärke und Kontrollierbarkeit dieses Effekts hängt von diesen Faktoren ab:
 - Die Beziehung zweier Lygeaner zueinander (Unbekannte, Freunde, Ehepartner)
 - Die gegenseitige Attraktivität der Betroffenen
