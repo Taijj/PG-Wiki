@@ -1,0 +1,38 @@
+Dies ist die Geschichte der Entstehung der nerivanischen Gesetzte der Stimmen. Sie ist Teil der Nerivanische Geschichte .
+Stolze Beute
+Thárlyn, ein junges Mitglied einer Schützen-Mission, lebte nahe der Grenze zu Meondor. Während der ersten Jagd, bei der sie eine aktive Rolle hatte, entdeckten die Jäger ein Gruppe Waldkatzen. Die Katzen hatten sich in der nerivanischen Provinz verirrt und
+durften deshalb von den Jägern als leichte Beute betrachtet werden.
+Thárlyn wünschte sich so sehr, an diesem Tag Beute zu machen, damit sie ihre Mission stolz machen konnte. Ihre Mühen wurden belohnt, als sie eine der Katzen erlegte. Das Lob ihrer Missionskollegen war groß, als sie die Beute präsentierte.
+Thárlyns Stolz kannte keine Grenzen. Damit sie sich an diesen Tag erinnern würde, fertigte Thárlyn nach der Schlachtung ihrer Beute, aus deren Zähnen, eine Kette an, die sie von diesem Tage an immer trug.
+by Unbekannt
+Was die Nerivaner nicht wussten war, dass die gejagten Katzen Nachfahren der Luchs-Ältesten Cillauris waren. Cillauris wurde während des ersten Dämonenkrieges von einem Dämon korrumpiert. und befand sich immer noch unter dessen starkem Einfluss.
+Invidia, die Todsünde des Neids, war dieser Dämon. Cillauris' Nachfahren, wenn auch in geringerem Maße, standen ebenfalls unter diesem Einfluss und so war die Zahnkette. Da Thárlyn die Kette ständig trug, setzte sie sich ebenfalls deren Aura aus, die schwach
+auf sie einwirkte.
+Neid
+Einige Zeit merkte Thárlyn nichts davon und lebte ihr Leben normal weiter, doch das sollte sich ändern. Thárlyn hatte sich bei ihrer Arbeit in einen der Missionshelfer, Adutar, verliebt. Das Problem war nur, dass ihre Schwester Minâlyn, die in derselben Mission
+arbeitete, auch interesse an Adutar hatte und er scheinbar auch an ihr. So kam es, dass Minâlyn und Adutar heirateten und Thárlyn das Herz gebrochen wurde, was die Tore für den Einfluss von Invidia in Thárlyns Herzen öffnete.
+Die Heirat veranlasste Thárlyn einen Neid gegenüber ihrer Schwester zu entwickeln. Diese Gefühle sorgten dafür, dass sie ungeschickt bei ihrer Arbeit wurde und sich mehr und mehr in den Schatten von Minâlyn gerückt fühlte.
+Das Vergehen
+Bis zum Ende des Jahres 699 wuchs der Neid in Thárlyn, angestachelt durch ihre Kette. Nach der Jahresabschluss Zeremonie, bei der das Lied am Ende des Jahres gesungen wurde, blieben die Siedlungen wie üblich lange zusammen, um das Jahresende zu feiern.
+Thárlyn bat jedoch Adutar sich mit ihr abzusondern, denn Thárlyn hielt es nicht mehr aus und wollte ihm alles sagen, was sie fühlte. Das tat sie, lang und breit, dabei steigerte sie sich in ihren Zorn und ihren Neid.
+Beim Jahreswechsel vom Jahr 699 auf 700 kam Malomar, der große Komet in die Nähe von Lygea und und setzte die Welt seiner Aura aus (siehe: Kosmische Ereignisse ). Adutar hörte sich ruhig an, wie Thárlyn ihm ihr Herz ausschüttete, bis Malomars Aura
+eintrat.
+Die beiden Nerivaner fanden sich unter dem Lust steigernden Einfluss des Kometen wieder und hatten alle Hände voll zu tun, ihre Keuschheitsregeln einzuhalten. So auch Adutar, der sich unter lüsternen Annäherungsversuchen von Thárlyn befand. Adutar blieb
+Minâlyn jedoch willensstark treu und wies Thárlyn entschieden zurück, woraufhin Thárlyn der Kragen platzte.
+Sie griff nach dem Bogen ihrer Schwester und tötete ihren Geliebten damit. Als sie sah, was sie getan hatte, wurde sie traurig. Sie beschuldigte ihre Schwester, an allem Schuld zu sein, und schmiedete einen dunklen Plan.
+Als Minâlyn nach Hause kam, befanden sich mehrere Nerivaner dort, die Thárlyn alarmiert hatte. Minâlyn blieb keine Zeit, um den Toten zu trauern, denn Thárlyn beschuldigte sie sofort hart an dessen Mord. Als Beweis galt der Pfeil, den das Opfer getötet hatte.
+Denn dieser gehörte eindeutig Minâlyn, also wurde sie gefangen genommen und vor Gericht gebracht.
+Vor Gericht verteidigte sich Minâlyn mit aller Kraft, doch Thárlyn blieb bei ihrer Lüge und steigerte sich sogar etwas hinein. Die Richterin war allerdings eine nerivanische Älteste, Flestia. Flestia bemerkte, dass mit Thárlyns Geschichte etwas nicht stimmte und
+begann detaillierte Fragen zu stellen. Flestia hörte bei den Antworten, dass es sich um Lügen handelte und erzwang ein Geständnis von Thárlyn. Thárlyn war entlarvt und gestand dem Gericht ihren Mord und ihre Lüge unter bitteren Tränen.
+Die Gesetze der Stimmen
+Minâlyn wurde freigesprochen, doch Flestia trug Thárlyns Fall vor die Inquisition, denn sie wusste nicht, was zu tun war. Der Inquisition ging es ähnlich, also wandten sie sich direkt an Neriva . Neriva war schockiert, zornig und traurig um Thárlyns taten und
+brach vor allen in bittere Tränen aus. Daraufhin zog sie sich eine Weile zurück, die Thárlyn in Gefangenschaft und regelmäßiger Dunkelheit verbringen sollte.
+In ihrer Abgeschiedenheit entwickelte Neriva die "Gesetze der Stimmen" mit denen sie Thárlyn verurteilte, als sie wieder unter ihr Volk trat. Neriva nahm Thárlyn die Stimme und verbannte sie aus der Gemeinschaft der Nerivaner und von diesem Tage an erging
+es allen Mördern so.
+Lygea Homepage | World Anvil https://www.worldanvil.com/world/lygea-taijj/export#article-022bad...
+100 of 223 26/08/2024, 16:38
+Mit tiefer Reue und Trauer im Herzen bahnte Thárlyn sich ihren Weg über Silviem bis an die Küste von Naugdor. Dort baute sie sich eine neue Existenz auf. Ihre Habseligkeiten und der Wald erinnerten sie an ihre alte Heimat, ihre Freunde und vor allem an ihre
+Fehler. Also vergrub sie alle ihre alten Gegenstände am Rande des nächsten Waldes und betrat für den Rest ihres Lebens nie wieder einen Wald. Ihre Kette war eine dieser Gegenstände.
+Sie lernte an der Küste zu überleben und wurde dort sogar von dragnarischen Seefahrern entdeckt, die ihr neue Dinge zeigten und mir ihr handelten. Sie nannte ihren kleinen Außenposten Gwáhaya und lebte dort in Frieden bis zum Ende ihrer Tage.
+Auf einen Blick
+Die junge Schützin Thárlyn tötet ihren Geliebten, weil dieser ihre Schwester heiraten will. Der Mord veranlasst Neriva dazu, die Gesetze der Stimmen einzuführen und Thárlyn dafür ins Ausschluss-Exil zu schicken.
