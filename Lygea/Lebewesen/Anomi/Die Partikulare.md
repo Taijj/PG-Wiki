@@ -8,7 +8,12 @@ Die aufgelisteten Unterarten sind die ersten, ursprünglichen, aus denen alle Pa
 | [[#^Zombies]]  | [[#^Vermiden]] | [[#^Schildkroten\|^Schildkröten]] |
 
 >[!particular] Schleime
->Diese Kreaturen bewegen sich sehr langsam fort und hinterlassen dabei schleimige Spuren. Ihre Körper sind eher viskos, sodass ihnen körperliche Verletzungen wenig ausmachen.
+>Die Körper dieser Kreaturen sind im gesamten eher viskos und bestehen aus zwei Schichten: Eine äußere Haut und ein innerer Kern.
+>
+>Die halb solide Haut ist sehr flexibel und leicht zu durchdringen, aber dennoch stabil genug, um den wackeligen Körper zusammenzuhalten. Sie sondert einen, meist süßlichen, Geruch ab, um Beute anzulocken. Kommt das Opfer zu Nahe, stürzt sich der Schleim darauf, um es komplett zu umschließen. Der innere Kern besteht aus Säure, die das Opfer dann in seine Nährstoffe zersetzt.
+>Trotz ihrer großen Zahl und Aggressivität werden Schleime oft gejagt. Knochen und andere Gegenstände, die der Schleim nur sehr langsam verdauen kann, bleiben oft von unvorsichtigen Abenteurern zurück - was wieder weitere Abenteurer anlockt. Das und die süße Haut, die vielerorts ein beliebtes Dessert ist.
+>
+>Schleime sind nahezu immun gegen physische Angriffe, aber ihr inneres ist besonders anfällig für gut platzierte [[Die Mystik#Basierend auf Animation|Animationsangriffe]].
 >
 >**Beispiele**:
 >- Muscheln - Schleime, die sich mit einer harten Panzerung umgeben und im Wasser leben, Panzerung kann, je nach Situation, geöffnet und geschlossen werden
