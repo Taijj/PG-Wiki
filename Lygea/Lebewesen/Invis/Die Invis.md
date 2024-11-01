@@ -9,13 +9,12 @@ Jeder der **Regidea** schuf eines der folgenden Völker:
 - Die [[Die Teyaner|Teyaner]]
 ## Seelen-Rituale
 Die [[Die Regidea|Regidea]] haben die Invis geschaffen, damit diese ihnen bei ihrer Aufgabe helfen - die Aufgabe irrende [[Die Seele|Seelen]] zu finden und zu besänftigen. Die Art und Weise der Besänftigung wurde vom jeweiligen **Regidea** vorgegeben und ist über die Zeit ein festes Ritual in der Kultur des entsprechenden Volkes geworden:
-**// TODO: Ritual Links**
-- Die [[Die Dragnarier|Dragnarier]] pflegen das Seelenbad-Ritual
-- Die [[Die Eveliten|Eveliten]] vollführen das Chronik-Ritual
-- Die [[Die Forasier|Forasier]] streiten zusammen im Seelenkampf-Ritual
-- Die [[Die Nerivaner|Nerivaner]] präsentieren das Seelenlied-Ritual
-- Die [[Die Rowagier|Rowagier]] veranstalten das Seelentanz-Ritual
-- Die [[Die Teyaner|Teyaner]] leben das Seelenreise-Ritual
+- Die [[Die Dragnarier#Die Aufgabe - Seelenbad Bau und Pflege|Dragnarier]] pflegen das Seelenbad-Ritual
+- Die [[Die Eveliten#Die Aufgabe - Das Chronik-Ritual|Eveliten]] vollführen das Chronik-Ritual
+- Die [[Die Forasier#Die Aufgabe - Das Seelenkampf-Ritual|Forasier]] streiten zusammen im Seelenkampf-Ritual
+- Die [[Die Nerivaner#Die Aufgabe - Das Seelenlied-Ritual|Nerivaner]] präsentieren das Seelenlied-Ritual
+- Die [[Die Rowagier#Die Aufgabe - Das Seelentanz-Ritual|Rowagier]] veranstalten das Seelentanz-Ritual
+- Die [[Die Teyaner#Die Aufgabe - Das Seelenreise-Ritual|Teyaner]] leben das Seelenreise-Ritual
 
 ## Sprachen
 Die Invis lebten anfangs sehr getrennt voneinander und allen **Regidea** außer ihres eigenen. Dadurch haben sie eigene Dialekte entwickelt, die sich im Laufe der Zeit zu eigenen Sprachen erweitert haben.

@@ -6,7 +6,7 @@ Die **Regimenta** schufen die **Regidea** mit großer Macht und Weisheit, also a
 - **Sil** schuf [[Neriva]], die Hüterin des Lichts
 	- **Neriva** liebt die [[Die Pflanzen|Pflanzen]].
 	- Sie besänftigt **Seelen** mit ihrem Gesang.
-- **Bol** schuf [[Foras]], den Hüter des Feuers // TODO: Gos/Bol tauschen?
+- **Bol** schuf [[Foras]], den Hüter des Feuers
 	- **Foras** mag die Hitze und die Metalle des Erdinneren.
 	- Er besänftigt **Seelen**, indem er seine Kräfte in freundschaftlichen Wettkämpfen misst.
 - **Tem** schuf [[Rowagass]], die Hüterin der Luft.

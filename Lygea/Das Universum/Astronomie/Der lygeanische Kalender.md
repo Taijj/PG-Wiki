@@ -2,7 +2,6 @@ Der lygeanische Kalender, oder [Chrotems Kalender](Chrotems%20Kalender.md), teil
 
 # Der Kalender
 ---
-//TODO: In Voxciel
 Die lygeanische Woche hat 6 Tage, die nach [1-Elementen](Die%20Elemente.md) benannt wurden:
 1. Erdtag
 2. Wassertag
