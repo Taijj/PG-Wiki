@@ -26,7 +26,7 @@ Die Kraft oder Energie, die Stoffe und Materalien zusammen hält, ist die Magie 
 	 - **Eis** - Gibt Kälte ab.
 	 - **Blitz** - Gibt Elektrizität ab.
 	 - **Nuklear** - Strahlt Zerstörung ab.
-	 - **Negativ** - Invertiert, reflektiert die Eigenschaften anderer Elemente.
+	 - **Negativ** - Invertiert, reflektiert und kehrt die Eigenschaften anderer Elemente um.
 	 - **Kraft** - Zieht andere Elemente an oder stößt sie ab, schwebt.
 	 - **Illusion** - Kopiert Eigenschaften anderer Elemente, ist selbst unsichtbar.
 	 - **Leben** - Pulsiert, bewegt und vermehrt sich.
@@ -35,7 +35,7 @@ Die Kraft oder Energie, die Stoffe und Materalien zusammen hält, ist die Magie 
 	 - **Metall** - Leitet elementare.
 	 - **Kristall** - Absorbiert und speichert Magie.
 	 - **Mineral** - Verbindet Stoffe, verstärkt elementare Magie.
-	 - **Neutral** - Hat keine besonderen Eigenschaften.
+	 - **Neutral** - Neutralisiert die Eigenschaften aller anderen Elemente.
 
  Notiz: Den Elementen sind keine bestimmten Farben zugeordnet!
 
