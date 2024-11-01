@@ -4,7 +4,7 @@ neuen Körper für die [Seelen](Die%20Seele) der [Urwesen](Die%20Urwesen.md) sei
 Bei der Erschaffung der Anomi haben sich jeweils ein **Regimenta** und ein **Omnipha** zusammengetan. So sind die folgenden 6 Arten entstanden:
 - Die [Tiere](Die%20Tiere)
 - Die [Pflanzen](Die%20Pflanzen)
-- Die [Dämonen](Die%20Dämonen)
+- Die [Dämonen](Die%20Dämonen.md)
 - Die [Elementare](Die%20Elementare)
 - Die [Mythen](Die%20Mythen)
 - Die [Partikulare](Die%20Partikulare)

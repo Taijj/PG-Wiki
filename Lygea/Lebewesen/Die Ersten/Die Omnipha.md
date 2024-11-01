@@ -32,4 +32,4 @@ Die **Strafe der Regimenta** legte den Omnipha zusätzliche Bürden auf. Zwar sc
 Also gaben die Omnipha ihre Spezialisierungen auf und verschmolzen zu einem einzigen Lebensgeist, der schlicht Omnipha hieß. Omnipha sorgte für die Beseelung jedes neuen Lebewesens, egal ob [[Die Anomi|Anomi]], [[Die Invis|Invis]], [[Mischlinge|Mischling]] oder sonstige Lebensformen, die noch enstehen würden.
 
 **Die Dämonen**
-**Vigotha** war kein Teil von Omnipha, sie war weiterhin in [Vigo](Die%20Sterne#Vigo) gefangen und schuf kein neues Leben. Durch Omnipha bekamen die [Dämonen](Die%20Dämonen) wieder die Möglichkeit sich fortzupflanzen und sie konnten wieder am [Kreislauf des Lebens](Der%20Zyklus%20des%20Lebens.md) teilnehmen. Und davon machten sie in ihrem [Gefängnis](Yhra) fleißig gebrauch.
+**Vigotha** war kein Teil von Omnipha, sie war weiterhin in [Vigo](Die%20Sterne#Vigo) gefangen und schuf kein neues Leben. Durch Omnipha bekamen die [Dämonen](Die%20Dämonen.md) wieder die Möglichkeit sich fortzupflanzen und sie konnten wieder am [Kreislauf des Lebens](Der%20Zyklus%20des%20Lebens.md) teilnehmen. Und davon machten sie in ihrem [Gefängnis](Yhra) fleißig gebrauch.

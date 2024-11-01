@@ -18,5 +18,5 @@ eisernen Willen und großen Mut beeindrucken.
 Seine rücksichtslose Art bringt ihn oft ungewollt in Schwierigkeiten. Die anderen [Regidea](Die%20Regidea) weisen ihn dann wenn nötig zurecht.
 # Geschichte
 Foras wurde am Ende der [dunklen Zeit](Die%20Dunkle%20Zeit.md) von [Bol](Die%20Regimenta) geschaffen. Er führte sein [Seelenkampf-Ritual](Die%20Forasier#Rituale) ungestört bis zum [ersten Dämonenkrieg](Der%20Erste%20Dämonenkrieg.md) durch, als er dann die [Forasier](Die%20Forasier) schuf, die ihm die rituelle Arbeit abnahmen.
-Nachdem Foras die Aufgabe übernahm, das [Dämonengefängnis](Das%20Dämonengefängnis.md) zu errichten, konnte ihn ein [Dämon](Die%20Dämonen) unter seinen Einfluss bringen. Dieser Dämon war [Iria](Die%20Dämonen#Todsünden), die der Grund viele seiner Fehltritte ist und seinen reizbaren Charakter verstärkt.
+Nachdem Foras die Aufgabe übernahm, das [Dämonengefängnis](Das%20Dämonengefängnis.md) zu errichten, konnte ihn ein [Dämon](Die%20Dämonen.md) unter seinen Einfluss bringen. Dieser Dämon war [Iria](Die%20Dämonen.md#Todsünden), die der Grund viele seiner Fehltritte ist und seinen reizbaren Charakter verstärkt.
 Seit seiner [Rache](Foras'%20Rache.md) und der darauffolgenden [Strafe der Regimenta](Die%20Strafe%20der%20Regimenta.md), fungiert Foras als Herrscher, bzw. oberster Heerführer, der **Forasier**.
