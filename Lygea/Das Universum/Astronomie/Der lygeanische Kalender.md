@@ -3,12 +3,12 @@ Der lygeanische Kalender, oder [Chrotems Kalender](Chrotems%20Kalender.md), teil
 # Der Kalender
 ---
 Die lygeanische Woche hat 6 Tage, die nach [1-Elementen](Die%20Elemente.md) benannt wurden:
-1. Erdtag
-2. Wassertag
-3. Schattag
-4. Luftag
-5. Feuertag
-6. Lichtag
+1. Ertag (Erday)
+2. Wastag (Watday)
+3. Schattag (Shaeday)
+4. Luftag (Arday)
+5. Feutag (Fiday)
+6. Lichtag (Lihday)
 ---
 Die Monate sind in genau 5 Wochen unterteilt, welche nach den 5 bewohnten [Kontinenten](Die%20Kontinente.md) benannt sind:
 1. Sciawoche
