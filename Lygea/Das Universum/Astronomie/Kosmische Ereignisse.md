@@ -53,7 +53,7 @@ Die Präsenz eines bestimmten [Gestirns](Die%20Himmelskörper.md) und der Betrof
 
 **Beispiele**:
 - Dadurch, dass **Tem** am Himmel zu sehen ist, hat ein [Rowagier](Die%20Rowagier.md) einen guten Tag. **Tem** hat als dominantes **Element** Luft, was das Element der **Rowagier** ist.
-- Nachts geht es [Eveliten](Die%20Eveliten) besonders gut, dafür fühlen sich [Nerivaner](Die%20Nerivaner.md) nachts unwohl. Schatten ist das **Element** der **Eveliten** und **Licht** das der **Nerivaner**.
+- Nachts geht es [Eveliten](Die%20Eveliten.md) besonders gut, dafür fühlen sich [Nerivaner](Die%20Nerivaner.md) nachts unwohl. Schatten ist das **Element** der **Eveliten** und **Licht** das der **Nerivaner**.
 
 ## Ereignisse
 Die folgende Liste beinhaltet alle niederen, kosmischen Ereignisse, die ein wenig von der Norm abweichen:

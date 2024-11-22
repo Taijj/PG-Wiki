@@ -3,10 +3,10 @@ Durch [Foras' Rache](Foras'%20Rache.md) wurde [Panteus](Panteus.md) in 5 große 
 ((Image))
 # Die Kontinente
 ## Sciena
-Sciena ist ein eher milder Kontinent, dessen kalter Norden und subtropischer Süden durch ein großes Gebirge getrennt werden. Der Norden und Westen, vor allem die Gebirgsregionen, werden von den [Eveliten](Die%20Eveliten) bewohnt. Die Küsten im Süden und Osten, sowie die
-Gebirgsinselgruppe der **De Monaltas** im Südosten, werden allerdings von den [Dragnariern](Die%20Dragnarier) bewohnt.
+Sciena ist ein eher milder Kontinent, dessen kalter Norden und subtropischer Süden durch ein großes Gebirge getrennt werden. Der Norden und Westen, vor allem die Gebirgsregionen, werden von den [Eveliten](Die%20Eveliten.md) bewohnt. Die Küsten im Süden und Osten, sowie die
+Gebirgsinselgruppe der **De Monaltas** im Südosten, werden allerdings von den [Dragnariern](Die%20Dragnarier.md) bewohnt.
 ## Durandar
-Durandar wird vorrangig von den [Forasiern](Die%20Foraiser) bewohnt, die den [Dragnariern](Die%20Dragnarier) aber immerhin die südwestlichen Küsten und Inseln zugestehen. Die Landschaft ist sehr Abwechslungsreich, von den hohen, kalten Gebirgen im Norden, bis zu einer kleinen Sandwüste, im
+Durandar wird vorrangig von den [Forasiern](Die%20Foraiser) bewohnt, die den [Dragnariern](Die%20Dragnarier.md) aber immerhin die südwestlichen Küsten und Inseln zugestehen. Die Landschaft ist sehr Abwechslungsreich, von den hohen, kalten Gebirgen im Norden, bis zu einer kleinen Sandwüste, im
 südöstlichen Teil, ist alles dabei.
 ## Finnindor
 Den Wüstenkontinent nennen die [Teyaner](Die%20Teyaner.md) ihr Heim. Neben der größten Wüste des Planeten, beherbergt der Kontinent außerdem noch einen großen Dschungel, der sich in den feuchteren, nördlichen Gebieten befindet.

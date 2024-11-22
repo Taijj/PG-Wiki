@@ -41,4 +41,4 @@ Die Jahre benannte **Chrotem** nach den [Gyrgothen](Die%20Gyrgothen.md), also bi
 7. Jahr des **Chrotem**
 ---
 # Tageszeiten
-Die Einteilung der Tage in Stunden, Minuten, Sekunden, etc. ist von den [Eveliten](Die%20Eveliten) vorgenommen worden und verhält sich genauso, wie in der menschlichen Realität. Das heißt, ein Tag hat 24 Stunden, eine Stunde hat 60 Minuten und so weiter.
+Die Einteilung der Tage in Stunden, Minuten, Sekunden, etc. ist von den [Eveliten](Die%20Eveliten.md) vorgenommen worden und verhält sich genauso, wie in der menschlichen Realität. Das heißt, ein Tag hat 24 Stunden, eine Stunde hat 60 Minuten und so weiter.

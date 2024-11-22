@@ -1,0 +1,30 @@
+	Basis: Dänisch, Norwegisch, Schwedisch, (in Ausnahmen:) Finnisch
+
+|  | **Vokabel** | **Bedeutungen** |
+| --- | --- | --- |
+| A | Abenaava<br>Adderwerk<br>Akhera<br>Ämber<br>Armen<br>Artøj<br>Aterfjor | Offene Wunde<br>Spinnennetz<br>Die fleißige<br>Glut<br>Heer<br>Gefäß<br>Händler |
+| B | Bran<br>Biløc<br>Bilkjöt<br>Bredbukten | Feuer<br>Kleine Flamme<br>Fleisch in Flammen (Chilli con carne)<br>Weite Bucht |
+| C | Cern | Kern |
+| D | Dellers<br>Deyng<br>Drumbat | Der Mittlere<br>Der Jüngere<br>Trommelschlag |
+| E | Eksblad | Explodierende Klinge |
+| F | Fästig<br>Fladdlinije<br>Flodbøning<br>Flüdbag | Befestigter Grund<br>Flacher Streifen<br>Flussbiegung<br>Hinterm Fluss |
+| G |  |  |
+| H | Hilt<br>Hjörnsten<br>Hjörtbergen<br>Horrensgrav<br>Høylanda | Der Ältere<br>Eckstein<br>Die Harten Berge<br>Grab der Helden<br>Lautes Land |
+| I | Inganør | Ingenieur |
+| J | Jarl<br>Jernand<br>Jormun | Graf<br>Eisenfaust<br>Weiches Inneres |
+| K | Kutt | Schneider |
+| L | Lärfod<br>Litekken<br>Ligwenstad<br>Litaradis | Land am Fluss<br>Narbe im Land<br>Kleines Versteck<br>Kleines Paradies |
+| M | Mällemvelia | Zwischen den Hügeln |
+| N | Nattmork<br>Norrend<br>Norrford<br>Nylanda | Nachtmahr - wörtl. dunkle Nacht<br>Nördliches Ende<br>Nordfähre<br>Neues Land |
+| O |  |  |
+| P | Possirisk | Der Besitzergreifende |
+| Q |  |  |
+| R | Rancher<br>Rauga<br>Rejsenslutning<br>Rirenga<br>Rösgwinn | Viehzüchter<br>Schwächling<br>Der Reisen Ende<br>Arena<br>Frauenstimme |
+| S | Sagaslot<br>Skattenford<br>Skjald<br>Sislepo<br>Sjokodød<br>Smeth<br>Sørbro<br>Sparömsted<br>Stinhug | Märchenschloss<br>Schatzfähre<br>Schild<br>Letzte Rast<br>Tod durch Schokolade<br>Schmied<br>Südbrücke<br>Recht kommendes Versteck<br>Steinmetz |
+| T | Tänker<br>Tillflysted<br>Tøkkanda<br>Tøkkaspet<br>Träpakk<br>Trogja<br>Trøja | Denker<br>Zufluchtsort<br>Trockenes Land<br>Trockene Spitze<br>Holzgrube<br>Treue Seele<br>Nordholz |
+| U | Ultgang | Ausgang |
+| V | Vag<br>Värenden<br>Vikjør<br>Voimark | Wand, Wall<br>Ende der Welt<br>Schlingender Boden<br>Der Kraftvolle |
+| W | Wøardam | Widerspenstige Frau |
+| X |  |  |
+| Y | Ydvergang<br>Yrvengrav | Äußerer Übergang<br>Yrvens Grab |
+| Z |  |  |

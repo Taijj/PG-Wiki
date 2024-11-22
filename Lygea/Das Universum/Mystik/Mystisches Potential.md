@@ -78,7 +78,7 @@ Level A bilden, einfach gesprochen, mythologische Kreaturen, deren Fähigkeiten 
 
 **Beispiele**
 - [Nerivaner](Die%20Nerivaner.md) können nur Licht, Kristall, Nuklear, Blitz und Leben animieren.
-- [Forasier](Die%20Forasier) können nur Feuer, Metall, Nuklear, Schall und Negativ animieren.
+- [Forasier](Die%20Forasier.md) können nur Feuer, Metall, Nuklear, Schall und Negativ animieren.
 ## Level C - Verurteilten Level
 - Typische Vertreter: Die **Invis** Kinder
 - Fähigkeiten: Schwache **Singulär**-Animation, einfache **Derivär**-Animation, hohe Willenskraft
