@@ -1,30 +1,30 @@
 	Basis: Tolkiens Elfisch, v.a. Sindarin und Quenya
 
-|  | **Vokabel** | **Bedeutungen** |
-| --- | --- | --- |
-| A | Al-<br>Almar<br>Adutar<br>Amudôl | Nicht<br>Unglück, der Unglückliche<br>Stilles Holz<br>Dracheninsel |
-| B | Bandor<br>Brôghdor | Tauschplatz<br>Land der Bären |
-| C | Celwede<br>Cuia<br>Cunáryl<br>Cuyan | Quelle der Freundschaft<br>Leben<br>Bernstein "Lebenskristall"<br>Bogenbrücke |
-| D | Darith<br>Darwasul<br>Dirîndor<br>Drugonn | Bewahrer, Wächter<br>Bewahrer der Seele<br>Land der Hirsche<br>Grünfelsen |
-| E | Eyrin | Wald |
-| F | Fylldor | Land der Vögel |
-| G | Galagonn<br>Galydh Edh<br>Gellándor<br>Glineth<br>Gorwaithl<br>Gwáhaya | Abendfelsen<br>Freundesturm<br>Land der Feen<br>Das singende Mädchen<br>Eichenquelle<br>Weit weg |
-| H |  |  |
-| I | Idhrá, Idháriel<br>-ion -arion | Weiser, Die Weisen<br>Sohn, Söhne |
-| J |  |  |
-| K | Kusir | Flussmündung |
-| L | Lhiyan | Pfeilbrücke |
-| M | Mar<br>Maîth, Maiel<br>Meondor<br>Milubâr<br>Minâlyn<br>Minafal<br>Mor | Glück<br>Mutter, Mütter<br>Land der Katzen<br>Heim<br>Erster Pfeil<br>Wellenturm<br>Schatten, Dunkelheit |
-| N | Naimath<br>Náryl<br>Naugdor<br>Nethiel<br>Nostor | Verfechter der Wahrheit<br>Kristall<br>Land der Wölfe<br>Junge (neue) Töchter<br>Die Ungläubigen |
-| O | Orellathôly | Inseln des Meeresrauschens |
-| P | Pathanil<br>Peccundor | Freundespfad<br>Land der Eichhörnchen |
-| Q |  |  |
-| R | Ranion<br>Ramor<br>-riel -ariel  <br>Rigwent | Der wandernde Sohn<br>Schattengänger<br>Tochter, Töchter  <br>Die gekrönte Maid |
-| S | Samantha<br>-sel -ael<br>Saqa<br>Sil<br>Silariel<br>Siláryl<br>Synerin | Großes Glück - wörtlich "bringt große Höhe"<br>Kind, Kinder<br>Suche<br>Licht<br>Töchter des Lichts<br>Lichtkristall<br>Wald des Lichtes |
-| T | Tarsem<br>Taurael<br>Thárlyn<br>Thôsil | Herz<br>Kind des Waldes, vom Wald geboren<br>Gestörter Pfeil<br>Lichtbringer |
-| U |  |  |
-| V | Vodró | Der Vertrauenswürdige |
-| W | Wáren | Windfrau |
-| X |  |  |
-| Y |  |  |
-| Z |  |  |
+|     | **Vokabel**                                                                       | **Bedeutungen**                                                                                                                                                              |
+| --- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A   | Al-<br>Almar<br>Adutar<br>Amudôl                                                  | Nicht<br>Unglück, der Unglückliche<br>Stilles Holz<br>Dracheninsel                                                                                                           |
+| B   | Bandor<br>Brôghdor                                                                | Tauschplatz<br>Land der Bären                                                                                                                                                |
+| C   | Celwede<br>Cuia<br>Cunáryl<br>Cuyan                                               | Quelle der Freundschaft<br>Leben<br>Bernstein "Lebenskristall"<br>Bogenbrücke                                                                                                |
+| D   | Darith<br>Darwasul<br>Dirîndor<br>Drugonn                                         | Bewahrer, Wächter<br>Bewahrer der Seele<br>Land der Hirsche<br>Grünfelsen                                                                                                    |
+| E   | Eithond<br>Eyrin                                                                  | Quellwurzel<br>Wald                                                                                                                                                          |
+| F   | Fylldor                                                                           | Land der Vögel                                                                                                                                                               |
+| G   | Galagonn<br>Galydh Edh<br>Gellándor<br>Glineth<br>Gorwaithl<br>Gwáhaya            | Abendfelsen<br>Freundesturm<br>Land der Feen<br>Das singende Mädchen<br>Eichenquelle<br>Weit weg                                                                             |
+| H   |                                                                                   |                                                                                                                                                                              |
+| I   | Idhrá, Idháriel<br>-ion -arion                                                    | Weiser, Die Weisen<br>Sohn, Söhne                                                                                                                                            |
+| J   |                                                                                   |                                                                                                                                                                              |
+| K   | Kusir                                                                             | Flussmündung                                                                                                                                                                 |
+| L   | Lhiyan                                                                            | Pfeilbrücke                                                                                                                                                                  |
+| M   | Mar<br>Maîth, Maiel<br>Meondor<br>Milubâr<br>Minâlyn<br>Minafal<br>Mor            | Glück<br>Mutter, Mütter<br>Land der Katzen<br>Heim<br>Erster Pfeil<br>Wellenturm<br>Schatten, Dunkelheit                                                                     |
+| N   | Naimath<br>Náryl<br>Naugdor<br>Nethiel<br>Nostor                                  | Verfechter der Wahrheit<br>Kristall<br>Land der Wölfe<br>Junge (neue) Töchter<br>Die Ungläubigen                                                                             |
+| O   | Orellathôly                                                                       | Inseln des Meeresrauschens                                                                                                                                                   |
+| P   | Pathanil<br>Peccundor                                                             | Freundespfad<br>Land der Eichhörnchen                                                                                                                                        |
+| Q   |                                                                                   |                                                                                                                                                                              |
+| R   | Ranion<br>Ramor<br>-riel -ariel  <br>Rigwent                                      | Der wandernde Sohn<br>Schattengänger<br>Tochter, Töchter  <br>Die gekrönte Maid                                                                                              |
+| S   | Samantha<br>-sel -ael<br>Saqa<br>Seylúna<br>Sil<br>Silariel<br>Siláryl<br>Synerin | Großes Glück - wörtlich "bringt große Höhe"<br>Kind, Kinder<br>Suche<br>Tochter von Licht und Dunkelheit<br>Licht<br>Töchter des Lichts<br>Lichtkristall<br>Wald des Lichtes |
+| T   | Tarsem<br>Taurael<br>Thárlyn<br>Thôsil                                            | Herz<br>Kind des Waldes, vom Wald geboren<br>Gestörter Pfeil<br>Lichtbringer                                                                                                 |
+| U   |                                                                                   |                                                                                                                                                                              |
+| V   | Vodró                                                                             | Der Vertrauenswürdige                                                                                                                                                        |
+| W   | Wáren                                                                             | Windfrau                                                                                                                                                                     |
+| X   |                                                                                   |                                                                                                                                                                              |
+| Y   |                                                                                   |                                                                                                                                                                              |
+| Z   |                                                                                   |                                                                                                                                                                              |
