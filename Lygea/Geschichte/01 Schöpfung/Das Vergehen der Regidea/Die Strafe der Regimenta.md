@@ -26,7 +26,15 @@ Nachdem **Lygea** ihre Wunde versorgte und ihre Schmerzen aufgehört hatten, bek
 - Sie legte Liebe und Lust in die Fortpflanzung und machte daraus etwas wunderschönes für viele Lebewesen.
 - Sie schuf Geschmack und Geruch und machte das Essen und das Atmen zu sehr angenehmen Prozessen.
 - Sie segnete die Beziehungen der Lebewesen untereinander, was für feste Bänder zwischen Freunden, Familien und Liebespaaren sorgte.
-- Sie gab den **Regidea** weiterhin Beistand, indem sie **Foras** bat, für jeden **Regidea** ein **Hirten-Werkzeug** zu schmieden, was dem **Regidea** Leitung geben sollte.
 - Sie bat die **Gyrgothen** ihre Aufgaben weiterhin durchzuführen. Das taten diese und fanden, wenn nötig, neue Wege.
+# Die Instrumenta Ducti 
+Lygea gab den **Regidea** außerdem Beistand, indem sie **Foras** bat, für jeden **Regidea** ein Werkzeug zu schmieden, was dem **Regidea** Leitung geben sollte. Sie nahm kleine Teile ihrer eigenen [[Die Seele|Seele]] und legte diese in jedes der Werkzeuge:
+- [[Neriva]] bekam die Harfe **Erunael**,
+- [[Evel]] das Buch **Lidapino**,
+- [[Foras]] den Hammer Skapafor,
+- [[Dragnar]] das Fernglas **Okunero**,
+- [[Teya]] den Wanderstab **Id-Bodh-Yar** und
+- [[Rowagass]] die Sense **Vernunft**
+Durch die Benennung des jeweiligen Werkzeuges, stellten die Regidea jeweils eine spezielle Verbindung dazu her und konnten durch sie, wenn nötig, die leitende und orientierende Stimme von Lygea hören. Jeder Regidea hat außerdem Macht über sein jeweiliges Werkzeug, kann dieses z.B. nach belieben verschwinden lassen oder vom anderen Ende des Planeten herbeirufen.
 # Der Schlaf der Regimenta
 Die [[Die Regimenta|Regimenta]] hatten nun lange Zeit viel gewirkt. Jetzt wurden sie sehr Müde und zogen sich zurück, um zu schlafen. So endete die Zeit der **Regimenta** und damit die lygeanische Schöpfungsgeschichte.
