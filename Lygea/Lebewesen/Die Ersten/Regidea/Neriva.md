@@ -9,7 +9,7 @@ Neriva ist die [Regidea](Die%20Regidea) des [Lichts](Die%20Elemente). Neriva lie
 | ------------------------ | ---------------------------------------------------------------------- | ------------------------------------------ |
 | [Regidea](Die%20Regidea) | [Level X/S](Mystisches%20Potential#Level%20X%20-%20Gottheiten%20Level) | [Licht](Die%20Elemente)                    |
 | **Symbol**               | **Seelenritual**                                                       | **Werte**                                  |
-| Harfe                    | [Seelenlied-Ritual](Die%20Nerivaner.md#Rituale)                           | Leben, Natur, Freundschaft, Ordnung, Liebe |
+| Harfe                    | [Seelenlied-Ritual](Die%20Nerivaner.md#Rituale)                        | Leben, Natur, Freundschaft, Ordnung, Liebe |
 | **Regenten-Form**        | **Anima-Form**                                                         | **Namensbedeutung**                        |
 | Druidin                  | Hirsch-Zentaur                                                         | Sänger                                     |
 # Charakter

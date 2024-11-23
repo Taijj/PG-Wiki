@@ -1,1 +1,1 @@
-// TODO
+# The End of the Regidea
