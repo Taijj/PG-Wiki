@@ -27,7 +27,7 @@ Nachdem **Lygea** ihre Wunde versorgte und ihre Schmerzen aufgehört hatten, bek
 - Sie schuf Geschmack und Geruch und machte das Essen und das Atmen zu sehr angenehmen Prozessen.
 - Sie segnete die Beziehungen der Lebewesen untereinander, was für feste Bänder zwischen Freunden, Familien und Liebespaaren sorgte.
 - Sie bat die **Gyrgothen** ihre Aufgaben weiterhin durchzuführen. Das taten diese und fanden, wenn nötig, neue Wege.
-# Die Instrumenta Ducti 
+# Die Instrumenta Consollum 
 Lygea gab den **Regidea** außerdem Beistand, indem sie **Foras** bat, für jeden **Regidea** ein Werkzeug zu schmieden, was dem **Regidea** Leitung geben sollte. Sie nahm kleine Teile ihrer eigenen [[Die Seele|Seele]] und legte diese in jedes der Werkzeuge:
 - [[Neriva]] bekam die Harfe **Erunael**,
 - [[Evel]] das Buch **Lidapino**,
