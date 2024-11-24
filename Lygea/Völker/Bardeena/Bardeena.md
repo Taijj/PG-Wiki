@@ -4,7 +4,7 @@ Bardeena is a country formed by [[Kristallfeder Enjar]] and her group of adventu
 
 The word 'Bardeena' incorporates the 3 languages of the 3 cultures in **Kristallfeder**'s ancestry. It is a combination of '*Milubâr*' (neri. '*home*'), '*Dee*' (tey. '*land*'), and '*neu*' (*rowag.* '*new*'), which then means '*new homeland*'.
 # History
-After [[THE_CALAMITY]], Sciena was mostly covered by [[Die Dämonen|demonic]] corruption, [[Geister|Ghosts]], or tough [[Die Anomi|Anomi]] tribes. Kristallfeder Enjar, and a band of outcasts like herself, [[Scienas earliest Conquerors|conquered the continent as a safe home for themselves]], because they had nowhere else to go.
+After [[The Calamity]], Sciena was mostly covered by [[Die Dämonen|demonic]] corruption, [[Geister|Ghosts]], or tough [[Die Anomi|Anomi]] tribes. Kristallfeder Enjar, and a band of outcasts like herself, [[Scienas earliest Conquerors|conquered the continent as a safe home for themselves]], because they had nowhere else to go.
 ## A new State
 After defeating most of the lingering threats, Kristallfeder and her allies officially founded the new independent state of Bardeena, spanning most of the north eastern part of Sciena. Though their settlements were fortified, they were still rather few in numbers and the wilderness in between was still dangerous for unwary travelers. There is now a bit of infrastructure outside the cities and outposts, but they are limited to single roads or underground railways. Often, citizens solemnly rely on travel by air with small planes or helicopters.
 ## Technological Development

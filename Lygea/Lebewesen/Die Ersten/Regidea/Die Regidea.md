@@ -2,15 +2,13 @@ Die Regidea können als weltliche Gottheiten bezeichnet werden. Sie sind sehr m�
 
 Die Regidea sind außerdem die Schöpfer der [Invis](Die%20Invis)-Völker. Deshalb haben sie sich, im späteren Verlauf der Weltgeschichte, für die Völker Lygeas zu eigenen Gottheiten entwickelt.
 # Die 6 Regidea
-Nach der [Strafe der Regimenta](Die%20Strafe%20der%20Regimenta.md) mussten sich die 6 Regidea jeweils um ihre geschaffenen **Invis** kümmern. Dazu wurde ihnen von **Lygea** sogenannte Hirtenwerkzeuge gegeben. Diese symbolischen Werkzeuge sollten die Regidea bei der Leitung ihrer Völker unterstützen.
-
-Im Folgenden werden die Regidea und ihre Hirtenwerkzeuge aufgelistet:
-- [Dragnar](Dragnar.md) der Hüter des Wassers - Fernglas
-- [Evel](Evel.md) der Hüter des Schattens - Buch
-- [Foras](Foras.md) der Hüter des Feuers - Hammer und Amboss
-- [Neriva](Neriva.md) die Hüterin des Lichts - Harfe
-- [Rowagass](Rowagass.md) die Hüterin der Luft - Sense
-- [Teya](Teya.md) die Hüterin der Erde - Wanderstab
+Nach der [Strafe der Regimenta](Die%20Strafe%20der%20Regimenta.md) mussten sich die 6 Regidea jeweils um ihre geschaffenen **Invis** kümmern. Dazu wurde ihnen von **Lygea** die sogenannten **Instrumenta Consollum** gegeben. Diese symbolischen Werkzeuge sollten die Regidea bei der Leitung ihrer Völker unterstützen und gelten als ihre Kennzeichen.
+- [Dragnar](Dragnar.md) der Hüter des Wassers - Fernglas (Liraculus)
+- [Evel](Evel.md) der Hüter des Schattens - Buch (Pagmila)
+- [Foras](Foras.md) der Hüter des Feuers - Hammer (Utilator)
+- [Neriva](Neriva.md) die Hüterin des Lichts - Harfe (Chortia)
+- [Rowagass](Rowagass.md) die Hüterin der Luft - Sense (Raplina)
+- [Teya](Teya.md) die Hüterin der Erde - Wanderstab (Requaro)
 
 # Geschichte
 Die ersten zehntausende von Jahren ihrer Existenz verbrachten die Regidea damit, ihre jeweiligen [Seelen-Rituale](#Rituale) zu entwickeln und durchzuführen. Durch den [ersten Dämonenkrieg](Der%20Erste%20Dämonenkrieg.md) gaben sie diese Aufgabe dann an ihre **Invis**-Völker weiter, um die Streitigkeiten zwischen den [Anomi](Die%20Anomi) zu schlichten.

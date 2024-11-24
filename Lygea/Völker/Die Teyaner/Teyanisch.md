@@ -1,6 +1,6 @@
 	Basis: Keine
 
-(\*) Modernisierter Dialekt, entwickelt nach [[THE_CALAMITY]]
+(\*) Modernisierter Dialekt, entwickelt nach [[The Calamity]]
 
 |     | **Vokabel**                                            | **Bedeutungen**                                                                                                 |
 | --- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
