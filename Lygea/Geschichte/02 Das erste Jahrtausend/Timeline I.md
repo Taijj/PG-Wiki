@@ -1,0 +1,160 @@
+| Zeitabschnitt | Datum | Ereignis | Kontext |
+| --- | --- | --- | --- |
+| Jahrtausend des Aufbaus | 0 |  |  |
+| Zeit der Befestigung | 1 | Beginn von Chrotems Kalender - erster Millennium Kongress  <br>- Die Regidea sehen das erste Mal in die Zukunft  <br>- Sie verteilen die Kontinente und benennen diese  <br>- Die Regidea trennen sich, um mit ihren Invis die Kontinente zu beziehen |  |
+|  | 2 | Die Regidea beginnen mit der Sammlung ihrer Invis |  |
+|  | 2 | Rowagass sammelt die Rowagier am Fuße des Himmelsdorn auf Cantien | Rowagier |
+|  | 3 | Die Forasier entwickeln den Hausbau mit Stein und Metall | Forasier |
+|  | 4 | Die Nerivaner meistern die Lebens-Animation | Nerivaner |
+|  | 5 | Die Dragnarier meistern den Fischfang (Boote, Schnur, Netze, etc.) | Dragnarier |
+|  | 5 | Evel beendet die aktive Sammlung seines Volkes | Eveliten |
+|  | 5 | Der erste nerivanische Tempel wird eingeweiht | Nerivaner |
+|  | 7 | Die Eveliten meistern das Lesen und Schreiben | Eveliten |
+|  | 10 | Die Dragnarier meistern den Hausbau mit Schilf und Palmenblättern | Dragnarier |
+|  | 13 | Die Teyaner entwickeln den Waffenlosen Kampf | Teyaner |
+|  | 13 | Die nerivanische Malerei entsteht | Nerivaner |
+|  | 20 | Neriva beendet die aktive Sammlung ihres Volkes und setzt die Konklave ein | Nerivaner |
+|  | 23 | Neriva ruft den Rat von Silviem ein, Silviem wird aufgeteilt | Nerivaner |
+|  | 56 | Die Forasier erfinden den Tagebau | Forasier |
+|  | 78 | Die Eveliten entwickeln die ersten Konzepte der Mathematik, Alchemie und Physik | Eveliten |
+|  | 89 | Foras beendet die aktive Sammlung seines Volkes | Forasier |
+|  | 100 | Foras verbannt die Sucher | Forasier |
+|  | 101 | Dyrvan gründet Hjörtbergen | Forasier |
+|  | 101 | Rowagass beendet die aktive Sammlung ihres Volkes | Rowagier |
+|  | 106 | Die Forasier beginnen mit dem Bau der Rirenga Arena | Forasier |
+|  | 110 | Ayvan gründet Høylanda | Forasier |
+|  | 111 | Yghven gründet Norrend | Forasier |
+|  | 113 | Yrven gründet Lärfod | Forasier |
+|  | 120 | Pryvan gründed Flüdbag | Forasier |
+|  | 123 | Die Teyaner entwickeln den Hausbau mit Lehm und Sandstein | Teyaner |
+|  | 125 | Teya beendet die aktive Sammlung ihres Volkes | Teyaner |
+|  | 125 | Die Teyaner beginnen mit dem Bau von Bodh Saxur | Teyaner |
+|  | 128 | Die Eveliten meistern die wichtigsten Konzepter der Algebra | Eveliten |
+|  | 132 | Dragnar beendet die aktive Sammlung seines Volkes, die Dragnarier beginnen mit der Erkundung ihrer Umgebung | Dragnarier |
+|  | 132 | Die Teyaner entwickeln die Keramik | Teyaner |
+|  | 134 | Die Teyaner erfinden das Weben von Stoffen | Teyaner |
+|  | 136 | Entdeckung der Oase Ehjat durch den Ma-Stamm | Teyaner |
+|  | 137 | Entdeckung der Oase Zim Thal durch den Zu-Stamm | Teyaner |
+|  | 141 | Die Dragnarier erfinden das räumliche Maß | Dragnarier |
+|  | 142 | Die Teyaner entwickeln ihre Hieroglyphenschrift | Teyaner |
+|  | 143 | Entdeckung der Oase Kohel durch den Ve-Stamm | Teyaner |
+|  | 144 | Grundlegung der Reifeprüfung durch Teya | Teyaner |
+|  | 153 | Dyrvan verlässt seinen Clan auf der Suche nach einem Dämon | Forasier |
+|  | 154 | Entdeckung der Oase In Xur durch den Ki-Stamm | Teyaner |
+|  | 167 | Dyrvan besiegt Demoria und verliert sein Gedächtnis | Forasier |
+|  | 169 | Die Forasier entdecken das Leder | Forasier |
+|  | 179 | Rirenga entwickelt sich zur forasischen Hauptstadt | Forasier |
+|  | 182 | Die Rowagier ziehen sich auf Himmelsdorns Spitze zurück und befestigen dort ihre Nester | Rowagier |
+|  | 184 | Die Teyaner erfinden das Papier | Teyaner |
+|  | 188 | Yrven stirbt nach dem Kampf gegen Capultra | Forasier |
+|  | 202 | Yghven wird von Azurella getötet | Forasier |
+|  | 212 | Begin des Krieges am Litekken | Dragnarier/Forasier |
+|  | 213 | Schlichtung des Krieges am Litekken, begin des Austausches zwischen Forasiern und Dragnariern | Dragnarier/Forasier |
+|  | 213 | Foras setzt das Tribunal ein und erobert Lärfod | Forasier |
+|  | 217 | Ferrayris aufbegehren und Hinrichtung, Gründung der Wøardam | Forasier |
+|  | 217 | Erster Aufstand der Wøardam, Radimens Rebellion | Forasier |
+|  | 220 | Foras diktiert die forasischen “Gesetze des Stärkeren” | Forasier |
+|  | 234 | Die Grenzen der Provinzen auf Silviem wurden festgelegt | Nerivaner |
+|  | 239 | Die Teyaner erfinden das Glas | Teyaner |
+|  | 256 | Isrima entwickelt die Sistasi-Medizin | Eveliten |
+|  | 262 | Evel setzt seinen Fakultätsrat ein, formuliert die evelitische “Gesetze des Klügeren” und die Eveliten verlassen das Archass Gebirge | Eveliten |
+|  | 267 | Die Dragnarier erfinden das Segel und entwickeln den Segelschiffbau mit den Forasiern | Dragnarier/Forasier |
+|  | 270 | Die Eveliten entwickeln die Zeitmessung und den 24 Stunden Tag | Eveliten |
+|  | 271 | Foras erobert Høylanda, Tod Ayvans | Forasier |
+|  | 288 | Gründung von Neageia, dem alchemischen Zentrum | Eveliten |
+|  | 298 | Dragnar gibt den Auftrag zur Widervereinigung | Dragnarier |
+| Zeit der Entwicklung | 300 |  |  |
+|  | 301 | Jungfernfahrt der Vestica, El Runícatias erster Versuch der Wiedervereinigung | Dragnarier |
+|  | 302 | Jungfernfahrt der Nuva Vestica, El Runícatias zweiter Versuch der Wiedervereinigung, Entdeckung der Insel Ponte Cento | Dragnarier |
+|  | 304 | Foras erobert Norrend | Forasier |
+|  | 322-04 | Jungfernfahrt der Ano Vestica, El Runícatias letzter Versuch der Wiedervereinigung | Dragnarier |
+|  | 322-09-12 | Tag der dragnarischen Wiedervereinigung | Dragnarier |
+|  | 327 | Erster Kontakt zwischen den Dragnariern und den Eveliten | Dragnarier/Eveliten |
+|  | 335 | Die Eveliten meistern die wichtigsten Konzepter der Geometrie | Eveliten |
+|  | 340 | Fertigstellung von Bodh Saxur | Teyaner |
+|  | 341 | Neriva und Lygrassyl singen ihr Duett, der Kreislauf der Jahreszeiten entsteht | Nerivaner |
+|  | 342 | Evel gründet Cardis | Eveliten |
+|  | 342 | Ma-Teys Verrat, Pugenmus Amoklauf | Teyaner |
+|  | 343 | Teya versammelt alle Teyaner in Bodh Saxur und diktiert die "Gesetze des Gleichen" | Teyaner |
+|  | 345 | Foras einigt Hjortbergen | Forasier |
+|  | 350 | Rowagass bestimmt sich zur Königin und ordnet ihr Volk | Rowagier |
+|  | 350 | Die Rowagier besiedeln die fliegenden Inseln | Rowagier |
+|  | 372 | Die Rowagier entwickeln die Landwirtschaft | Rowagier |
+|  | 398 | Geburt Fra (-Leq-Kan) | Teyaner |
+|  | 400 | Versammlung der Dragnarier auf der Insel Ponte Cento, Dragnars Welterkundungsauftrag | Dragnarier |
+|  | 412 | Die Entdeckung Finnindors durch Peimador und Pastepa | Dragnarier |
+|  | 418 | Die Entdeckung Silviems durch Florada und Vilesta, erster Kontakt zwischen den Dragnariern und den Nerivanern | Dragnarier/Nerivaner |
+|  | 420 | Heimreise von Florada und Vilesta aus Silviem | Dragnarier/Nerivaner |
+|  | 424 | Schlacht um Flüdbag, Pryvans Flucht | Forasier |
+|  | 464 | Die Eveliten meistern die wichtigsten Konzepte der Mechanik | Eveliten |
+|  | 488 | Entstehung des Osh-Stammes | Teyaner |
+|  | 489 | Errichtung des Ehjat Schreins | Teyaner |
+|  | 492 | Errichtung des Zim Thal Schreins | Teyaner |
+|  | 495 | Errichtung des Kohel Schreins | Teyaner |
+|  | 499 | Die Eveliten entdecken die Eigenschaften der Elemente und Entwickeln den Elementarkreis | Eveliten |
+|  | 499 | Errichtung des In Xur Schreins | Teyaner |
+|  | 500 | Zweiter Aufstand der Wøardam, Domerras und Dyrlons Rebellion | Forasier |
+|  | 500 | Errichtung des Lir Han Schreins | Teyaner |
+|  | 501 | Errichtung des Gij Bodh Schreins | Teyaner |
+|  | 503 | Errichtung des Faw Schreins | Teyaner |
+|  | 504 | Errichtung des Ahm Pan Schreins | Teyaner |
+|  | 505 | Errichtung des Gro Dhes Schreins | Teyaner |
+|  | 507 | Entdeckung Jatees | Teyaner |
+|  | 508-04 | Erbauung Bodh Thalves | Teyaner |
+|  | 508-08 | Erster Kontakt zwischen den Dragnariern und den Teyanern | Dragnarier/Teyaner |
+|  | 509 | Pryvan gründed Tillflysted | Forasier |
+|  | 509 | Die Dragnarier landen bei Faw | Teyaner/Dragnarier |
+|  | 510 | Erster Besuch der Dragnarier in Bodh Saxur, Tod Fra-Leq-Kans (112) | Dragnarier/Teyaner |
+|  | 544 | Erste Umrundung Scienas durch Morsador und Dèsfrio | Dragnarier |
+|  | 546 | Cardis als erste, evelitische Domstadt wird fertiggestellt | Eveliten |
+|  | 547 | Evel diktiert die Bücher der Magie | Eveliten |
+|  | 567 | Begin der forasischen Hungersnot | Forasier |
+|  | 568 | Entdeckung von Cantien durch Tigrador und Obsaña | Dragnarier |
+|  | 578 | Die Nerivaner schreiben das erste Gedicht | Nerivaner |
+|  | 580 | Das erste, forasische Heer kommt nach Tillflysted | Forasier |
+|  | 585 | Erster Kontakt zwischen den Dragnariern und den Rowagiern | Dragnarier/Rowagier |
+|  | 585 | Die Dragnarier begegnen den Rowagiern | Rowagier/Dragnarier |
+|  | 593 | Rebellion von Norrend | Forasier |
+| Zeit des Austausches | 600 |  |  |
+|  | 603 | Der Erste Bund Silviems wird geschlossen | Nerivaner |
+|  | 623 | Erste Umrundung Finnindors durch Boadora und Calidessa | Dragnarier |
+|  | 623 | Die Wøardam beginnen ihre geheime Rebellion | Forasier |
+|  | 623 | Die Rowagier entwickeln den Flaschenzug | Rowagier |
+|  | 633 | Das zweite, forasische Heer kommt nach Tillflysted, Fapyr und Pryvan verbünden sich | Forasier |
+|  | 638 | Die Eveliten meistern die Konzepte der Optik | Eveliten |
+|  | 645 | Der erste Nerivanische Steintempel wird eingeweiht | Nerivaner |
+|  | 657 | Die Rowagier erobern die Ostküste Cantiens | Rowagier |
+|  | 666 | Isrima entwickelt die erste, künstliche Befruchtung | Eveliten |
+|  | 667 | Das letzte, forasische Heer kommt nach Tillflysted | Forasier |
+|  | 670 | Foras Erobert Tillflysted, Pryvans und Fapyrs Tod | Forasier |
+|  | 681 | Die Belagerung von Thermakypolis | Eveliten |
+|  | 682 | Erste Umrundung Silviems durch Ardillada und Desblanctar | Dragnarier |
+|  | 689 | Entdeckung von Nylanda, Minderung der Hungersnot | Forasier |
+|  | 689 | Thárlyn erhält die Zorneskette | Nerivaner |
+|  | 700 | Malomar Jahr, Thárlyn ermordet Adutar | Nerivaner |
+|  | 701 | Neriva entwickelt die Gesetze der Stimmen, Thárlyn wird verbannt | Nerivaner |
+|  | 711 | Entlarvung der Wøardam, Flucht von Cayri und Phygressa | Forasier |
+|  | 726 | Rowgass lässt sich ihr Schloss auf der höchsten Insel bauen und formuliert die ersten rowagischen Gesetze (u.A. das Standes Gesetz) | Rowagier |
+|  | 734 | Die Rowagier erfinden das Geld und das Vertragswesen | Dragnarier/Rowagier |
+|  | 743 | Die Eveliten meistern die Konzepte der Thermodynamik | Eveliten |
+|  | 758 | Rebellion von Tillflysted | Forasier |
+|  | 761 | Erste Umrundung Cantiens durch Tigrador und Obsaña | Dragnarier |
+|  | 761 | Gründung der Socita ex Fennami | Anomi |
+|  | 762 | Dragnar bringt den Forasiern die Viehzucht bei | Forasier |
+|  | 774 | Die Eveliten erfinden den Dampfantrieb | Eveliten |
+|  | 789 | Die Eveliten und Dragnarier entwickeln die Dampfschifffahrt | Dragnarier/Eveliten |
+|  | 800 | Dragnar lässt sich sein Tempelschiff (Die Anida Dhengassa) bauen und er formuliert die dragnarischen Gesetze des Wertes | Dragnarier |
+|  | 814 | Ende der forasischen Hungersnot | Forasier |
+|  | 818 | Die Rowagier gewinnen die Schlacht gegen die Socita ex Fennami | Rowagier |
+|  | 820 | Die Rowagier gründen Siegreich | Rowagier |
+|  | 834 | Die Nerivaner entwickeln die Gemmologie | Nerivaner |
+|  | 836 | Evel beauftragt die Historiker mit dem niederschreiben der Weltgeschichte. Die Chronisten entstehen | Eveliten |
+|  | 870 | Die Rowagier gründen Abwechslungsreich | Rowagier |
+|  | 886 | Wirbelwind vom Fluss wird geboren | Rowagier |
+|  | 892 | Die Rowagier gründen Glorreich | Rowagier |
+|  | 913 | Die Rowagier bestimmen die ersten Feiertage und erarbeiten die neuen "Gesetze des Höheren" | Rowagier |
+|  | 948 | Die Rowagier gründen Ober- und Unterneuland | Rowagier |
+|  | 949 | Die Forasier entwickeln Armbrüste | Forasier |
+|  | 967 | Die Rowagier erfinden den trinkbaren Alkohol | Rowagier |
+|  | 987 | Die Eveliten meistern die wichtigsten Konzepte der Elektrik | Eveliten |
+|  | 999 | Die Rowagier erfinden das Feuerwerk | Rowagier |
