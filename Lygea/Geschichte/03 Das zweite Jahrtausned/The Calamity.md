@@ -42,8 +42,11 @@ The result of the great calamity was a devastated world. This list contains the 
 - For all intents and purposes, none of the [[Die Regidea|Regidea]] remained on Lygea. Some of them still had some kind of weakened residual presence, though.
 - The lygean world map had changed drastically. Even though she felt intense pain, neither Lygea nor any of the other [[Die Regimenta|Regimenta]] woke up.
 ## Names
+Although it commonly got known as simply "The Calamity", "The Great Calamity", "The End", "The All is Lost", or "The Devastation" in all of Lygea, each group of survivors additionally had their own names for it:
+- The [[Die Nerivaner|Nerivans]] called it "Rise of the Dark Swarm" (Orthumé Niwri) and "The Sun blackened by a million monsters".
+- The [[Die Eveliten|Evelitians]] unanimously called it "The Great Escape" (Mega Apdrasi).
+- The [[Die Forasier|Forasians]] saw it as "The Day of Glory" (Ärensdag) or "The Day of Blood and Honor" (Herliblodag).
+- The [[Die Dragnarier|Dragnarians]] said it was "The Day the Land Drowned in blood" (Diago del Terra Sangre) or simply "The Flood" (Il Diluvio).
+- The [[Die Teyaner|Teyans]] called it "The great Rumble" (Utt Zu) or "The day Mother disappeared" (Or Tey Jan Xud).
+- The [[Die Rowagier|Rowagians]] declared it as "Der Einzige Tag, an dem uns das Lachen verging" or simply "Das Ende der Welt"
 
-
-
-Although it commonly got known as simply "The Calamity", or "The Great Calamity" all over Lygea. Each group of survivors usually had their own name for it:
-- The Nerivans called it
