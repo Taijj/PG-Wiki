@@ -2,9 +2,9 @@ The Calamity is an event in lygean history that, in almost an instant, significa
 
 This article tells the [[#The Story|story]] of how it came to pass, and gives details about its [[#Details|repercussions]].
 # The Story
-Shortly after the first [[Die Titanier|Titanian]] leader completed [[KINGS_QUEST]], strange tremors started to appear frequently all over Lygea. As the Regidea went to investigate, they found the barrier intact, but closer inspection revealed that it was slowly weakening.
-The demons inside seemed to have noticed, too, and combined their efforts into cracking the barrier from the inside. Wondering how this could be, the Regidea tried to strengthen the prison, but found themselves unable to. After many attempts, they had to admit: The demons would come out eventually.
-In a matter of months, so they estimated, an army of hundreds of thousands of demons would come over the world. Among them, hundreds of [[Die Anomi#Die Ältesten|eldest]] and two [[Die Urwesen#Die Urdämonen|primordial]] ones. The Regidea once again would be facing formidable foes.
+Shotly after [[JINS_DAD]] completed [[KINGS_QUEST]], strange tremors started to appear frequently all over Lygea. As the **Regidea** went to investigate, they found the barrier intact, but closer inspection revealed that it had weakened significantly. And it continued to loose strenght.
+The demons inside seemed to have noticed, too, and combined their efforts into cracking the barrier from the inside. Wondering how this could be, the **Regidea** tried to strengthen the prison, but found themselves unable to. After many attempts, they had to admit: The demons would come out eventually.
+In a matter of a few years, so they estimated, an army of hundreds of thousands of demons would come over the world. Among them, hundreds of [[Die Anomi#Die Ältesten|eldest]] and two [[Die Urwesen#Die Urdämonen|primordial]] ones. The Regidea once again would be facing formidable foes.
 
 Since fighting was Foras' specialty, they approached him for advice. But he refused to help, unless they would lift his [[Foras the Tyrant#Aftermath|prison sentence]]. They didn't take this decision lightly, and gathered around [[Eseyána]] again to discuss this. They discussed for a long time, but in the end agreed to give in to Foras' demands.
 Foras seemed to fulfill his part nicely. He helped them equip their people with weapons, even help with developing new ones. Under his guidance, the Regidea fortified their cities and trained their warriors. However, his thoughts were far from pure.  
