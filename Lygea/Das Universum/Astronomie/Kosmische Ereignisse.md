@@ -18,7 +18,7 @@ Beispiele
 
 ## Malomars Nähe - Malomars Aura
 - Konstellation: Keine Besondere, der Komet Malomar kommt Lygea nahe
-- Frequenz: Alle 700 Jahre
+- Frequenz: Alle 600 Jahre
 - Dauer: 2 Stunden
 - Effekt: Malomars Aura
 
