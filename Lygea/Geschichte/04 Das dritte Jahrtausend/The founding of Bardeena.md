@@ -1,39 +1,32 @@
-// TODO
+This article tells the story of how the country of [[Bardeena]] was founded.
+
+After the [[The Calamity|Calamity]] the people of Lygea were forced into rather secluded existences. Many had perished and the few survivors took some time until some dared to venture out into the wilds, again. While some only waited a few decades, most waited for generations, and a few even preferred to never open up to the world again.
+# Hybrid Rejection
+It was the nature of the [[Die Dragnarier|Dragnarians]] again to open up to the rest of the world, and they began to explore what became of it, anew. Having a home [[Casamar|under the sea]], they weren't interested in claiming more land for themselves, but rather wanted to re-discover and rebuild relationships with the other races  and restore multi-beneficial trade.
+But fear from everything "outside" was a widespread mindset of most survivors, which turned into open hostility against anything different at times. That was the main reason that impeded the races of Lygea to intermingle too much. However, the **Dragnarians**' resolve was strong, and it could not be stopped, of course.
+Dragnarian ships picked up representatives, adventurers, and refugees from all continents on their journeys. Those, in time, started to claim land for themselves all over Lygea. As time went on, more and more people started to reclaim the territories lost to the [[Die Dämonen|demons]]. When the pure blooded societies discovered small [[Mischlinge|hybrid]] communities, usually formed by outcasts and rejects, they usually invoked their right of birth as the original inhabitants. That meant they forcefully destroyed these settlements and expelled any hybrid they could find on "their" soil.
 # Kristallfeder
+[[Kristallfeder Enjar]] was a second generation [[Mischlinge|hybrid]] girl. Her father, a [[Die Nerivaner|Nerivan]]-[[Die Teyaner|Teyan]], and her mother, a pure blood [[Die Rowagier|Rowagian]], both perished during a raid of the new **Rowagian Kingdom**, which left the girl orphaned. She, and others, got lucky and found refuge on a **Dragnarian** trade ship, which happened to anchor at her village at that time. While their savior was rather keen on getting rid of them all, Kristallfeder got him to at least take her on as a permanent crew member. So she became a sailor with the goal to explore the world, in hope of finding a place where hybrids like her could start a civilization in peace. 
+Kristallfeder spent most of her teen years in the service of different **Dragnarian** captains, gathering experience, exploring Lygea - always on the lookout for tales, rumors, or even legends that might help her to reach her goal. She combined that with all the knowledge she had access to due to her friendship to the **Dragnarians**. Their generations lasted long and they also had the largest archives of knowledge saved from the old world, which she eagerly studied.
+She learned that basically every continent could - and she expected would - be claimed by any of the other races at some point, except [[Die Kontinente#Sciena|Sciena]]. She read off the [[Die Eveliten|Evelites]], who had vacated their continent, which was exactly what she was looking for.
 
-After THE_CALMITY the people of Lygea were forced into rather secluded existences. Many had perished and the few survivors took some time until some dared to venture out into the wilds, again. While some only waited a few decades, most waited for generations, and a few even preferred to never open up to the world again.
+Kristallfeder still spent a few years on the sea, gathering money, supplies, resources, skills, and maybe friends she could recruit to her cause. She bought a small ship, and started exploring the coastline of their soon to be home, evaluating and scouting out the dangers ahead, before finally stepping foot on it.
+# Flesh and Fairy Dust
 
-It was the nature of the Dragnarians again to open up to the rest of the world, and they began to explore what became of it, anew. Living under the sea, they weren't interested in claiming more land for themselves, but rather re-discover and rebuild relationships with the other races, to restore multi-beneficial trade.
+>[!warning]
+>This part of Bardeena's history is kept rather vage for now. It is heavily inspired by the videogame *Terraria* and roughly represents a playing session. We had the idea of playing the whole thing out as an RPG session. At the time of writing this has not happened, yet, though.
 
-However, fear from everything "outside" was a widespread mindset of most survivors, which turned into open hostility against anything different. That was the main reason that impeded the races of Lygea to intermingle. However, the Dragnarians resolve was strong, and it could not be stopped, of course.
+Kristallfeder and her friends set up their first camp in the ruins of the city formerly known as **Cardis**, where only a few dangers and enemies awaited them. There, they also found a handful of rather powerful weapons, which helped with their efforts to explore and settle down safely.
+From Cardis they ventured north, slowly reclaiming land from [[Sciena's earliest Conquerors#The Mencarni Collective|Mencarni]] and [[Sciena's earliest Conquerors#Anvita|Anvita]]. They dealt a heavy blow to **Mencarni**, when they tracked down its **Brain**, that had settled in the central mountain. They didn't know it would grow back though, and had to defeat it there a second time. Afterwards, to prevent another regrowing, and to be able to go after the rest quickly, they moved their base to these caves.
+From there, at the mountain [[Marros]], they claimed the whole central lands. By that time their numbers had grown significantly, and their base had become a small town, which eventually became the city of [[Haarafir]].
 
-Dragnarian ships picked up representatives, adventurers, and refugees from all continents on their journeys. Those, in time, started to claim land for themselves all over Lygea. As time went on, more and more people started to reclaim the territories lost to the demons. When they discovered the small hybrid societies, a lot of them were destroyed by the right of birth the original inhabitants often claimed.
+They continued east, to heal the land from **Anvita**'s corruption, and afterwards found a vast canyon of fertile grounds there. They built another settlement, the village of [[Nasbel]].
+Further exploration lead them through the land's of [[Sciena's earliest Conquerors#Colacina's Kingdom|Colacina]] further to the east. Their inhabitants didn't take kindly to the new arrivals, of course. However, the [[Die Elementare#^Feen|fairies]] proofed no match until the queen herself stepped in. Kristallfeder and her friends personally dealt with her, but didn't kill her. In the end, they negotiated for safe passage and made peace. Soon, they reached the ruins of [[Bavista|Beía Vista]], which they planned on turning into a settlement as well.
 
-  
+One day, [[Die Forasier|Forasian]] ships were spotted on the eastern shores. Someone was sent to meet and welcome them and they were invited to be guests in the city. The small foreign scout party left the settlers as friends, but not with pure intentions. They returned with larger numbers, attacked the city and took it as their own. The invaders didn't have any interest in further negotiations, it was clear: They meant war. Kristallfeder and co. stepped in, again, threw them all out of the city, and fortified it against further attacks.
+The **Forasians** didn't give up though. They attacked the city time and time again, with more troops they trained, equipped, and sent from the islands formerly known as **Ponta Cento**. The hybrid defense held strong though, thrived even under these conditions, until they decided to bring the fight to the enemy. They declared themselves independent of any of the other races, and named the lands they claimed as the new free country of Bardeena. **Bavista**, as it was called then, was declared as the capital.
+Then they started to build their own marine fleet, equipped with the latest salvaged [[Die Eveliten|Evelitian]] technology, took **Ponta Cento** from the **Forasians**, and fortified their own border there. They've sent a clear message not only to the invaders, but to the whole world: 
 
-Kristallfeder was a second generation hybrid girl. Her Father, a Nerivan-Teyan hybrid, and her mother, a pure blood Rowagian, perished during a raid of the new Rowagian Kingdom, which left the girl orphaned. She, and others, got lucky and found refuge on a Dragnarian Trade ship, which happened to anchor at her village at that time. While their savior was keen on getting rid of them all, Kristallfeder got him to take her on, as a permanent crew member at least. So Kristallfeder became a sailor with the goal to explore the world, and in hope of finding a place where hybrids like her, could start a civilization in peace.
+> "This is our land, we're here to stay, we're not to be taken lightly, and we're not going to take your shit! ~Kristallfeder Enjar (3492)
 
-  
-
-Kristallfeder spent most of her teen years in the service of different Dragnarian captains, gathering experience, exploring Lygea - always on the lookout for tales, rumors, or even legends that might help her to reach her goal. She combined that with all the knowledge she had access to due to her friendship to the Dragnarians. Their generations lasted the longest, and also had the largest archives of knowledge saved from the old world, which she eagerly studied.
-
-She learned that basically every continent could - and she expected would - be claimed by any of the other races at some point, except Sciena. The Evelites had vacated their continent, which was exactly what she was looking for.
-
-She still spent a few years on the sea, gathering resources, skills, and maybe friends she could recruit to her cause. She explored the coastline of their soon to be home, evaluating and scouting out the dangers ahead, before finally stepping foot on it.
-
-# Flesh and Fairy Dust (Terraria)
-
-With her friends she set out on an expedition, an expedition to claim land for themselves.
-
-  
-  
-
-// TODO
-
-Magic - Kristallfeder
-
-  
-
-Goblin Army
-
-Pirate Invasion - Forasian Settlers
+From that day on, the **Forasian** attacks ceased, and Bardeena became a respected and even feared name all over Lygea. Kristallfeder died a legend as an old women, during peaceful times and of natural causes.

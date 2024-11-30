@@ -13,7 +13,7 @@ The easy access to a multitude of [[Evelitische Geschichte#Die Dome|Evelitian Ru
 > [!note]
 > Their society developed into something similar to that of middle and western Europe during the late 90's and early 2000s. So people inside the cities are used to technologies like cars, TVs, internet, and even the first smartphones. However, scientific breakthroughs are still made every day without widespread application, yet. One or the other fancy sci-fi gadget might also pop up here and there.
 ## Major Locations
-Bardeena consists of a handful of cities and villages, mostly restored ruins left over by the **CALAMITY**. However it is mainly organized by the following few:
+Bardeena consists of a handful of cities and villages, mostly restored ruins left over by the [[The Calamity|Calamity]] However it is mainly organized by the following few:
 - [[Haarafir]] 
 - [[Bavista]]
 - [[Nasbel]]
