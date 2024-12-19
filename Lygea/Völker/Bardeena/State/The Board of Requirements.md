@@ -30,29 +30,25 @@ This department takes care of the functional systems without which the society c
 ## Sub Departments
 ### The Power Company
 Electricity is seen as a basic societal need and is provided for free wherever it is needed. The bigger cities have their own power plants, while the smaller villages, settlements, and outposts usually get their power from one or multiple generators. 
-How the power is distributed may vary greatly between settlements. [[Haarafir]], for example, has the [[Haarafir#The Ener-Gea|Ener-Gea]] power plant, which distributes Electricity mostly above ground.
+How the power is distributed may vary greatly between settlements. [[Haarafir]], for example, has the [[Haarafir#The Ener-Gea|Ener-Gea]] power plant, which distributes electricity mostly above ground.
 ### The Housing Market
 The citizens are generally free to build their own houses, but they may also rent or buy a residence from the Housing Market. Due to the limited space inside the walls of each settlement, it is necessary to keep a close eye on the available living space and see that it is not overused.
 That is why new buildings are usually built only, if old ones are torn down first.
 Still, the goal is to not only provide a home for every citizen, but to also give them some options. That is why the city walls are extended, if necessary. But this is rather rare due to the effort it takes.
 ### The Post Office
-
+Handles postage and delivery of physical mail, be it letters or packages, just as you would expect them to work.
 ### The Network
-Colloquially referred to as simply The Net
-
+Colloquially referred to as simply *The Net*, they provide the necessary cabling and network coverage for telephone, mobile, internet and TV broadcasting. These services are considered optional and can only be used with additional costs. Every citizen can freely choose which service to connect to, though.
 ### The Wheeled Fleet
-public transportation
-
+Everything concerning the nation's public transportation system is handled by *The Fleet*. Building, demolition, and maintenance of public trains, subways, trams, busses, and even taxis are handled here.
+Inner city transportation (tram, subway, bus) can be used for free, but longer or more comfortable options (e.g. taxis) need extra payment.
 ### The Road Builders
-
+Building roads, sidewalks, railways, or even public places and parks are tasks for the crew of roadbuilders. 
 ### The Waste Collectors
-
-
- 
+Collection as well as safe disposal of the nation's trash is the mission here. There are even nation wide guidelines on how to separate the trash and the citizens of Bardeena are usually very thorough with this, too. A carelessly tossed piece of trash might even bring you before the [[The National Office#Department of Law|The Department of Law]]. 
 ## Organization
-Various companies make up this department, often with multiple closely related responsibilities.
-
-**
-
-# Competition
-A word to competition...
+Various companies make up this department, which often also work closely together depending on the task at hand. There's usually one major company for each of the sub-departments, which are nationally funded and absolutely have to guarantee working conditions in their respective fields.
+Smaller private companies also exists, which have to make their own living with contracted work.
+# A word about competition
+Bardeena's society is loosely based on the ideas of [Social Anarchism](https://en.wikipedia.org/wiki/Social_anarchism). However, there's still traces of classic economic competition to be found here, too. The country tries to ensure a base standard of living for everyone, but above that its pretty similar to a free market.
+That being said, each part has its own twist on the whole concept, which heavily varies even down to the individual team level.
