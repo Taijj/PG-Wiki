@@ -14,10 +14,15 @@ Nowadays Section I mainly deals with research in the following fields:
 - **History** - The [[Die Eveliten|Evelites]] left behind a vast digital library, containing most of their knowledge. Decryption and deciphering of that knowledge is not easy, though, and keeps a team of scientists very busy. Also, because they try to use it to add their own records to it, too.
 - **Mathematics** - The previously mentioned library makes it also rather easy to learn and adapt the **Evelitian** findings in the fields of **Mathematics**, **Logic**, and **System Theory**.
 - **Planetology** - The science of the planets, Lygea herself as well as the other celestial bodies, is not only supported by the **Evelitian** library, but also by the large observatory built into the city center. It survived [[The Calamity]] with rather minimal damage, and Bardeenian scientist were able to basically restore it, after some years. Planetology here encompasses fields like **Geology**, **Oceanography**, **Meteorology**, **Climatology**, as well as all of the previous ones in an **Astronomy** context.
-## Section II 
-	Fields: Physics & Material Science
+### Section II 
+	Fields: Physics, Material Science, Space
 Some time after they've defeated the [[Sciena's earliest Conquerors#The Mencarni Collective|Mencarni Collective]] for good, [[Kristallfeder Enjar|Kristallfeder]] and her friends discovered the [[Sciena's earliest Conquerors#The Screaming Forest|Screaming Forest]] and defeated its ruler, **Animix**. They found another one of the [[Evelitische Geschichte#Die Dome|Evelitian Domes]] hidden by the forest, uncovering the ruins and the vast mining network of the ancient city of **Michanipolis**.
-After it was secured and the scientists moved in, it became known as Section II. Research here is mainly done in the fields of **Physics** and **Material Science**. They basically try to recover, adapt, and possibly continue the work of their **Evelitian** predecessors. Most technological advances are credited to this section.
+After it was secured and the scientists moved in, it became known as Section II. Researchers basically try to recover, adapt, and possibly continue the work of their **Evelitian** predecessors here. Most large technological advances are credited to this section.
+
+What the [[Die Eveliten|Evelites]] left behind here, is most advantageous for these fields:
+- **Material Science** - the vast network of mineshafts under and around **Michanipolis** gave the [[Die Eveliten|Evelites]] access to vast amounts of natural resources. Though, the [[The Calamity|Calamity]] caused a widespread collapse, it also unveiled a lot of precious metals, minerals, and gemstones they had still left behind. Restoring the mining network is a good opportunity to tap into those.
+- **Physics** - Left behind were also a number of large and complex machines to reverse engineer. They give inspiration and help with research in the physical fields, e.g. Mechanics, Thermodynamics, and Electricity.
+- **Space** - A large chunk of **Evelitian** space research was also found here, which sparked the creation of a space program. This one's still pretty young, though. But they did manage to bring a rather simple communications satellite into orbit.
 ### Section III
 	Field: Chemistry
 Research concerning [[Die Elemente|The Elements]], how they work, how they interact, and how they can be combined is done here. Section III is a large and vast **Chemistry** lab, that was build right after the victory over the [[The founding of Bardeena#Flesh and Fairy Dust|Forasian Invaders]].
@@ -43,21 +48,29 @@ The Section VII Hospital is the largest, best equipped and most specialized heal
 ### Section VIII
 	Field: Invis Biology
 It took a while, until the new country calmed down enough to be able to shift the focus to themselves and their own bodies. Interest in the topic of **Invis Biology** steadily grew in the city of [[Haarafir]], since it was at peace the longest, after the country was founded. Also, the primarily [[Mischlinge|Hybrid]] nature of the population was especially interesting to explore.
-Initially composed of private researchers, a number of them finally decided at some point to share their findings and combine their efforts in the field. An effort that was rewarded with the establishment of Section VIII, which nowadays not only deals with **Biology**, but also topics like **Neuroscience**.
+Initially composed of private researchers, a number of them finally decided at some point to share their findings and combine their efforts in the field. An effort that was rewarded with the establishment of Section VIII, which nowadays not only deals with **Biology**, but also with topics like **Neuroscience**.
 ### Section IX
-Haarafir - Computer & Data (Information, Statistics, Cybersecurity, AI) - 9
+	Fields: Information & Data Science
+This section was moved around the most. It started out as a part of [[#Section I]], but was then moved to [[Haarafir]], then [[#Section II]], and back to **Haarafir**, after [[#Section II]]'s satellite began operations. During that time, computers became high in demand pretty much all over the country, but especially for the [[The Bardeena Defense Force|military]], of course.
+It was considered to also move it to [[Bavista]], but then they basically invented the internet, which was extended over the entire country, by an upgraded satellite. This way, the section's physical location stopped mattering.
+Now, the latest in computer software and hardware is researched here, also information in general, statistics, cyber security, and AI of course.
 ### Section X
-Nasbel - Ecology (Environment) - 10
+	Field: Ecology
+From the beginning, they knew they would have to be careful with the little land they claimed for themselves. They had to use the space and resources they have efficiently and without endangering their future. All Sections tried to do this anyway, but with time it became more complicated.
+They thought it best to turn this need into its own section and scientists from other sections, primarily [[#Section I|I]], [[#Section III|III]] and [[#Section IV|IV]] joined together. The 10th section was born, which deals with matters of **Ecology** and the **Environment**.
 ### Section XI
-Fodivitas - Psychology (Sociology, Economics, Learning) - 11
+	Fields: Psychology, Sociology, Learning
+After many years, [[#Section VI]] grew a bit too large and it was decided to split it into two. They both still reside near the ruins of **Fodivitas**, [[Nasbel]]. **Section VI**, had grown into a temple-like structure, while this turned into out as a rather modern office building - a very cozy one, though.
 ### Section XII
-Fodivitas - Phylosophy
-# Section XIII
+	Field: Secret
+The youngest and smallest section was created after the ruins of **Antholopos** where discovered inside the [[Marros]]. During construction of the [[Haarafir#The Ener-Gea|Ener-Gea]], the workers stumbled upon one of many large tunnels that seemingly went through the entire mountain.
+When they discovered the [[The Capsule Kids|Capsule Kids]] in a similar tunnel, they established the **Secret Section XII** to study the 6 children. Nobody found out what they were, nor how they got there. The children themselves also didn't give any clues. They seemed to be just normal babies.
+So their efforts focused more on waking all of them up, observing their growth, and integrating them into their society.
 ## Secrecy
-The oldest and largest of them are heavily guarded and mostly house [[The Bardeena Defense Force|military]] as well as scientific personnel. The largest and most important ones were established in the ruins of old evelitian domes. Those house the very valuable tech left behind by the fleeing Evelitians, and are the most important edge Bardeena has against its enemies.
-
+The oldest and largest of the Sections are heavily guarded and house [[The Bardeena Defense Force|military]] as well as scientific personnel. They house very valuable knowledge and tech - left behind by the [[Die Eveliten|Evelites]] or newly developed - and are the most important edge Bardeena has against its enemies.
+That is why unauthorized access to any of the sections is prevented from anyone without clearance, civilian or otherwise.
 # Department of Engineering
-First attempts to put research to use
+First attempts to put research to use, after that release to the public
 
 Invention & Experimentation
 
