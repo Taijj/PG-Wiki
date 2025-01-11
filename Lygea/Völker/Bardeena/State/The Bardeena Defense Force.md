@@ -60,7 +60,7 @@ Involving the police is a decision citizens don't take lightly. If the police ge
 The police might even sit by, if a fight escalates and the parties go for live and limb of the other. But only, if the fight stays between the initial parties. They will call an ambulance and give testimony still, if necessary, of course.
 ## Citizens in Arms
 It is generally allowed for each citizen to carry any weapon of their choosing. There are even weapon shops all over the country selling to anyone willing to buy. However, buyers need to be adults with a valid weapon's license. They have to buy and complete a basic weapon's training first, where they earn their right to buy any weapon of their choosing.
-The licenses for weapons are handle by the police, similar to how the [[The Ministry of Community#The Department of Mysticism|Department of Mysticism]] hands out their **Animation Licenses**.
+The licenses for weapons are handle by the police, similar to how the [[The Ministry of Community#Department of Mysticism|Department of Mysticism]] hands out their **Animation Licenses**.
 # Department of Warding
 This department's mission is to defend Bardeena against the forces of nature themselves.
 ### The Disaster Defenders

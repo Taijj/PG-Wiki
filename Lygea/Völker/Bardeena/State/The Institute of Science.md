@@ -69,19 +69,30 @@ So their efforts focused more on waking all of them up, observing their growth, 
 ## Secrecy
 The oldest and largest of the Sections are heavily guarded and house [[The Bardeena Defense Force|military]] as well as scientific personnel. They house very valuable knowledge and tech - left behind by the [[Die Eveliten|Evelites]] or newly developed - and are the most important edge Bardeena has against its enemies.
 That is why unauthorized access to any of the sections is prevented from anyone without clearance, civilian or otherwise.
-# Department of Engineering
-First attempts to put research to use, after that release to the public
+# Department of Innovation
+While the [[#Department of Research]] is concerned with gathering knowledge, this one tries to find ways to use it. Experimentation, invention, evaluation and testing of how the discovered things can best be used to benefit the entire country is done extensively here.
+## Secrecy
+This department is held to the same degree of secrecy, concerning new knowledge and technologies, as the research department is. This is to keep their technological edge over the world as well as to protect it.
+A thing they've learned, e.g. when they first discovered **Evelitian** weapons, was that they had to use caution with new discoveries. A powerful idea or thing handled carelessly could end up doing more harm to themselves than good. That is why their own general public is also kept in the dark about new discoveries at first.
+## Process
+In order to prevent misuse and potential resulting catastrophes, they established a process of evaluation for each idea sparked from new knowledge. Evaluation is done in teams, often set against each other, until the most promising ideas emerge.
+### Ideas
+For most ideas, this process is over rather quickly. Either because the given idea leads to nothing, or it is small and has a pretty obvious low impact on society as it is. Still, caution dictates to give any idea a certain amount of time to brew. All ideas, without exception, have to go through that process, more or less strict.
+### Experimentation & Invention
+First they experiment with any new piece of knowledge, and try to find ways of how it could be incorporated into everyday life. They run experiments, build gadgets, combine it with existing things, until they come up with one or multiple viable use cases. Research scientists are consulted regularly.
+### Testing & Iteration
+The emerging use cases are refined and iterated over a few times. Not just to make the new discovery as useful as possible, but also to find ways to break and misuse it. This way they hope to identify the most unknown unknowns, and turn the new technology into something that is useful and safe.
+### Observation & Adjusting
+After the testing phase, the new tech, process, or information is handed over to a selected few teams or individuals of other departments (e.g. the [[The Bardeena Defense Force#Department of Police|Police]], or the [[The Board of Requirements#Department of Production|Departmetn of Production]]). 
+Members of this department will then keep an eye on how it is used. Often, more refinement and testing is necessary until a final evaluation is reached.
+### Release
+In the end, if the idea passed all tests and concerns, it will be released to the public, i.e. released for mass production or incorporated into the country's common knowledge. Then it benefits every citizen. After a few years of public access, it may even be traded to foreign parties.
+## Location
+A number of smaller **Innovation Facilities** are spread all over the country's settlements, usually in close proximity to one of the research [[#Sections]]. These facilities are usually protected by a few [[The Bardeena Defense Force|military]] officers, depending on their importance.
 
-Invention & Experimentation
-
-- Mechanics
-- Electricity
-- Aerospace
-- Computers
-- Weapons
-
-
-
+**A.T.O.M**
+Large impact ideas on the other hand often need a widespread area of land (especially weapons).
+For that purpose, the **A.T.O.M** testing facility was created, which stands for "Advanced Testing and Observation Mission". It is located on the large peninsula East of [[Bavista]], and is the place where the most dangerous substances and most powerful weapons are tested.
 # Department of Education
 Develops, evaluates, refines, and manages the country's schooling system. Takes care of training teachers, doctors and professors. The base of valrandarian academia.
  
@@ -92,6 +103,5 @@ Develops, evaluates, refines, and manages the country's schooling system. Takes 
 
 
 
-# Department of Normalization
-(DIN, TÜV)
+
 
