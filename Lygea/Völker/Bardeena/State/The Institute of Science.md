@@ -99,6 +99,7 @@ The Bardeenian system of education, in its entirety, is handled by this departme
 Not only is the nation's population mostly made up of [[Mischlinge|Hybrids]], but all the remaining pure blood citizens are also a mixture of races, cultures, and different ages of maturity. This put the Bardeenian schools in front of a multitude of hard challenges, they had to overcome over many years.
 Diversity is one of Bardeena's [[Bardeena#Culture|core values]], and heavily encouraged. The schooling system not only accounts for that, but embraces it fully and tries to foster it as a blessing in all students. Individual learning, progression, and graduation is the result. Individual [[#Classes & Subjects|subject classes]], interdisciplinary projects, or competitions between different schools are the means. Diversity in culture, age, and skill level is [[#Appreciation Festival|celebrated]], too.
 ## Classes & Subjects
+Classes, in the classical sense of a class-year, don't exist in this system. Each individual subject (Math, Language, Chemistry, etc.) is divided into multiple classes. Each class represents a certain skill level of a subject. So, each student visits individual subject classes, depending on their respective skills in the the given subject.
 
 - Classes by Subject based on skills
 - Fast learners vs slow learners
