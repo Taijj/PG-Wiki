@@ -94,11 +94,76 @@ A number of smaller **Innovation Facilities** are spread all over the country's 
 Large impact ideas on the other hand often need a widespread area of land (especially weapons).
 For that purpose, the **A.T.O.M** testing facility was created, which stands for "Advanced Testing and Observation Mission". It is located on the large peninsula East of [[Bavista]], and is the place where the most dangerous substances and most powerful weapons are tested.
 # Department of Education
-Develops, evaluates, refines, and manages the country's schooling system. Takes care of training teachers, doctors and professors. The base of valrandarian academia.
- 
-// TODO schooling system
+The Bardeenian system of education, in its entirety, is handled by this department. Most of the schools are publicly funded, but there is one or the other private one as well. However, all schools have to adhere to certain standards, before introducing their individual twists and processes.
+## Diversity
+Not only is the nation's population mostly made up of [[Mischlinge|Hybrids]], but all the remaining pure blood citizens are also a mixture of races, cultures, and different ages of maturity. This put the Bardeenian schools in front of a multitude of hard challenges, they had to overcome over many years.
+Diversity is one of Bardeena's [[Bardeena#Culture|core values]], and heavily encouraged. The schooling system not only accounts for that, but embraces it fully and tries to foster it as a blessing in all students. Individual learning, progression, and graduation is the result. Individual [[#Classes & Subjects|subject classes]], interdisciplinary projects, or competitions between different schools are the means. Diversity in culture, age, and skill level is [[#Appreciation Festival|celebrated]], too.
+## Classes & Subjects
 
-// TODO mandatory social year (like working in a supermarket, etc)
+- Classes by Subject based on skills
+- Fast learners vs slow learners
+- Recess, Homeroom, Clubs
+- Time Tables
+### Subjects
+- Basic
+- Advanced
+- Optional
+
+Latest knowledge from the sections
+## School Levels
+
+Daycare
+
+Kindergarten
+
+Basic School - The basic of the basic, all pupils have to learn this to advance, some take longer others shorter
+
+Mid School - Builds on basic knowledge (Certain skills are required to progress in certain subjects), gets a tad more specialized, more student choice
+Until here, home town/vilage
+
+Advanced School - Further expands specialized knowledge with complete student choice of subjects
+
+University - Absolute specialization
+
+Literally a section of choice - Doctorate
+
+
+
+## Mandatory
+For children, school is mandatory until they reach [[The Ministry of Community#Levels of Maturity|maturity]]. Schooling is also publicly funded until end of Advanced School.
+But not for adults joining may continue school for as long as they please under the following conditions:
+- They pay the fair and appropriate schooling fee
+- 
+This or the army
+
+Immigrants
+
+
+## Grading & Graduation
+- Graduation documents (Zeugnis, Zensuren, Points), Ceremonies
+- Frequent assessments & competitions, Multi subject team projects
+- Subject exams
+- Individual Celebrations by student
+- Badges of honor, titles, privileges, responsibilities, etc.
+
+### Appreciation Festival
+- Yearly award ceremony, handing out individual awards to students, recognizing their efforts
+- Celebrates Diversity in Culture, Age, Skill, etc.
+## Mentoring
+- Individual Mentors
+- Individual Psychologists, person's of trust, age appropriate
+- Further Tutoring or Aids outside of school
+- Mentoring programs with people from the industrie (privilege)
+- Student Mentors
+
+## Teacher Training
+- Supportive, encourage diversity and learning
+- Encourage Questions and errors
+- Handle disputes respectfully
+- Empathy
+- Aknowledge individual and team struggles, efforts and ackomplishements
+
+
 
 
 

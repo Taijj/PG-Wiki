@@ -22,7 +22,7 @@ Bardeena consists of a handful of cities and villages, mostly restored ruins lef
 Bardeena is a multicultural society, giving the individual a lot of freedom to believe or to celebrate whatever they want. That being said, there are a few common aspects to all of it.
 ## State & Society
 State, or government for that matter, might not be a very accurate term in this case. Bardeenian society is loosely based on the basic ideas of [Social Anarchism](https://en.wikipedia.org/wiki/Social_anarchism), and therefore lacks something like a centralized government.
-Individuality, self-responsibility, mutual cooperation, rhyme & reason morality, and direct Democracy are some of its core values. Everyone should be given equality in opportunity and security, but those wishing to go above and beyond are also encouraged to do so.
+Individuality, self-responsibility, mutual cooperation, diversity, rhyme & reason morality, and direct Democracy are some of its core values. Everyone should be given equality in opportunity and security, but those wishing to go above and beyond are also encouraged to do so.
 ### Governmental Bodies
 5 general organizational parts make up Bardeenian society. They each cooperate with as little hierarchy as possible, but with as much as needed while trying to equally share the country's resources:
 - [[The National Office]]

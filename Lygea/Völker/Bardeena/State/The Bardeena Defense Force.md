@@ -2,7 +2,7 @@
 
 In short, these are the [[Bardeena|Bardeenian]] executive forces. They establish order and take care of the country's inner and outer defenses. As with the rest of the country, hierarchies can be rather loose here as well, at least during normal operations. However, in situations of emergency and quick decision necessity, these hierarchies tighten considerably and ranks become important, of course.
 # Department of War
-Primarily responsible for the defense against external threads, this is the department for fighting the nation's wars, i.e. the Bardeenian army. Its official mission statement only takes a defensive position, but it is also known to lead the one or other offensive, if necessary.
+Primarily responsible for the defense against external threats, this is the department for fighting the nation's wars, i.e. the Bardeenian army. Its official mission statement only takes a defensive position, but it is also known to lead the one or other offensive, if necessary.
 ## Basic Training
 Every adult citizen, who chooses to join the military, will be put through basic training first. Here the new recruit will learn all basic skills necessary to become a soldier. The training usually lasts a year and contains a bunch of maneuvers to evaluate how fit the recruit is for battle, and which specialization they seem to be best for.
 1. After a month, new recruits are sent to camp out in the woods of the wild. There they have to survive as a unit against the usual dangers of the wild.
