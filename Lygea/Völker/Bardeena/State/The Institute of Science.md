@@ -97,25 +97,18 @@ For that purpose, the **A.T.O.M** testing facility was created, which stands for
 The Bardeenian system of education, in its entirety, is handled by this department. Most of the schools are publicly funded, but there is one or the other private one as well. However, all schools have to adhere to certain standards, before introducing their individual twists and processes.
 ## Diversity
 Not only is the nation's population mostly made up of [[Mischlinge|Hybrids]], but all the remaining pure blood citizens are also a mixture of races, cultures, and different ages of maturity. This put the Bardeenian schools in front of a multitude of hard challenges, they had to overcome over many years.
-Diversity is one of Bardeena's [[Bardeena#Culture|core values]], and heavily encouraged. The schooling system not only accounts for that, but embraces it fully and tries to foster it as a blessing in all students. Individual learning, progression, and graduation is the result. Individual [[#Classes & Subjects|subject classes]], interdisciplinary projects, or competitions between different schools are the means. Diversity in culture, age, and skill level is [[#Appreciation Festival|celebrated]], too.
-## Classes & Subjects
-Classes, in the classical sense of a class-year, don't exist in this system. Each individual subject (Math, Language, Chemistry, etc.) is divided into multiple classes. Each class represents a certain skill level of a subject. So, each student visits individual subject classes, depending on their respective skills in the the given subject.
-
-- Classes by Subject based on skills
-- Fast learners vs slow learners
-- Recess, Homeroom, Clubs
-- Time Tables
-### Subjects
-- Basic
-- Advanced
-- Optional
-
-Latest knowledge from the sections
+Diversity is one of Bardeena's [[Bardeena#Culture|core values]], and heavily encouraged. The schooling system not only accounts for that, but embraces it fully and tries to foster it as a blessing in all pupils. Individual learning, progression, and graduation is the result. Individual [[#Classes|subject classes]], interdisciplinary projects, or competitions between different schools are the means. Diversity in culture, age, and skill level is [[#Appreciation Festival|celebrated]], too.
+## Classes
+Classes, in the classical sense of a class-year, don't exist in this system. Each individual subject (Math, Language, Chemistry, etc.) is divided into multiple classes. Each class represents a certain skill level of a subject. So, each individual pupil is actually in several classes at once, depending on their respective skills in the the given subject.
+So classes are made up of differently aged pupils with roughly the same skill, but different age and level of maturity. If a pupil acquires the required knowledge and skills to advance to the next class, they may choose to do so soon. They might also stay on for a while longer, to either practice some more, or help with tutoring their fellow pupil (see: [[#Grading & Graduation]]).
+This has an impact on pupil timetables of course, which may undergo a lot of changes over the course of a year. It also gets in the way of forming meaningful relationships with fellow classmates, at times. To compensate, and to give pupils a break of course, every school day has an hour of mid-day recess. Additionally, pupils are encouraged to join extracurricular activities, like study clubs, or just stay in school to doo homework together. However, this is optional.
 ## School Levels
-
-Daycare
-
-Kindergarten
+Schools organize themselves into different levels as well, which go from the most basic knowledge to more and more specialized subjects. Some schools only teach at one level, while others expand to a whole campus, teaching at multiple levels.
+### Daycare & Kindergarten
+These are actually handled by the [[The Ministry of Community#Department of Family|Department of Family]], but also work closely together with this department, to prepare the children for what's to come. The teaching happening here, is less structured, and more concerned with early childhood development then to actually teach subject matter.
+### Fun(damental) School
+	German: Grundschule
+Here pupils learn the absolute basics of the basics of the common knowledge expected in every Bardeenian citizen. All pupils absolutely have to learn everything this level can teach to be able to advance to the next level.
 
 Basic School - The basic of the basic, all pupils have to learn this to advance, some take longer others shorter
 
@@ -128,6 +121,11 @@ University - Absolute specialization
 
 Literally a section of choice - Doctorate
 
+### Subjects
+Latest knowledge from the sections
+- Basic
+- Advanced
+- Optional
 
 
 ## Mandatory
@@ -146,6 +144,7 @@ Immigrants
 - Subject exams
 - Individual Celebrations by student
 - Badges of honor, titles, privileges, responsibilities, etc.
+- Monthly evaluation
 
 ### Appreciation Festival
 - Yearly award ceremony, handing out individual awards to students, recognizing their efforts
