@@ -35,3 +35,5 @@ The Bardeenian [[The Institute of Science#Department of Education|system of educ
 
 # Department of Standardization
 Also here!
+
+Also, makes rules that hold weight in court, and can be used to "sue" somebody.
