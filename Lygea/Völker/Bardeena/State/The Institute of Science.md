@@ -108,17 +108,19 @@ Schools organize themselves into different levels as well, which go from the mos
 These are actually handled by the [[The Ministry of Community#Department of Family|Department of Family]], but also work closely together with this department to prepare the children for what's to come. The teaching happening here is less structured and more concerned with early childhood development then to actual subject matter, too.
 ### Fun(damental) School
 	German: Grundschule
-Here pupils learn the absolute basics of the basics of the common knowledge expected in every Bardeenian citizen. All pupils absolutely have to learn everything this level can teach to be able to advance to the next level.
+Here pupils learn the absolute basics of the basics of the common knowledge expected in every Bardeenian citizen. All pupils absolutely have to learn everything this level can teach in order for society to deem them capable of contributing.
 
 Subjects:
-- Math(ematics) - Basic calculus, geometry, and Algebra
-- Language
-- History
-- Sports
-- Arts
-- ...
+- Math & Science - Basic algebra and geometry, simple physics and chemistry,
+- Language & Literature - Reading, Writing, Speaking
+- History & Home - Basic local history, local Flora & Fauna, handling money, the state, [[Die Mystik|mystic]] pitfalls
+- Sports & Wilderness - Games, dangers of the wild, basic navigation
+- Arts, Crafts & Music - Drawing, Painting, Sculpting, Pottery, Singing, Notation, Playing an Instrument
+- Culture & Diversity - Overview over the [[Die Invis|Invis]] cultures, basic Biology, teamwork
 
-Most children graduate as [[The Ministry of Community#Levels of Maturity|Interactors]], while rare cases of earlier and later levels is considered normal, too. Graduation ceremonies are held every quarter of a year, and graduates receive a so-called **Fundamentals Diploma**.
+Most children graduate as [[The Ministry of Community#Levels of Maturity|Interactors]], while cases of earlier and later levels is considered normal, too - everyone learns at their own pace. Graduation ceremonies are held every quarter of a year, and graduates receive a so-called **Fundamentals Diploma**.
+This diploma theoretically enables them to start a career - an admittedly simple one, but a career nonetheless. Children have to continue with school until they are **Adults**, so this does not happen often. **Adult** graduates do happen once in a blue moon, though. Especially amongst pure-blood [[Die Forasier|Forasians]], but continuing is still the norm, even for them.
+
 ### Mid(dle) School
 	German: Mittelschule
 In middle school, subjects build on top of the basic knowledge each pupil acquired from the previous level. A number of subjects are mandatory, but others may be chosen according to the pupil's interests. 
