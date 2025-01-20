@@ -105,12 +105,23 @@ This has an impact on pupil timetables of course, which may undergo a lot of cha
 ## School Levels
 Schools organize themselves into different levels as well, which go from the most basic knowledge to more and more specialized subjects. Some schools only teach at one level, while others expand to a whole campus, teaching at multiple levels.
 ### Daycare & Kindergarten
-These are actually handled by the [[The Ministry of Community#Department of Family|Department of Family]], but also work closely together with this department, to prepare the children for what's to come. The teaching happening here, is less structured, and more concerned with early childhood development then to actually teach subject matter.
+These are actually handled by the [[The Ministry of Community#Department of Family|Department of Family]], but also work closely together with this department to prepare the children for what's to come. The teaching happening here is less structured and more concerned with early childhood development then to actual subject matter, too.
 ### Fun(damental) School
 	German: Grundschule
 Here pupils learn the absolute basics of the basics of the common knowledge expected in every Bardeenian citizen. All pupils absolutely have to learn everything this level can teach to be able to advance to the next level.
 
-Basic School - The basic of the basic, all pupils have to learn this to advance, some take longer others shorter
+Subjects:
+- Math(ematics) - Basic calculus, geometry, and Algebra
+- Language
+- History
+- Sports
+- Arts
+- ...
+
+Most children graduate as [[The Ministry of Community#Levels of Maturity|Interactors]], while rare cases of earlier and later levels is considered normal, too. Graduation ceremonies are held every quarter of a year, and graduates receive a so-called **Fundamentals Diploma**.
+### Mid(dle) School
+	German: Mittelschule
+In middle school, subjects build on top of the basic knowledge each pupil acquired from the previous level. A number of subjects are mandatory, but others may be chosen according to the pupil's interests. 
 
 Mid School - Builds on basic knowledge (Certain skills are required to progress in certain subjects), gets a tad more specialized, more student choice
 Until here, home town/vilage
@@ -149,6 +160,7 @@ Immigrants
 ### Appreciation Festival
 - Yearly award ceremony, handing out individual awards to students, recognizing their efforts
 - Celebrates Diversity in Culture, Age, Skill, etc.
+- Holidays
 ## Mentoring
 - Individual Mentors
 - Individual Psychologists, person's of trust, age appropriate
