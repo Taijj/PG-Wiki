@@ -99,7 +99,7 @@ The Bardeenian system of education, in its entirety, is handled by this departme
 Not only is the nation's population mostly made up of [[Mischlinge|Hybrids]], but all the remaining pure blood citizens are also a mixture of races, cultures, and different ages of maturity. This put the Bardeenian schools in front of a multitude of hard challenges, they had to overcome over many years.
 Diversity is one of Bardeena's [[Bardeena#Culture|core values]], and heavily encouraged. The schooling system not only accounts for that, but embraces it fully and tries to foster it as a blessing in all pupils. Individual learning, progression, and graduation is the result. Individual [[#Classes|subject classes]], interdisciplinary projects, or competitions between different schools are the means. Diversity in culture, age, and skill level is [[#Appreciation Festival|celebrated]], too.
 ## Classes
-Classes, in the classical sense of a class-year, don't exist in this system. Each individual subject (Math, Language, Chemistry, etc.) is divided into multiple classes. Each class represents a certain skill level of a subject. So, each individual pupil is actually in several classes at once, depending on their respective skills in the the given subject.
+Classes, in the classical sense of a class-year, don't exist in this system. Each individual subject is divided into multiple classes (Math I, Language IV, Chemistry III, etc.). Each class represents a certain skill level of a subject. So, each individual pupil is actually in several classes at once, depending on their respective skills in the the given subject.
 So classes are made up of differently aged pupils with roughly the same skill, but different age and level of maturity. If a pupil acquires the required knowledge and skills to advance to the next class, they may choose to do so soon. They might also stay on for a while longer, to either practice some more, or help with tutoring their fellow pupil (see: [[#Grading & Graduation]]).
 This has an impact on pupil timetables of course, which may undergo a lot of changes over the course of a year. It also gets in the way of forming meaningful relationships with fellow classmates, at times. To compensate, and to give pupils a break of course, every school day has an hour of mid-day recess. Additionally, pupils are encouraged to join extracurricular activities, like study clubs, or just stay in school to doo homework together. However, this is optional.
 ## School Levels
@@ -111,27 +111,59 @@ These are actually handled by the [[The Ministry of Community#Department of Fami
 Here pupils learn the absolute basics of the basics of the common knowledge expected in every Bardeenian citizen. All pupils absolutely have to learn everything this level can teach in order for society to deem them capable of contributing.
 
 Subjects:
-- Math & Science - Basic algebra and geometry, simple physics and chemistry,
-- Language & Literature - Reading, Writing, Speaking
-- History & Home - Basic local history, local Flora & Fauna, handling money, the state, [[Die Mystik|mystic]] pitfalls
-- Sports & Wilderness - Games, dangers of the wild, basic navigation
-- Arts, Crafts & Music - Drawing, Painting, Sculpting, Pottery, Singing, Notation, Playing an Instrument
-- Culture & Diversity - Overview over the [[Die Invis|Invis]] cultures, basic Biology, teamwork
+- **Math & Science** - Basic algebra and geometry, simple physics and chemistry
+- **Language & Literature** - Reading, Writing, Speaking, using language
+- **History & Home** - Basic local history, handling money, the state organization, housework
+- **Sports & Wilderness** - Sports & Health, basic navigation, local Flora & Fauna, basic Anomiology
+- **Arts, Crafts & Music** - Drawing, Painting, Sculpting, Pottery, Singing, Notation, Playing an Instrument
+- **Culture & Diversity** - Overview over all the [[Die Invis|Invis]] cultures and religions, rituals, [[Die Mystik|mystic]] pitfalls
 
 Most children graduate as [[The Ministry of Community#Levels of Maturity|Interactors]], while cases of earlier and later levels is considered normal, too - everyone learns at their own pace. Graduation ceremonies are held every quarter of a year, and graduates receive a so-called **Fundamentals Diploma**.
-This diploma theoretically enables them to start a career - an admittedly simple one, but a career nonetheless. Children have to continue with school until they are **Adults**, so this does not happen often. **Adult** graduates do happen once in a blue moon, though. Especially amongst pure-blood [[Die Forasier|Forasians]], but continuing is still the norm, even for them.
-
+This diploma theoretically enables them to start a career - an admittedly simple one, but a career nonetheless. Children have to continue with school until they are **Adults**, so this does not happen often. **Adult** graduates do happen once in a blue moon, though. Especially amongst pure-blood [[Die Forasier|Forasians]], but even for them continuation is still the norm.
 ### Mid(dle) School
 	German: Mittelschule
-In middle school, subjects build on top of the basic knowledge each pupil acquired from the previous level. A number of subjects are mandatory, but others may be chosen according to the pupil's interests. 
+In middle school, subjects build on top of the basic knowledge each pupil acquired from the previous level. The total number of subjects increased significantly and pupils therefore have to choose, which they want to learn.
+
+Subjects:
+Subjects are divided into categories and pupils have to select at least one subject of each going forward. If they wish, they may also choose more subjects from any given category, as long as there's still capacity on their time table.
+The following lists all the categories with example subjects for each. Not all subjects are available at all the schools, though, and some build on the knowledge of others and can only be chosen as soon as the required knowledge was acquired:
+- **Logical**: Math, Informatics, Statistics, Data Science
+- **Language**: Second, Third, Fourth, etc.
+- **Natural**: Physics, Biology, Chemistry, [[#Section I|Planetology]], [[#Section IV|Anomiology]]
+- **Artistic**: Visual Arts, Performing Arts
+- **Cultural**: General or race specific History, [[#Section V|Evetology]]
+- **Physical**: Athletics, Gymnastics, Dance, Martial Arts
+- **Mystic**:
+	- [[Die Mystik#Basierend auf Animation|Animations]] - usually in combination with Martial Arts
+	- Enchantments - mostly dealing with [[Die Mystik#Mystifizierungen|Mystifications]] of places and objects
+	- Gemology - in this case in regard to their mystic capabilities
+	- Curses - about [[Geister|ghosts]] and the [[Besessene|posessed]]
+
+Graduation ceremonies are held every quarter of a year here as well. Graduates receive the so-called **Mid Diploma**, which lists all their chosen subjects and how many [[#Classes]] they've completed for each. Pupils become eligible for graduation, when either of the following happens:
+- They completed all classes for each chosen mandatory subject, or
+- They became an adult
+
+Adults may choose to finish, but as soon as a subject is failed, it is locked in
+
 
 Mid School - Builds on basic knowledge (Certain skills are required to progress in certain subjects), gets a tad more specialized, more student choice
-Until here, home town/vilage
+
 
 Advanced School - Further expands specialized knowledge with complete student choice of subjects
 
-University - Absolute specialization
+From here on, not home town/vilage anymore
 
+- Business
+- Soul Studies
+- Philosophy & Ethiks
+- Evetology
+- Economy
+- Anomiology
+- Psychology
+- Computer Science
+
+University - Absolute specialization
+Stipendium from a section
 Literally a section of choice - Doctorate
 
 ### Subjects
@@ -157,7 +189,7 @@ Immigrants
 - Subject exams
 - Individual Celebrations by student
 - Badges of honor, titles, privileges, responsibilities, etc.
-- Monthly evaluation
+- Regular physical and psychological evaluations
 
 ### Appreciation Festival
 - Yearly award ceremony, handing out individual awards to students, recognizing their efforts
