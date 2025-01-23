@@ -95,13 +95,36 @@ Large impact ideas on the other hand often need a widespread area of land (espec
 For that purpose, the **A.T.O.M** testing facility was created, which stands for "Advanced Testing and Observation Mission". It is located on the large peninsula East of [[Bavista]], and is the place where the most dangerous substances and most powerful weapons are tested.
 # Department of Education
 The Bardeenian system of education, in its entirety, is handled by this department. Most of the schools are publicly funded, but there is one or the other private one as well. However, all schools have to adhere to certain standards, before introducing their individual twists and processes.
-## Diversity
+## General
+### Diversity
 Not only is the nation's population mostly made up of [[Mischlinge|Hybrids]], but all the remaining pure blood citizens are also a mixture of races, cultures, and different ages of maturity. This put the Bardeenian schools in front of a multitude of hard challenges, they had to overcome over many years.
 Diversity is one of Bardeena's [[Bardeena#Culture|core values]], and heavily encouraged. The schooling system not only accounts for that, but embraces it fully and tries to foster it as a blessing in all pupils. Individual learning, progression, and graduation is the result. Individual [[#Classes|subject classes]], interdisciplinary projects, or competitions between different schools are the means. Diversity in culture, age, and skill level is [[#Appreciation Festival|celebrated]], too.
-## Classes
+### Classes
 Classes, in the classical sense of a class-year, don't exist in this system. Each individual subject is divided into multiple classes (Math I, Language IV, Chemistry III, etc.). Each class represents a certain skill level of a subject. So, each individual pupil is actually in several classes at once, depending on their respective skills in the the given subject.
-So classes are made up of differently aged pupils with roughly the same skill, but different age and level of maturity. If a pupil acquires the required knowledge and skills to advance to the next class, they may choose to do so soon. They might also stay on for a while longer, to either practice some more, or help with tutoring their fellow pupil (see: [[#Grading & Graduation]]).
+So classes are made up of differently aged pupils with roughly the same skill, but different age and level of maturity. If a pupil acquires the required knowledge and skills to advance to the next class, they may choose to do so soon. They might also stay on for a while longer, to either practice some more, or help with tutoring their fellow pupil (see: [[#Grading]]).
 This has an impact on pupil timetables of course, which may undergo a lot of changes over the course of a year. It also gets in the way of forming meaningful relationships with fellow classmates, at times. To compensate, and to give pupils a break of course, every school day has an hour of mid-day recess. Additionally, pupils are encouraged to join extracurricular activities, like study clubs, or just stay in school to doo homework together. However, this is optional.
+### Grading
+To measure the pupil's acquired knowledge and skill in any given class, teachers grade their students regularly.
+
+> Grades are given via [[Voxciel]] numerals from **I** (lowest) to **X** (highest).
+
+The pass grade is the **V**. At the end of each quarter, the grades are averaged. If a pupil's average is at least a **V**, they may pass on to the next class for the next quarter.
+Most grades are collected via formal exams, which are held at least every 2 weeks. Once a quarter there are multi subject group projects, school competitions, and other events held that are used for grading as well. These also influence a pupil's [[#Evaluation]] result.
+### Evaluation
+To determine a pupil's [[The Ministry of Community#Levels of Maturity|Level of Maturity]], teachers also report regularly on every pupil's physical and mental development. Since teaching is already rather taxing, every school also has a small staff of psychologists that help with pupil evaluation as well as giving support to teachers.
+### Incentives
+Schools are encouraged to honor and reward hard work in every student. However, there are no hard rules to follow in this regard, so every school has their own system. The goal is to incentivize and motivate the pupils to be the best they can be, e.g.
+- Badges of Honor ("I earned that V!", "I defeated this Illness!", "I finally beat class 3!")
+- Public recognition for struggling students
+- An individual day off, handed out by the teacher
+- Mentoring Programs with people from the industry
+- Class trips to places where the respective class knowledge is actually needed
+### Mentoring
+- Individual Mentors
+- Individual Psychologists, person's of trust, age appropriate
+- Further Tutoring or Aids outside of school
+- Mentoring programs with people from the industrie (privilege)
+- Student Mentors
 ## School Levels
 Schools organize themselves into different levels as well, which go from the most basic knowledge to more and more specialized subjects. Some schools only teach at one level, while others expand to a whole campus, teaching at multiple levels.
 ### Daycare & Kindergarten
@@ -109,23 +132,21 @@ These are actually handled by the [[The Ministry of Community#Department of Fami
 ### Fun(damental) School
 	German: Grundschule
 Here pupils learn the absolute basics of the basics of the common knowledge expected in every Bardeenian citizen. All pupils absolutely have to learn everything this level can teach in order for society to deem them capable of contributing.
-
-Subjects:
+##### Fun Subjects:
 - **Math & Science** - Basic algebra and geometry, simple physics and chemistry
 - **Language & Literature** - Reading, Writing, Speaking, using language
 - **History & Home** - Basic local history, handling money, the state organization, housework
 - **Sports & Wilderness** - Sports & Health, basic navigation, local Flora & Fauna, basic Anomiology
 - **Arts, Crafts & Music** - Drawing, Painting, Sculpting, Pottery, Singing, Notation, Playing an Instrument
 - **Culture & Diversity** - Overview over all the [[Die Invis|Invis]] cultures and religions, rituals, [[Die Mystik|mystic]] pitfalls
-
+##### Fun Graduation
 Most children graduate as [[The Ministry of Community#Levels of Maturity|Interactors]], while cases of earlier and later levels is considered normal, too - everyone learns at their own pace. Graduation ceremonies are held every quarter of a year, and graduates receive a so-called **Fundamentals Diploma**.
 This diploma theoretically enables them to start a career - an admittedly simple one, but a career nonetheless. Children have to continue with school until they are **Adults**, so this does not happen often. **Adult** graduates do happen once in a blue moon, though. Especially amongst pure-blood [[Die Forasier|Forasians]], but even for them continuation is still the norm.
 ### Mid(dle) School
 	German: Mittelschule
 In middle school, subjects build on top of the basic knowledge each pupil acquired from the previous level. The total number of subjects increased significantly and pupils therefore have to choose, which they want to learn.
-
-Subjects:
-Subjects are divided into categories and pupils have to select at least one subject of each going forward. If they wish, they may also choose more subjects from any given category, as long as there's still capacity on their time table.
+##### Mid Subjects
+Subjects are divided into categories and pupils have to select at least one subject of each going forward. If they wish, they may also choose more subjects from any given category, as long as there's still capacity on their time table. Optional choices may be dropped at any time.
 The following lists all the categories with example subjects for each. Not all subjects are available at all the schools, though, and some build on the knowledge of others and can only be chosen as soon as the required knowledge was acquired:
 - **Logical**: Math, Informatics, Statistics, Data Science
 - **Language**: Second, Third, Fourth, etc.
@@ -138,76 +159,63 @@ The following lists all the categories with example subjects for each. Not all s
 	- Enchantments - mostly dealing with [[Die Mystik#Mystifizierungen|Mystifications]] of places and objects
 	- Gemology - in this case in regard to their mystic capabilities
 	- Curses - about [[Geister|ghosts]] and the [[Besessene|posessed]]
+##### Mid Graduation
+Graduation ceremonies are held every quarter of a year here as well. Graduates receive the so-called **Mid Diploma**, which lists all their chosen subjects and how many [[#Classes]] they've completed for each.
+How pupils become eligible for graduation is rather complicated due to the diverse nature of this society. In general they become graduates as soon as they either become [[The Ministry of Community#Levels of Maturity|Adults]], or complete all classes of all their chosen subjects.
+- **Adults**: Adults may choose to graduate right away, or at any time after, until they are **Mature**. As soon as they matured fully, they have to graduate at the end of the current quarter, at which point their progress will be locked in.
+- **Completed Classes**: Pupils actually have a fair chance to complete necessary classes in time, since they only need to complete 1 subject in each category, no matter which.
+### Ad(vanced) School
+	German: Extraschule
+This school is mandatory only for citizens that haven't reached the [[The Ministry of Community#Levels of Maturity|Adults]] stage, yet. It expands on and deepens the teachings of [[#Mid(dle) School|Mid School]] further, which is considered completely optional. That is why pupils have complete freedom with which subjects they choose to continue. They might even choose not to continue at all and become **Junior Teachers** instead.
+- Schooling on this level still remains free for pupils that haven't fully matured. Anyone else, will have to start paying for classes, though.
+- Schools offering the **Advanced Level** are all primarily [[#Mid(dle) School|Mid School]]s. Not all **Mid Schools** offer the **Advanced Level**, but there are no schools for the **Advanced Level** only.
+- This is also the first level were pupils from all over the country may attend. Pupils from the previous levels may only visit schools in their home settlements.
+##### Ad Subjects
+Besides offering a few more classes for all [[#Mid Subjects|Mid School Subjects]], a school dependent selection of **Advanced Subjects** may be offered as well. While school still stayed rather general up to this point, these subjects are already rather specialized and might go deeper into the matter. Here are some examples:
 
-Graduation ceremonies are held every quarter of a year here as well. Graduates receive the so-called **Mid Diploma**, which lists all their chosen subjects and how many [[#Classes]] they've completed for each. Pupils become eligible for graduation, when either of the following happens:
-- They completed all classes for each chosen mandatory subject, or
-- They became an adult
-
-Adults may choose to finish, but as soon as a subject is failed, it is locked in
-
-
-Mid School - Builds on basic knowledge (Certain skills are required to progress in certain subjects), gets a tad more specialized, more student choice
-
-
-Advanced School - Further expands specialized knowledge with complete student choice of subjects
-
-From here on, not home town/vilage anymore
-
-- Business
-- Soul Studies
-- Philosophy & Ethiks
-- Evetology
-- Economy
-- Anomiology
-- Psychology
-- Computer Science
-
-University - Absolute specialization
-Stipendium from a section
-Literally a section of choice - Doctorate
-
-### Subjects
-Latest knowledge from the sections
-- Basic
-- Advanced
-- Optional
+| Business | Philosophy              | Ethics              | Psychology | Combat Animations  |
+| -------- | ----------------------- | ------------------- | ---------- | ------------------ |
+| Economy  | Computer Science        | Robotics            | Neurology  | Theology           |
+| Fincance | Theoretical Mathematics | Theoretical Physics | Medicine   | Competative Sports |
+##### Ad Graduation
+Graduation works similar to [[#Mid Graduation]], but the deadline is extended until [[The Ministry of Community#Levels of Maturity|Maturity]]. So every no-**Adult** pupil has to stay until they are an **Adult**, and everyone will graduate at the end of the next quarter as soon as they turned **Mature**.
+### University
+University is completely optional and is only required, if the goal is to become part of one of the [[#Sections]] Other than that it is pretty much the same, as one would expect (students, professors, lectures, diplomas, doctorates, etc.).
+Not all students end up in the **Sections**, though. Many of them also become other kinds of experts, hired or private, and make a living that way.
+Since studying is optional, it has to be paid for, and all the ways imaginable exist in Bardeena, too. (Student loans, scholarships, part time jobs, rich parents, etc.).
+### Special Cases
+The previous paragraphs described the general way of how its supposed to work for the general population. However, individual exceptions to the rules may also be applied, if justified by circumstances, e.g. immigrants, special-needs citizens, or [[The Ministry of Community#Levels of Maturity|Mature]] adults that want to learn.
+If possible those are integrated into the general process, if they so wish.
+Otherwise, there is also a number of evening education programs, which aim to close any potential holes in any individuals common knowledge. In any case, a [[#Mentoring|Mentor]] gets assigned, which helps along the way with progress and evaluates personal motivation.
 
 
-## Mandatory
-For children, school is mandatory until they reach [[The Ministry of Community#Levels of Maturity|maturity]]. Schooling is also publicly funded until end of Advanced School.
-But not for adults joining may continue school for as long as they please under the following conditions:
-- They pay the fair and appropriate schooling fee
-- 
-This or the army
-
-Immigrants
 
 
-## Grading & Graduation
-- Graduation documents (Zeugnis, Zensuren, Points), Ceremonies
-- Frequent assessments & competitions, Multi subject team projects
-- Subject exams
-- Individual Celebrations by student
-- Badges of honor, titles, privileges, responsibilities, etc.
-- Regular physical and psychological evaluations
+## Vacations & Celebrations
 
 ### Appreciation Festival
 - Yearly award ceremony, handing out individual awards to students, recognizing their efforts
 - Celebrates Diversity in Culture, Age, Skill, etc.
 - Holidays
-## Mentoring
-- Individual Mentors
-- Individual Psychologists, person's of trust, age appropriate
-- Further Tutoring or Aids outside of school
-- Mentoring programs with people from the industrie (privilege)
-- Student Mentors
 
-## Teacher Training
+
+## Teacher Training & Subject Selection
 - Supportive, encourage diversity and learning
 - Encourage Questions and errors
 - Handle disputes respectfully
 - Empathy
 - Aknowledge individual and team struggles, efforts and ackomplishements
+- Latest knowledge from the sections
+
+## Mandatory Years
+- Public service (Jobs nobody in particular wants to do)
+	- Army
+	- Health
+	- Post
+	- Cashier
+	- Frying Burgers
+	- etc.
+
 
 
 

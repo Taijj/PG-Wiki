@@ -9,6 +9,8 @@ Die 6 **Invis**-Völker lebten auf [[Panteus|Panteus]] stark von einander getren
 
 Im normalen Sprachgebrauch verlor Voxciel so bald an Bedeutung. Am Ende wurde es nur noch von den [[Die Regidea|Regidea]], sowie von den **Ältesten** der [[Die Invis#Die Ältesten|Invis]] und der [[Die Anomi#Die Ältesten|Anomi]] gesprochen.
 
+// TODO: Numerals (Roman)
+
 # Wörterbuch
 	Basis: Antikes Latein
 
