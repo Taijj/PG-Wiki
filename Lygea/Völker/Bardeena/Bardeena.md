@@ -81,7 +81,7 @@ In the spirit of balance, each citizen of Bardeena is granted the luxury of free
 - **24th - 27th of Bolember**: Friendsharing - Christmas like celebration in remembrance of the friendship between Kristallfeder and her allies.    
 - **4th of Forai**: Independence Day - Celebration in honor of fighting off the [[Die Forasier|Forasian]] threat at Bavista.    
 - **30th of Nerivober**: Willaween - Celebration of driving out the spirits of Wilder, like Halloween
-- **Last Lihday of Eveli**: Festival of Live - like human Eastern, inspired by [[Die Nerivaner|Nerivan]] religion
+- **Last Lihday of Eveli**: Festival of Life - like human Eastern, inspired by [[Die Nerivaner|Nerivan]] religion
 (Check the [[Der lygeanische Kalender|lygean calendar]] for details about weekdays and months.)
 ### Vacations
 - The recommended number of vacation days for each worker is 24 per year, but is by no means a rule. Some companies have a few less and some a few more.    

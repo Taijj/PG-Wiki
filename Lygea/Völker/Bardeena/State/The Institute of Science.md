@@ -120,11 +120,15 @@ Schools are encouraged to honor and reward hard work in every student. However, 
 - Mentoring Programs with people from the industry
 - Class trips to places where the respective class knowledge is actually needed
 ### Mentoring
-- Individual Mentors
-- Individual Psychologists, person's of trust, age appropriate
-- Further Tutoring or Aids outside of school
-- Mentoring programs with people from the industrie (privilege)
-- Student Mentors
+There is a multitude of reasons, many different life circumstances and situations, which may put any pupil in a tough situation. That is why any pupil has the right to ask for a personal mentor, or get one assigned, if their struggles become known to the school staff in other ways. These mentors will help and guide their students through their struggles, and accompany them until they are not needed anymore.
+Examples:
+- A pupil lost a family member and gets regular therapy from a school psychologist
+- Another struggles with a certain subject matter and attends personal lessons with a teacher after school
+- An older, as in more mature, pupil helps a group of younger ones with their homework
+- A parent steps in to be there for another child, which has trouble at home
+The mentor and their pupils work out individual solutions and plans for the given situation at hand. Some pupils need more attention, others less.
+
+Anyone can become a mentor. Most mentors are school staff, though, but also other pupils and even private volunteers are accepted, if the pupil knows them. Mentors may even assign themselves to pupils they find exceptionally gifted and promising.
 ## School Levels
 Schools organize themselves into different levels as well, which go from the most basic knowledge to more and more specialized subjects. Some schools only teach at one level, while others expand to a whole campus, teaching at multiple levels.
 ### Daycare & Kindergarten
@@ -191,7 +195,24 @@ Otherwise, there is also a number of evening education programs, which aim to cl
 
 
 
-## Vacations & Celebrations
+## Holidays & Celebrations
+
+### Holidays
+- 2 weeks around new years
+- 2 weeks friendsharing
+- 6 weeks summer (Eveli, around the Festival of Life)
+- 
+
+
+**30th of Teyember/1st of Lyruar**: New years eve - Two day celebration at the change of the year, basically the same as human new years.    
+- **15th of Veril**: Day of Purification - Celebration in memory of the defeat of Mencarni and Anvita and the purification of the land for agriculture, similar to human Thanksgiving.    
+- **3rd of Silember**: Founding day - Celebration in honor of the foundation of Bardeena.    
+- **24th - 27th of Bolember**: Friendsharing - Christmas like celebration in remembrance of the friendship between Kristallfeder and her allies.    
+- **4th of Forai**: Independence Day - Celebration in honor of fighting off the [[Die Forasier|Forasian]] threat at Bavista.    
+- **30th of Nerivober**: Willaween - Celebration of driving out the spirits of Wilder, like Halloween
+- **Last Lihday of Eveli**: Festival of Live - like human Eastern, inspired by [[Die Nerivaner|Nerivan]] religion
+
+### Graduation Ceremony
 
 ### Appreciation Festival
 - Yearly award ceremony, handing out individual awards to students, recognizing their efforts
