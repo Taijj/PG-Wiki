@@ -198,20 +198,13 @@ Otherwise, there is also a number of evening education programs, which aim to cl
 ## Holidays & Celebrations
 
 ### Holidays
-- 2 weeks around new years
-- 2 weeks friendsharing
-- 6 weeks summer (Eveli, around the Festival of Life)
-- 
-
-
-**30th of Teyember/1st of Lyruar**: New years eve - Two day celebration at the change of the year, basically the same as human new years.    
-- **15th of Veril**: Day of Purification - Celebration in memory of the defeat of Mencarni and Anvita and the purification of the land for agriculture, similar to human Thanksgiving.    
-- **3rd of Silember**: Founding day - Celebration in honor of the foundation of Bardeena.    
-- **24th - 27th of Bolember**: Friendsharing - Christmas like celebration in remembrance of the friendship between Kristallfeder and her allies.    
-- **4th of Forai**: Independence Day - Celebration in honor of fighting off the [[Die Forasier|Forasian]] threat at Bavista.    
-- **30th of Nerivober**: Willaween - Celebration of driving out the spirits of Wilder, like Halloween
-- **Last Lihday of Eveli**: Festival of Live - like human Eastern, inspired by [[Die Nerivaner|Nerivan]] religion
-
+Pupils have about 12 weeks of vacation distributed over the year, in addition to and planned around the country's [[Bardeena#National Holidays|National Holidays]]. Without counting [[Bardeena#The Weekend|Weekends]] those are:
+- **New Year Holidays**:  Teyember 24th until Lyruar 6th (2 weeks)
+- **Friendsharing Holidays**: 24th of Tebuar until Veril 6th (2 weeks)
+- **Wilder Break**: 1st of Gorust until 6th of gorust (1 week)
+- **Spring Holidays**: 7th of Bolember until 7th of Forai (5 weeks)
+- **Harvest Break**: 12th of Eveli until 18th of Eveli (1 week)
+- **Willaween Holidays**:  24th o fRovember until 30th of Rovember (1 week)
 ### Graduation Ceremony
 
 ### Appreciation Festival
