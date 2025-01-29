@@ -133,23 +133,23 @@ Anyone can become a mentor. Most mentors are school staff, though, but also othe
 Schools organize themselves into different levels as well, which go from the most basic knowledge to more and more specialized subjects. Some schools only teach at one level, while others expand to a whole campus, teaching at multiple levels.
 ### Daycare & Kindergarten
 These are actually handled by the [[The Ministry of Community#Department of Family|Department of Family]], but also work closely together with this department to prepare the children for what's to come. The teaching happening here is less structured and more concerned with early childhood development then to actual subject matter, too.
-### Fun(damental) School
+### FUN(damental) School
 	German: Grundschule
 Here pupils learn the absolute basics of the basics of the common knowledge expected in every Bardeenian citizen. All pupils absolutely have to learn everything this level can teach in order for society to deem them capable of contributing.
-##### Fun Subjects:
+##### FUN Subjects:
 - **Math & Science** - Basic algebra and geometry, simple physics and chemistry
 - **Language & Literature** - Reading, Writing, Speaking, using language
 - **History & Home** - Basic local history, handling money, the state organization, housework
 - **Sports & Wilderness** - Sports & Health, basic navigation, local Flora & Fauna, basic Anomiology
 - **Arts, Crafts & Music** - Drawing, Painting, Sculpting, Pottery, Singing, Notation, Playing an Instrument
 - **Culture & Diversity** - Overview over all the [[Die Invis|Invis]] cultures and religions, rituals, [[Die Mystik|mystic]] pitfalls
-##### Fun Graduation
+##### FUN Graduation
 Most children graduate as [[The Ministry of Community#Levels of Maturity|Interactors]], while cases of earlier and later levels is considered normal, too - everyone learns at their own pace. Graduation ceremonies are held every quarter of a year, and graduates receive a so-called **Fundamentals Diploma**.
 This diploma theoretically enables them to start a career - an admittedly simple one, but a career nonetheless. Children have to continue with school until they are **Adults**, so this does not happen often. **Adult** graduates do happen once in a blue moon, though. Especially amongst pure-blood [[Die Forasier|Forasians]], but even for them continuation is still the norm.
-### Mid(dle) School
+### MID(dle) School
 	German: Mittelschule
 In middle school, subjects build on top of the basic knowledge each pupil acquired from the previous level. The total number of subjects increased significantly and pupils therefore have to choose, which they want to learn.
-##### Mid Subjects
+##### MID Subjects
 Subjects are divided into categories and pupils have to select at least one subject of each going forward. If they wish, they may also choose more subjects from any given category, as long as there's still capacity on their time table. Optional choices may be dropped at any time.
 The following lists all the categories with example subjects for each. Not all subjects are available at all the schools, though, and some build on the knowledge of others and can only be chosen as soon as the required knowledge was acquired:
 - **Logical**: Math, Informatics, Statistics, Data Science
@@ -163,25 +163,25 @@ The following lists all the categories with example subjects for each. Not all s
 	- Enchantments - mostly dealing with [[Die Mystik#Mystifizierungen|Mystifications]] of places and objects
 	- Gemology - in this case in regard to their mystic capabilities
 	- Curses - about [[Geister|ghosts]] and the [[Besessene|posessed]]
-##### Mid Graduation
+##### MID Graduation
 Graduation ceremonies are held every quarter of a year here as well. Graduates receive the so-called **Mid Diploma**, which lists all their chosen subjects and how many [[#Classes]] they've completed for each.
 How pupils become eligible for graduation is rather complicated due to the diverse nature of this society. In general they become graduates as soon as they either become [[The Ministry of Community#Levels of Maturity|Adults]], or complete all classes of all their chosen subjects.
 - **Adults**: Adults may choose to graduate right away, or at any time after, until they are **Mature**. As soon as they matured fully, they have to graduate at the end of the current quarter, at which point their progress will be locked in.
 - **Completed Classes**: Pupils actually have a fair chance to complete necessary classes in time, since they only need to complete 1 subject in each category, no matter which.
-### Ad(vanced) School
+### AD(vanced) School
 	German: Extraschule
 This school is mandatory only for citizens that haven't reached the [[The Ministry of Community#Levels of Maturity|Adults]] stage, yet. It expands on and deepens the teachings of [[#Mid(dle) School|Mid School]] further, which is considered completely optional. That is why pupils have complete freedom with which subjects they choose to continue. They might even choose not to continue at all and become **Junior Teachers** instead.
 - Schooling on this level still remains free for pupils that haven't fully matured. Anyone else, will have to start paying for classes, though.
 - Schools offering the **Advanced Level** are all primarily [[#Mid(dle) School|Mid School]]s. Not all **Mid Schools** offer the **Advanced Level**, but there are no schools for the **Advanced Level** only.
 - This is also the first level were pupils from all over the country may attend. Pupils from the previous levels may only visit schools in their home settlements.
-##### Ad Subjects
+##### AD Subjects
 Besides offering a few more classes for all [[#Mid Subjects|Mid School Subjects]], a school dependent selection of **Advanced Subjects** may be offered as well. While school still stayed rather general up to this point, these subjects are already rather specialized and might go deeper into the matter. Here are some examples:
 
 | Business | Philosophy              | Ethics              | Psychology | Combat Animations  |
 | -------- | ----------------------- | ------------------- | ---------- | ------------------ |
 | Economy  | Computer Science        | Robotics            | Neurology  | Theology           |
 | Fincance | Theoretical Mathematics | Theoretical Physics | Medicine   | Competative Sports |
-##### Ad Graduation
+##### AD Graduation
 Graduation works similar to [[#Mid Graduation]], but the deadline is extended until [[The Ministry of Community#Levels of Maturity|Maturity]]. So every no-**Adult** pupil has to stay until they are an **Adult**, and everyone will graduate at the end of the next quarter as soon as they turned **Mature**.
 ### University
 University is completely optional and is only required, if the goal is to become part of one of the [[#Sections]] Other than that it is pretty much the same, as one would expect (students, professors, lectures, diplomas, doctorates, etc.).
@@ -195,22 +195,27 @@ Otherwise, there is also a number of evening education programs, which aim to cl
 
 
 
-## Holidays & Celebrations
-
+## Holidays & Festivals
+Celebrations and break times go hand in hand in Bardeenian schools. Often themed festivities are planned around the holidays.
 ### Holidays
-Pupils have about 12 weeks of vacation distributed over the year, in addition to and planned around the country's [[Bardeena#National Holidays|National Holidays]]. Without counting [[Bardeena#The Weekend|Weekends]] those are:
+Pupils have about 12 weeks of vacation distributed over the year, in addition to and planned around the country's [[Bardeena#National Holidays|National Holidays]]. Ignoring the inital [[Bardeena#The Weekend|Weekends]] those are:
 - **New Year Holidays**:  Teyember 24th until Lyruar 6th (2 weeks)
 - **Friendsharing Holidays**: 24th of Tebuar until Veril 6th (2 weeks)
 - **Wilder Break**: 1st of Gorust until 6th of gorust (1 week)
 - **Spring Holidays**: 7th of Bolember until 7th of Forai (5 weeks)
 - **Harvest Break**: 12th of Eveli until 18th of Eveli (1 week)
 - **Willaween Holidays**:  24th o fRovember until 30th of Rovember (1 week)
-### Graduation Ceremony
-
 ### Appreciation Festival
-- Yearly award ceremony, handing out individual awards to students, recognizing their efforts
-- Celebrates Diversity in Culture, Age, Skill, etc.
-- Holidays
+The most important festival all schools have to organize is the annual Appreciation Festival. It is held every year during the last week before the [[#Holidays|Spring Holidays]] (1st-4th of Bolember).
+During that week, the entire school is treated to a number of workshops, talent shows, cultural rituals, and other presentations, that celebrate learning in diversity. The audiences as well as the organizers are made up of pupils, parents, teachers, other staff, and even the general public in some cases.
+This is a good opportunity for pupils to show off their skills or improve their grades. Parents and teachers, pupils too, also have to opportunity to put on any show they like. Anything goes!
+The festival ends with the great award ceremony on the last day. Pupils, who struggled a lot this year and finally overcame a challenge, as well as anyone from the staff going above and beyond, are awarded and honored publicly.
+
+### Graduation Celebrations
+In addition to the official Graduation ceremonies, the different [[#School Levels]] also organize more informal celebration events for their graduates:
+- FUN School 
+
+### 
 
 
 ## Teacher Training & Subject Selection
