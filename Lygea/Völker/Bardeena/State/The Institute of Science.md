@@ -1,13 +1,13 @@
-	German:Institut der Wissenschaft
+	German: Institut der Wissenschaft
 
-The responsibilities of the institute lie in the gain, extension, and teaching of knowledge. It is there, to advance the sciences, to make new discoveries and to keep the population educated.
+The responsibilities of the institute lie in the gain, extension, and teaching of knowledge. It is there, to advance the sciences, to make new discoveries, and to keep the population educated.
 # Department of Research
 This is the department responsible for the gain and extension of knowledge in all sciences.
 ## Sections
-The department organizes itself in so-called "Sections". A specific **Section** is concerned with a respective field of science, and usually corresponds to a single location as well, e.g. a building or town.
+The department organizes itself in so-called **Sections**. A specific **Section** is concerned with a respective field of science and usually corresponds to a single location as well, e.g. a building or a whole town.
 ### Section I
 	Fields: History, Mathematics, Planetology
-Section I was established not long after [[The founding of Bardeena|Bardeena was founded]]. Not much had to be done, however, since that was the spot where the settlers had built their first camp anyway. In the end it just came down to a name change from Anbar(teyan: Place of Appearance) to Section I, after the institute made plans on how to proceed with their researching.
+Section I was established not long after [[The founding of Bardeena|Bardeena was founded]]. Not much had to be done, however, since that was the spot where the settlers had built their first camp anyway. In the end it just came down to a name change from **Anbar**(teyan: Place of Appearance) to Section I, after the institute made plans on how to proceed with their researching.
 This section was the main research center for most of the sciences, since it was established inside the old ruins of an [[Evelitische Geschichte#Die Dome|Evelitian Dome]], the ruins of **Cardis**, their capital, in fact. Over time some subjects were extracted into the other sections when more fitting places were discovered.
 
 Nowadays Section I mainly deals with research in the following fields:
@@ -146,6 +146,7 @@ Here pupils learn the absolute basics of the basics of the common knowledge expe
 ##### FUN Graduation
 Most children graduate as [[The Ministry of Community#Levels of Maturity|Interactors]], while cases of earlier and later levels is considered normal, too - everyone learns at their own pace. Graduation ceremonies are held every quarter of a year, and graduates receive a so-called **Fundamentals Diploma**.
 This diploma theoretically enables them to start a career - an admittedly simple one, but a career nonetheless. Children have to continue with school until they are **Adults**, so this does not happen often. **Adult** graduates do happen once in a blue moon, though. Especially amongst pure-blood [[Die Forasier|Forasians]], but even for them continuation is still the norm.
+Afterwards, the school invites all graduates to a graduation celebration, which is usually some form of sports and play festival, like a trip to the arcade or the fair.
 ### MID(dle) School
 	German: Mittelschule
 In middle school, subjects build on top of the basic knowledge each pupil acquired from the previous level. The total number of subjects increased significantly and pupils therefore have to choose, which they want to learn.
@@ -168,12 +169,14 @@ Graduation ceremonies are held every quarter of a year here as well. Graduates r
 How pupils become eligible for graduation is rather complicated due to the diverse nature of this society. In general they become graduates as soon as they either become [[The Ministry of Community#Levels of Maturity|Adults]], or complete all classes of all their chosen subjects.
 - **Adults**: Adults may choose to graduate right away, or at any time after, until they are **Mature**. As soon as they matured fully, they have to graduate at the end of the current quarter, at which point their progress will be locked in.
 - **Completed Classes**: Pupils actually have a fair chance to complete necessary classes in time, since they only need to complete 1 subject in each category, no matter which.
+Since most pupils have their last day of school ever in MID school, the graduation celebration is something the pupils can cut loose for one day. Similar to the German "Abistreich" the pupils disturb the lessons all over the school, kidnap the head teacher, and publicly make fun of the entire staff.
 ### AD(vanced) School
 	German: Extraschule
 This school is mandatory only for citizens that haven't reached the [[The Ministry of Community#Levels of Maturity|Adults]] stage, yet. It expands on and deepens the teachings of [[#Mid(dle) School|Mid School]] further, which is considered completely optional. That is why pupils have complete freedom with which subjects they choose to continue. They might even choose not to continue at all and become **Junior Teachers** instead.
 - Schooling on this level still remains free for pupils that haven't fully matured. Anyone else, will have to start paying for classes, though.
 - Schools offering the **Advanced Level** are all primarily [[#Mid(dle) School|Mid School]]s. Not all **Mid Schools** offer the **Advanced Level**, but there are no schools for the **Advanced Level** only.
 - This is also the first level were pupils from all over the country may attend. Pupils from the previous levels may only visit schools in their home settlements.
+The graduation celebration on this level is a formal dance, not unlike the American Prom, where pupils dress up, meet at a venue, and dance through the night.
 ##### AD Subjects
 Besides offering a few more classes for all [[#Mid Subjects|Mid School Subjects]], a school dependent selection of **Advanced Subjects** may be offered as well. While school still stayed rather general up to this point, these subjects are already rather specialized and might go deeper into the matter. Here are some examples:
 
@@ -191,10 +194,6 @@ Since studying is optional, it has to be paid for, and all the ways imaginable e
 The previous paragraphs described the general way of how its supposed to work for the general population. However, individual exceptions to the rules may also be applied, if justified by circumstances, e.g. immigrants, special-needs citizens, or [[The Ministry of Community#Levels of Maturity|Mature]] adults that want to learn.
 If possible those are integrated into the general process, if they so wish.
 Otherwise, there is also a number of evening education programs, which aim to close any potential holes in any individuals common knowledge. In any case, a [[#Mentoring|Mentor]] gets assigned, which helps along the way with progress and evaluates personal motivation.
-
-
-
-
 ## Holidays & Festivals
 Celebrations and break times go hand in hand in Bardeenian schools. Often themed festivities are planned around the holidays.
 ### Holidays
@@ -207,39 +206,23 @@ Pupils have about 12 weeks of vacation distributed over the year, in addition to
 - **Willaween Holidays**:  24th o fRovember until 30th of Rovember (1 week)
 ### Appreciation Festival
 The most important festival all schools have to organize is the annual Appreciation Festival. It is held every year during the last week before the [[#Holidays|Spring Holidays]] (1st-4th of Bolember).
-During that week, the entire school is treated to a number of workshops, talent shows, cultural rituals, and other presentations, that celebrate learning in diversity. The audiences as well as the organizers are made up of pupils, parents, teachers, other staff, and even the general public in some cases.
-This is a good opportunity for pupils to show off their skills or improve their grades. Parents and teachers, pupils too, also have to opportunity to put on any show they like. Anything goes!
+During that week, the entire school is treated to a number of workshops, talent shows, cultural rituals, and other presentations that celebrate learning in diversity. The audiences as well as the organizers are made up of pupils, parents, teachers, other staff, and even the general public in some cases.
+This is a good opportunity for pupils to show off their skills or improve their grades. Parents and teachers, pupils too, also have the opportunity to put on any show they like. Anything goes!
 The festival ends with the great award ceremony on the last day. Pupils, who struggled a lot this year and finally overcame a challenge, as well as anyone from the staff going above and beyond, are awarded and honored publicly.
+After that everyone is sent off to the holidays
+## Teachers 
+Teachers in Bardeenian schools are as divers as the classes they teach. To become a teacher, they have to proof themselves knowledgably in the subject they teach, and capable to lead a class. Formal degrees or certificates don't matter much in this regard, since teachers are regularly evaluated, too.
+First and foremost, they are tested on how well they work with and motivate the students. A teacher has to be kind and supportive. They have to encourage diversity and curiosity, motivate the pupils to ask questions, treat mistakes and errors as something precious, and handle disputes respectfully. They have to emphasize with their pupils, and aknowledge individual and team struggles, efforst and acomplishements.
+Second, they are evaluated on the lastest knowledge approved by the [[#Sections]]. Teachers, similar to pupils, have to earn their right to teach certain classes and are given licenses depending on their knowledge. E.g. a class 5 license enables a teacher to teach up to Class 5 in the given subject. A license can be revoked, if new knowledge is available, but is then easily regained by joining a teacher's class. These classes are usually taught by a member of the **Section** and the knowledge is integrated into normal teaching right away.
+Evaluations might be separated into these two parts or also done at the same time during normal class hours. It varies greatly who does the actual evaluations, but it should be someone who is versed enough. If the teacher doubts that, they can always as for a second and third opinion.
+## The Grind
+Pupils may go through the first three levels of school without interruptions (FUN to AD), but as soon as they are finished with school they do the **Grind**. The **Grind** is a period of 2 mandatory years during which each citizens **must** work in a so-called **Grind-Job**, hence the name.
 
-### Graduation Celebrations
-In addition to the official Graduation ceremonies, the different [[#School Levels]] also organize more informal celebration events for their graduates:
-- FUN School 
-
-### 
-
-
-## Teacher Training & Subject Selection
-- Supportive, encourage diversity and learning
-- Encourage Questions and errors
-- Handle disputes respectfully
-- Empathy
-- Aknowledge individual and team struggles, efforts and ackomplishements
-- Latest knowledge from the sections
-
-## Mandatory Years
-- Public service (Jobs nobody in particular wants to do)
-	- Army
-	- Health
-	- Post
-	- Cashier
-	- Frying Burgers
-	- etc.
-
-
-
-
-
-
-
-
-
+**Grind-Jobs** are rather low paying, less valued occupations, which don't require a lot of education, but may still be rather hard. A.k.a. jobs nobody is particularly eager to do, like:
+- in the health and nursing sector
+- as post and package delivery persons
+- cashiers and supermarket staff
+- logistics and packaging
+- in the gastronomy as waiters or frying burgers
+- etc.
+Everyone can choose to work in these jobs anyway, but freshly graduated pupils have to do it at least for 2 years. They have to choose a job in the beginning, and may change after the first year. Alternatively, pupils may join any of the departments of the [[The Bardeena Defense Force|Defense Force]] and grind away as police, disaster control, or army recruits.

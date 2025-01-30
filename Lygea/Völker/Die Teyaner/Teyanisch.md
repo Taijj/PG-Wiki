@@ -4,7 +4,7 @@
 
 |     | **Vokabel**                                            | **Bedeutungen**                                                                                                 |
 | --- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| A   | Ahm<br>Al<br>Ashka                                     | Einsam/ Eins<br>Heiß, Brennend<br>Abtrünniger                                                                   |
+| A   | Ahm<br>Al<br>Anbar*<br>Ashka                           | Einsam/ Eins<br>Heiß, Brennend<br>Platz der Ankunft<br>Abtrünniger                                              |
 | B   | Bar<br>Bodh  <br>Bodh Saxur                            | Platz<br>Tempel  <br>Tempel der ruhenden Ahnen                                                                  |
 | C   | Cil<br>Cilma<br>Cilpa<br>Capinza                       | Sinn<br>Kopf/Haupt<br>Wächtersinn<br>Graukap                                                                    |
 | D   | Dee<br>Dhes<br>Dheskan<br>Djet                         | Erde/Land<br>Wüste<br>Wüstenkönig (Bestie, Chameleon x Löwe x Bock)<br>Acht                                     |
