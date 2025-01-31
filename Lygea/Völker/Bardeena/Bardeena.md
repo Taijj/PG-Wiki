@@ -77,11 +77,11 @@ In the spirit of balance, each citizen of Bardeena is granted the luxury of free
 ### National Holidays
 - **30th of Teyember/1st of Lyruar**: New years eve - Two day celebration at the change of the year, basically the same as human new years.
 - **24th - 27th of Tebuar**: Friendsharing - Christmas like celebration in remembrance of the friendship between Kristallfeder and her allies. 
-- **15th of Eveli**: Day of Purification - Celebration in memory of the defeat of Mencarni and Anvita and the purification of the land for agriculture, similar to human Thanksgiving.    
+- **15th of Eveli**: Day of Purification - Celebration in memory of the defeat of **Mencarni** and **Anvita** and the purification of the land for agriculture, similar to human Thanksgiving.    
 - **3rd of Silember**: Founding Day - Celebration in honor of the foundation of Bardeena.    
 - **First Lihday of Bolember**: Festival of Life - like human Eastern, inspired by [[Die Nerivaner|Nerivan]] religion
 - **4th of Forai**: Independence Day - Celebration in honor of fighting off the [[Die Forasier|Forasian]] threat at Bavista.    
-- **30th of Rovember**: Willaween - Celebration of driving out the spirits of Wilder, like Halloween
+- **30th of Rovember**: Illaween - Celebration of driving out the spirits of Wilder and the defeat of **Impiridis**, like Halloween
 - **15th of Eveli**: Harvest Break - festival of quite appreciation, similar to Erntedank/Thanksgiving.
 (Check the [[Der lygeanische Kalender|lygean calendar]] for details about weekdays and months.)
 

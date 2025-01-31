@@ -40,7 +40,10 @@ With a main focus on the **Evelitian** legacy **Section V** also became the cent
 	Fields: Mysticism & The Soul
 Another section that extracted itself from [[#Section I]]'s vast amount of ancient knowledge to find a more fitting place to breathe freely, literally in this case. The study of the [[Die Seele|Soul]], which naturally deals a lot with the [[Die Emotionen|emotional]] side of life, became rather one-sided inside the dark and rather confining spaces of the old **Evelitian** capital.
 So they moved their work near another ancient ruin. One from the [[Die Dragnarier|Dragnarians]] this time. The ruins of **Fodivitas** are located close to [[Nasbel]]. And, though a bunch of **Evelitian** artifacts could also be recovered there, the city was clearly of **Dragnarian** origin in layout and design. There the studies of the Soul actually started in ernest.
-**Section VI** became a kind of spiritual oasis where the **Soul**, **Emotions**, and by extension the field of [[Die Mystik|Mysticism]] is studied and practiced in many ways. Later on it also became a place of knowledge about the phenomenon of [[Körperlose Seelen|disembodied souls]] and how to best deal with them.
+**Section VI** became a kind of spiritual oasis where the **Soul**, **Emotions**, and by extension the field of [[Die Mystik|Mysticism]] is studied and practiced in many ways. Later on it also became a place of knowledge about the phenomenon of [[Körperlose Seelen|disembodied souls]] and how to best deal with hem.
+
+>[!note]+ The Soul and Mysticism
+>Most of the Bardeenian knowledge was built and derived from the findings of the [[Die Eveliten|Evelites]]. By modern standards those teachings have the notion of actual myth. That is why a lot of true knowledge about the [[Die Seele|Soul]] and its role in the world got lost to obscurity or was passed off as the stuff of fairy tales. Commonly **Mysticism** is therefore attributed to the work of an individual's brain instead.
 ### Section VII
 	Field: Medicine
 This section shares its history with [[#Section III]] and split off of it after some years. The alchemists and potion-makers supporting the [[The founding of Bardeena#Flesh and Fairy Dust|battles of old]] were followed by a capable group of doctors and researchers in the field of **Medicine**. Those built their own section in another district in the city of [[Bavista]].
@@ -94,64 +97,64 @@ A number of smaller **Innovation Facilities** are spread all over the country's 
 Large impact ideas on the other hand often need a widespread area of land (especially weapons).
 For that purpose the **A.T.O.M** testing facility was created, which stands for "Advanced Testing and Observation Mission". It is located on the large peninsula East of [[Bavista]] and is the place where the most dangerous substances and most powerful weapons are tested.
 # Department of Education
-The Bardeenian system of education, in its entirety, is handled by this department. Most of the schools are publicly funded, but there is one or the other private one as well. However, all schools have to adhere to certain standards, before introducing their individual twists and processes.
+The Bardeenian system of education, in its entirety, is handled by this department. Most of the schools are publicly funded, but there is also the one or other private one as well. However, all schools have to adhere to certain standards, before introducing their individual twists and processes.
 ## General
 ### Diversity
-Not only is the nation's population mostly made up of [[Mischlinge|Hybrids]], but all the remaining pure blood citizens are also a mixture of races, cultures, and different ages of maturity. This put the Bardeenian schools in front of a multitude of hard challenges, they had to overcome over many years.
-Diversity is one of Bardeena's [[Bardeena#Culture|core values]], and heavily encouraged. The schooling system not only accounts for that, but embraces it fully and tries to foster it as a blessing in all pupils. Individual learning, progression, and graduation is the result. Individual [[#Classes|subject classes]], interdisciplinary projects, or competitions between different schools are the means. Diversity in culture, age, and skill level is [[#Appreciation Festival|celebrated]], too.
+Not only is the nation's population mostly made up of [[Mischlinge|Hybrids]], but all the remaining pure blood citizens are also a mixture of races, cultures, and different [[The Ministry of Community#Levels of Maturity|Levels of Maturity]]. This put the Bardeenian schools in front of a multitude of hard challenges, which they attempted to overcome by developing the schooling system described in the following paragraphs.
+Diversity is one of Bardeena's [[Bardeena#Culture|core values]] and is heavily encouraged. The schooling system not only accounts for that, but embraces it fully and tries to foster it as a blessing in all students. Individual learning, progression, and graduation is the result. Individual [[#Classes|subject classes]], interdisciplinary projects, or competitions between different schools are the means. Diversity in culture, age, and skill level is [[#Appreciation Festival|celebrated]], too.
 ### Classes
-Classes, in the classical sense of a class-year, don't exist in this system. Each individual subject is divided into multiple classes (Math I, Language IV, Chemistry III, etc.). Each class represents a certain skill level of a subject. So, each individual pupil is actually in several classes at once, depending on their respective skills in the the given subject.
-So classes are made up of differently aged pupils with roughly the same skill, but different age and level of maturity. If a pupil acquires the required knowledge and skills to advance to the next class, they may choose to do so soon. They might also stay on for a while longer, to either practice some more, or help with tutoring their fellow pupil (see: [[#Grading]]).
-This has an impact on pupil timetables of course, which may undergo a lot of changes over the course of a year. It also gets in the way of forming meaningful relationships with fellow classmates, at times. To compensate, and to give pupils a break of course, every school day has an hour of mid-day recess. Additionally, pupils are encouraged to join extracurricular activities, like study clubs, or just stay in school to doo homework together. However, this is optional.
+Classes, in the classical sense of a class-year, don't exist in this system. However, each individual subject is divided into multiple classes and each class represents a certain skill level of a subject here, too. But each individual student is actually in several different classes at once (*Math I*, *Language IV,* *Chemistry III*, etc.), depending on their respective skills in the the given subject. That means classes are made up of differently aged students with roughly the same skill, but different age and [[The Ministry of Community#Levels of Maturity|Levels of Maturity]].
+If a student acquires the required knowledge and skills to advance to the next class (see: [[#Grading]]), they may choose to do so rather quickly. They might also stay on for a while longer, to either practice some more, or help with tutoring their fellow student.
+This has an impact on student timetables of course, which may undergo a lot of changes over the course of a year. It also gets in the way of forming meaningful relationships with fellow classmates, at times. To compensate, and to give students a break of course, every school day has an hour of mid-day recess. Additionally, students are encouraged to join extracurricular activities, like study clubs, or just stay in school to doo homework together. This is completely optional, though.
 ### Grading
-To measure the pupil's acquired knowledge and skill in any given class, teachers grade their students regularly.
+To measure the student's acquired knowledge and skill in any given class, teachers grade their students regularly.
 
 > Grades are given via [[Voxciel]] numerals from **I** (lowest) to **X** (highest).
 
-The pass grade is the **V**. At the end of each quarter, the grades are averaged. If a pupil's average is at least a **V**, they may pass on to the next class for the next quarter.
-Most grades are collected via formal exams, which are held at least every 2 weeks. Once a quarter there are multi subject group projects, school competitions, and other events held that are used for grading as well. These also influence a pupil's [[#Evaluation]] result.
+The pass grade is the **V**. At the end of each quarter, the grades are averaged. If a student's average is at least a **V**, they may pass on to the next class for the next quarter.
+Most grades are collected via formal exams, which are held at least every 2 weeks. Once a quarter there are multi subject group projects, school competitions, and other events held that are used for grading as well. These also influence a student's [[#Evaluation]] result.
 ### Evaluation
-To determine a pupil's [[The Ministry of Community#Levels of Maturity|Level of Maturity]], teachers also report regularly on every pupil's physical and mental development. Since teaching is already rather taxing, every school also has a small staff of psychologists that help with pupil evaluation as well as giving support to teachers.
+To determine a student's [[The Ministry of Community#Levels of Maturity|Level of Maturity]], teachers also report regularly on every student's physical and mental development. Since teaching is already rather taxing, every school also has a small staff of psychologists that help with student evaluations as well as giving support to staff or students alike.
 ### Incentives
-Schools are encouraged to honor and reward hard work in every student. However, there are no hard rules to follow in this regard, so every school has their own system. The goal is to incentivize and motivate the pupils to be the best they can be, e.g.
+Schools are encouraged to honor and reward hard work in every student. However, there are no hard rules to follow in this regard, so every school has their own system. The goal is to incentivize and motivate the students to be the best they can be, e.g.
 - Badges of Honor ("I earned that V!", "I defeated this Illness!", "I finally beat class 3!")
 - Public recognition for struggling students
 - An individual day off, handed out by the teacher
 - Mentoring Programs with people from the industry
 - Class trips to places where the respective class knowledge is actually needed
 ### Mentoring
-There is a multitude of reasons, many different life circumstances and situations, which may put any pupil in a tough situation. That is why any pupil has the right to ask for a personal mentor, or get one assigned, if their struggles become known to the school staff in other ways. These mentors will help and guide their students through their struggles, and accompany them until they are not needed anymore.
+There is a multitude of reasons, many different life circumstances and situations, which may cause a student to struggle in the classes or their lives in general. That is why students have the right to ask for a personal mentor, or get one assigned, if their struggles become known to the school staff in other ways. These mentors will help and guide their students through their struggles, and accompany them until they are not needed anymore.
 Examples:
-- A pupil lost a family member and gets regular therapy from a school psychologist
+- A student lost a family member and gets regular therapy from a school psychologist
 - Another struggles with a certain subject matter and attends personal lessons with a teacher after school
-- An older, as in more mature, pupil helps a group of younger ones with their homework
+- An older, as in more mature, student helps a group of younger ones with their homework
 - A parent steps in to be there for another child, which has trouble at home
-The mentor and their pupils work out individual solutions and plans for the given situation at hand. Some pupils need more attention, others less.
+The mentor and their students work out individual solutions and plans for the given situation at hand. Some students need more attention, others less.
 
-Anyone can become a mentor. Most mentors are school staff, though, but also other pupils and even private volunteers are accepted, if the pupil knows them. Mentors may even assign themselves to pupils they find exceptionally gifted and promising.
+Anyone can become a mentor. Most mentors are school staff, though. Other students and even private volunteers can be accepted, too, if the student knows them well. Mentors may even assign themselves to students they find exceptionally gifted or promising.
 ## School Levels
 Schools organize themselves into different levels as well, which go from the most basic knowledge to more and more specialized subjects. Some schools only teach at one level, while others expand to a whole campus, teaching at multiple levels.
 ### Daycare & Kindergarten
-These are actually handled by the [[The Ministry of Community#Department of Family|Department of Family]], but also work closely together with this department to prepare the children for what's to come. The teaching happening here is less structured and more concerned with early childhood development then to actual subject matter, too.
+These are actually handled by the [[The Ministry of Community#Department of Family|Department of Family]], but also work closely together with this department to prepare the children for what's to come. The teaching happening here is less structured and more concerned with early childhood development then with actual subject matter, tough.
 ### FUN(damental) School
 	German: Grundschule
-Here pupils learn the absolute basics of the basics of the common knowledge expected in every Bardeenian citizen. All pupils absolutely have to learn everything this level can teach in order for society to deem them capable of contributing.
+Here, students learn the absolute basics of the basics of the common knowledge expected in every Bardeenian citizen. All students absolutely have to learn everything this level can teach in order for society to deem them capable of contributing.
 ##### FUN Subjects:
 - **Math & Science** - Basic algebra and geometry, simple physics and chemistry
 - **Language & Literature** - Reading, Writing, Speaking, using language
 - **History & Home** - Basic local history, handling money, the state organization, housework
-- **Sports & Wilderness** - Sports & Health, basic navigation, local Flora & Fauna, basic Anomiology
+- **Sports & Wilderness** - Sports & Health, basic navigation, local Flora & Fauna, basic [[#Section IV|Anomiology]]
 - **Arts, Crafts & Music** - Drawing, Painting, Sculpting, Pottery, Singing, Notation, Playing an Instrument
 - **Culture & Diversity** - Overview over all the [[Die Invis|Invis]] cultures and religions, rituals, [[Die Mystik|mystic]] pitfalls
 ##### FUN Graduation
-Most children graduate as [[The Ministry of Community#Levels of Maturity|Interactors]], while cases of earlier and later levels is considered normal, too - everyone learns at their own pace. Graduation ceremonies are held every quarter of a year, and graduates receive a so-called **Fundamentals Diploma**.
-This diploma theoretically enables them to start a career - an admittedly simple one, but a career nonetheless. Children have to continue with school until they are **Adults**, so this does not happen often. **Adult** graduates do happen once in a blue moon, though. Especially amongst pure-blood [[Die Forasier|Forasians]], but even for them continuation is still the norm.
+Most children graduate as [[The Ministry of Community#Levels of Maturity|Interactors]] while cases of earlier or later stages are considered normal, too - everyone learns at their own pace. Graduation ceremonies are held every quarter of a year, and graduates receive a so-called **Fundamentals Diploma**.
+This diploma theoretically enables them to start a career - an admittedly simple one, but a career nonetheless. However, children have to continue with school until they are **Adults**. So this does not happen often. **Adult** graduates do happen once in a blue moon, though, especially amongst pure-blooded [[Die Forasier|Forasians]]. However, graduation before reaching adulthood is still the norm, even for them.
 Afterwards, the school invites all graduates to a graduation celebration, which is usually some form of sports and play festival, like a trip to the arcade or the fair.
 ### MID(dle) School
 	German: Mittelschule
-In middle school, subjects build on top of the basic knowledge each pupil acquired from the previous level. The total number of subjects increased significantly and pupils therefore have to choose, which they want to learn.
+In middle school, subjects build on top of the basic knowledge each student acquired from the previous level. The total number of subjects increases significantly and students therefore have to choose, which they want to learn.
 ##### MID Subjects
-Subjects are divided into categories and pupils have to select at least one subject of each going forward. If they wish, they may also choose more subjects from any given category, as long as there's still capacity on their time table. Optional choices may be dropped at any time.
+Subjects are divided into categories and students have to **select at least one subject of each** going forward. If they wish, they may also choose more subjects from any given category, as long as there's still capacity on their time table. Optional choices may be dropped at any time.
 The following lists all the categories with example subjects for each. Not all subjects are available at all the schools, though, and some build on the knowledge of others and can only be chosen as soon as the required knowledge was acquired:
 - **Logical**: Math, Informatics, Statistics, Data Science
 - **Language**: Second, Third, Fourth, etc.
@@ -162,67 +165,67 @@ The following lists all the categories with example subjects for each. Not all s
 - **Mystic**:
 	- [[Die Mystik#Basierend auf Animation|Animations]] - usually in combination with Martial Arts
 	- Enchantments - mostly dealing with [[Die Mystik#Mystifizierungen|Mystifications]] of places and objects
-	- Gemology - in this case in regard to their mystic capabilities
-	- Curses - about [[Geister|ghosts]] and the [[Besessene|posessed]]
+	- Gemology - in this case in regard to their **mystic** capabilities
+	- Curses - about [[Geister|ghosts]], the [[Besessene|posessed]]
 ##### MID Graduation
 Graduation ceremonies are held every quarter of a year here as well. Graduates receive the so-called **Mid Diploma**, which lists all their chosen subjects and how many [[#Classes]] they've completed for each.
-How pupils become eligible for graduation is rather complicated due to the diverse nature of this society. In general they become graduates as soon as they either become [[The Ministry of Community#Levels of Maturity|Adults]], or complete all classes of all their chosen subjects.
-- **Adults**: Adults may choose to graduate right away, or at any time after, until they are **Mature**. As soon as they matured fully, they have to graduate at the end of the current quarter, at which point their progress will be locked in.
-- **Completed Classes**: Pupils actually have a fair chance to complete necessary classes in time, since they only need to complete 1 subject in each category, no matter which.
-Since most pupils have their last day of school ever in MID school, the graduation celebration is something the pupils can cut loose for one day. Similar to the German "Abistreich" the pupils disturb the lessons all over the school, kidnap the head teacher, and publicly make fun of the entire staff.
+How students become eligible for graduation is rather complicated due to the diverse nature of this society. In general they become graduates as soon as they become [[The Ministry of Community#Levels of Maturity|Adults]], or complete all the classes they've chosen.
+- **Adults**: Adults may choose to graduate right away, or at any time after. However, as soon as they matured fully (i.e. reached the **Mature** level), they have to graduate at the end of the current quarter. At this point their progress will be locked in.
+- **Completed Classes**: Students actually have a fair chance to complete necessary classes in time, since they only need to complete 1 subject in each category, no matter which.
+Since most students have their last day of school ever in MID school, the graduation celebration is something at which the students can cut loose one more time. Similar to the German "Abistreich", the students disturb the lessons all over the school, kidnap selected teachers including the school head, and publicly make fun of the entire staff.
 ### AD(vanced) School
 	German: Extraschule
-This school is mandatory only for citizens that haven't reached the [[The Ministry of Community#Levels of Maturity|Adults]] stage, yet. It expands on and deepens the teachings of [[#Mid(dle) School|Mid School]] further, which is considered completely optional. That is why pupils have complete freedom with which subjects they choose to continue. They might even choose not to continue at all and become **Junior Teachers** instead.
-- Schooling on this level still remains free for pupils that haven't fully matured. Anyone else, will have to start paying for classes, though.
+This school is mandatory only for citizens that haven't reached the [[The Ministry of Community#Levels of Maturity|Adult]] level, yet. It expands on and deepens the teachings of [[#Mid(dle) School|Mid School]] further, which is considered completely optional. That is why students have complete freedom with which subjects they choose to continue. They might even choose not to continue at all and become **Junior Teachers** instead.
+- Schooling on this level still remains free for students that haven't fully matured. Anyone else, will have to start paying for classes, though.
 - Schools offering the **Advanced Level** are all primarily [[#Mid(dle) School|Mid School]]s. Not all **Mid Schools** offer the **Advanced Level**, but there are no schools for the **Advanced Level** only.
-- This is also the first level were pupils from all over the country may attend. Pupils from the previous levels may only visit schools in their home settlements.
-The graduation celebration on this level is a formal dance, not unlike the American Prom, where pupils dress up, meet at a venue, and dance through the night.
+- This is also the first level were students from all over the country may attend. Students from the previous levels may only visit schools in their home settlements.
 ##### AD Subjects
 Besides offering a few more classes for all [[#Mid Subjects|Mid School Subjects]], a school dependent selection of **Advanced Subjects** may be offered as well. While school still stayed rather general up to this point, these subjects are already rather specialized and might go deeper into the matter. Here are some examples:
 
 | Business | Philosophy              | Ethics              | Psychology | Combat Animations  |
 | -------- | ----------------------- | ------------------- | ---------- | ------------------ |
 | Economy  | Computer Science        | Robotics            | Neurology  | Theology           |
-| Fincance | Theoretical Mathematics | Theoretical Physics | Medicine   | Competative Sports |
+| Finance  | Theoretical Mathematics | Theoretical Physics | Medicine   | Competative Sports |
 ##### AD Graduation
-Graduation works similar to [[#Mid Graduation]], but the deadline is extended until [[The Ministry of Community#Levels of Maturity|Maturity]]. So every no-**Adult** pupil has to stay until they are an **Adult**, and everyone will graduate at the end of the next quarter as soon as they turned **Mature**.
+Graduation works similar to [[#Mid Graduation]], but the deadline is extended until [[The Ministry of Community#Levels of Maturity|Maturity]]. So every no-**Adult** student has to stay until they are an **Adult**, and everyone will graduate at the end of the next quarter as soon as they turned **Mature**.
+The graduation celebration on this level is a formal dance, not unlike the American Prom, where students dress up, meet at a venue, and dance through the night.
 ### University
-University is completely optional and is only required, if the goal is to become part of one of the [[#Sections]] Other than that it is pretty much the same, as one would expect (students, professors, lectures, diplomas, doctorates, etc.).
+University is completely optional and is only required, if the goal is to become part of one of the [[#Sections]]. Other than that, it is pretty much the same, as one would expect (students, professors, lectures, diplomas, doctorates, etc.).
 Not all students end up in the **Sections**, though. Many of them also become other kinds of experts, hired or private, and make a living that way.
-Since studying is optional, it has to be paid for, and all the ways imaginable exist in Bardeena, too. (Student loans, scholarships, part time jobs, rich parents, etc.).
+Since studying is optional, it has to be paid for, and all the ways imaginable exist in Bardeena, too. (Student loans, scholarships, part time jobs, rich parents, etc.)
 ### Special Cases
 The previous paragraphs described the general way of how its supposed to work for the general population. However, individual exceptions to the rules may also be applied, if justified by circumstances, e.g. immigrants, special-needs citizens, or [[The Ministry of Community#Levels of Maturity|Mature]] adults that want to learn.
-If possible those are integrated into the general process, if they so wish.
-Otherwise, there is also a number of evening education programs, which aim to close any potential holes in any individuals common knowledge. In any case, a [[#Mentoring|Mentor]] gets assigned, which helps along the way with progress and evaluates personal motivation.
+If possible, those are integrated into the general process, if they so wish.
+Otherwise, there is also a number of evening education programs, which aim to close any potential holes in any individuals common knowledge. In any case, a [[#Mentoring|Mentor]] gets assigned to help along the way, and evaluate personal progress and motivation.
 ## Holidays & Festivals
-Celebrations and break times go hand in hand in Bardeenian schools. Often themed festivities are planned around the holidays.
+Celebrations and break times often go hand in hand in Bardeenian schools. Many themed festivities are planned around the holidays.
 ### Holidays
-Pupils have about 12 weeks of vacation distributed over the year, in addition to and planned around the country's [[Bardeena#National Holidays|National Holidays]]. Ignoring the inital [[Bardeena#The Weekend|Weekends]] those are:
+students have about 12 weeks of vacation distributed over the year, in addition to and planned around the country's [[Bardeena#National Holidays|National Holidays]]. Ignoring the inital [[Bardeena#The Weekend|Weekends]] those are:
 - **New Year Holidays**:  Teyember 24th until Lyruar 6th (2 weeks)
 - **Friendsharing Holidays**: 24th of Tebuar until Veril 6th (2 weeks)
 - **Wilder Break**: 1st of Gorust until 6th of gorust (1 week)
 - **Spring Holidays**: 7th of Bolember until 7th of Forai (5 weeks)
 - **Harvest Break**: 12th of Eveli until 18th of Eveli (1 week)
-- **Willaween Holidays**:  24th o fRovember until 30th of Rovember (1 week)
+- **Illaween Holidays**:  24th of Rovember until 30th of Rovember (1 week)
 ### Appreciation Festival
-The most important festival all schools have to organize is the annual Appreciation Festival. It is held every year during the last week before the [[#Holidays|Spring Holidays]] (1st-4th of Bolember).
-During that week, the entire school is treated to a number of workshops, talent shows, cultural rituals, and other presentations that celebrate learning in diversity. The audiences as well as the organizers are made up of pupils, parents, teachers, other staff, and even the general public in some cases.
-This is a good opportunity for pupils to show off their skills or improve their grades. Parents and teachers, pupils too, also have the opportunity to put on any show they like. Anything goes!
-The festival ends with the great award ceremony on the last day. Pupils, who struggled a lot this year and finally overcame a challenge, as well as anyone from the staff going above and beyond, are awarded and honored publicly.
-After that everyone is sent off to the holidays
+The most important festival all schools have to organize is the annual **Appreciation Festival**. It is held every year during the last week before the [[#Holidays|Spring Holidays]] (1st-4th of Bolember).
+During that week, the entire school is treated to a number of workshops, talent shows, cultural rituals, and other presentations that celebrate learning in diversity. The audiences as well as the organizers are made up of students, parents, teachers, other staff, and even the general public in some cases.
+This is a good opportunity for students to show off their skills or improve their [[#Grading|grades]]. Parents and teachers, students too, also have the opportunity to put on any show they like. Anything goes!
+The festival ends with the great award ceremony on the last day. Students, who struggled a lot this year and finally overcame a challenge, as well as anyone from the staff going above and beyond, are awarded and honored publicly.
+After that everyone is sent off into the holidays.
 ## Teachers 
 Teachers in Bardeenian schools are as divers as the classes they teach. To become a teacher, they have to proof themselves knowledgably in the subject they teach, and capable to lead a class. Formal degrees or certificates don't matter much in this regard, since teachers are regularly evaluated, too.
-First and foremost, they are tested on how well they work with and motivate the students. A teacher has to be kind and supportive. They have to encourage diversity and curiosity, motivate the pupils to ask questions, treat mistakes and errors as something precious, and handle disputes respectfully. They have to emphasize with their pupils, and aknowledge individual and team struggles, efforst and acomplishements.
-Second, they are evaluated on the lastest knowledge approved by the [[#Sections]]. Teachers, similar to pupils, have to earn their right to teach certain classes and are given licenses depending on their knowledge. E.g. a class 5 license enables a teacher to teach up to Class 5 in the given subject. A license can be revoked, if new knowledge is available, but is then easily regained by joining a teacher's class. These classes are usually taught by a member of the **Section** and the knowledge is integrated into normal teaching right away.
-Evaluations might be separated into these two parts or also done at the same time during normal class hours. It varies greatly who does the actual evaluations, but it should be someone who is versed enough. If the teacher doubts that, they can always as for a second and third opinion.
+First and foremost, they are tested on how well they work with and motivate the students. A teacher has to be kind and supportive. They have to encourage diversity and curiosity, motivate the students to ask questions, treat mistakes and errors as something precious, and handle disputes respectfully. They have to emphasize with their students, and acknowledge individual and team struggles, efforts and accomplishments.
+Second, they are evaluated on the lastest knowledge approved by the [[#Sections]]. Teachers, similar to students, have to earn their right to teach certain classes and are given licenses depending on their knowledge. E.g. a **Class V License** enables a teacher to teach up to Class V in the given subject. A license can be revoked, if new knowledge is available, but is then easily regained by joining a teacher's class. These classes are usually taught by a member of the respective **Section** and the knowledge is then integrated into normal teaching right away.
+Evaluations might be separated into these two parts or also done at the same time during normal class hours. It varies greatly who does the actual evaluations, but it should be someone who is versed enough. If the teacher doubts that, they can always ask for a second and third opinion before a final decision is made.
 ## The Grind
-Pupils may go through the first three levels of school without interruptions (FUN to AD), but as soon as they are finished with school they do the **Grind**. The **Grind** is a period of 2 mandatory years during which each citizens **must** work in a so-called **Grind-Job**, hence the name.
+Students may go through the first three [[#School Levels|Levels of School]] without interruptions (FUN to AD), but as soon as they are finished with school they do the **Grind**. The **Grind** is a period of 2 mandatory years during which each citizens **must** work in a so-called **Grind-Job**, hence the name.
 
-**Grind-Jobs** are rather low paying, less valued occupations, which don't require a lot of education, but may still be rather hard. A.k.a. jobs nobody is particularly eager to do, like:
-- in the health and nursing sector
-- as post and package delivery persons
-- cashiers and supermarket staff
-- logistics and packaging
-- in the gastronomy as waiters or frying burgers
+**Grind-Jobs** are rather low paying, less valued occupations, which don't require a lot of education, but may still be rather hard and unfulfilling. A.k.a. jobs nobody is particularly eager to do, like:
+- Helping in the health and nursing sector
+- Delivering mail for the post office
+- Working as cashiers or filling the shelves in supermarkets
+- Driving delivery trucks or packaging goods
+- Working in gastronomy as waiters or frying burgers
 - etc.
-Everyone can choose to work in these jobs anyway, but freshly graduated pupils have to do it at least for 2 years. They have to choose a job in the beginning, and may change after the first year. Alternatively, pupils may join any of the departments of the [[The Bardeena Defense Force|Defense Force]] and grind away as police, disaster control, or army recruits.
+Everyone can choose to work in these jobs anyway, of course, but freshly graduated students have to do it at least for 2 years. They have to choose a job in the beginning and may change to another after the first year. Alternatively, students may join any of the departments from the [[The Bardeena Defense Force|Defense Force]] and **grind away** as police, disaster control, or military recruits.
