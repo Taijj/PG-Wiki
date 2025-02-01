@@ -49,20 +49,33 @@ With **MARIA**'s help, **Section VI** became a place of knowledge about the phen
 ### Section VII
 	Field: Medicine
 This section shares its history with [[#Section III]] and split off of it after some years. The alchemists and potion-makers supporting the [[The founding of Bardeena#Flesh and Fairy Dust|battles of old]] were followed by a capable group of doctors and researchers in the field of **Medicine**. Those built their own section in another district in the city of [[Bavista]].
-The **Section VII** Hospital is the largest, best equipped, and most specialized healing facility of the country. Besides treating patients, they study bacterial and viral diseases, genetics, and they develop potent modern Pharmaceuticals and potions.
+The **Section VII** **Healing Wind Hospital** is the largest, best equipped, and most specialized healing facility of the country. Besides treating patients, they study bacterial and viral diseases, genetics, and they develop potent modern Pharmaceuticals and potions.
+
+>[!note]+ Notes
+>The hospital's name is a reference to the game *Final Fantasy VII*, where **Healing Wind** is a skill of the character *Aerith*.
 ### Section VIII
 	Field: Invis Biology
 It took a while until the new country calmed down enough to be able to shift the focus to themselves and their own bodies. Interest in the topic of **Invis Biology** steadily grew in the city of [[Haarafir]], since it was at peace the longest after the country was founded. Also, the primarily [[Mischlinge|Hybrid]] nature of the population was especially interesting to explore.
-Initially composed of private researchers, a number of them finally decided at some point to share their findings and combine their efforts in the field. An effort that was rewarded with the establishment of **Section VIII**, which nowadays not only deals with **Biology**, but also with topics like **Neuroscience**.
+Initially composed of private researchers, a number of them finally decided at some point to share their findings and combine their efforts in the field. An effort that was rewarded with the establishment of the **Section VIII Invis-Garden** (the majority of the researchers where [[Die Nerivaner|Nerivan]]). The **Garden** nowadays not only deals with **Biology**, but also with topics like **Neuroscience**.
+
+>[!note]+ Notes
+>Calling the section *Garden* is a reference to *Final Fantasy VIII's Gardens*, course.
 ### Section IX
 	Fields: Information & Data Science
 This section was moved around the most. It started out as a part of [[#Section I]], but was then moved to [[Haarafir]], then [[#Section II]], and back to **Haarafir**, after [[#Section II]]'s satellite began operations. During that time computers became high in demand pretty much all over the country, but especially for the [[The Bardeena Defense Force|military]], of course.
 It was considered to also be moved to [[Bavista]], but then they basically invented the internet. An upgraded satellite extended a network over the entire country and this way the section's physical location stopped mattering.
 Now, the latest in computer software and hardware is researched here. Also **information** in general, **statistics**, **cyber security**, and **AI** are studied here, of course.
+
+>[!note]+ Notes
+>The operating system developed for Bardeenian computers is called **Garland OS**, which, of course, is a reference to the *Final Fantasy IX* antagonist of the same name.
 ### Section X
 	Field: Ecology
 From the beginning they knew they would have to be careful with the little land they claimed for themselves. They had to use the space and resources they had efficiently and without endangering their future. All Sections tried to do this anyway, but with time it became more complicated.
-They thought it best to turn this need into its own section and scientists from other sections, primarily [[#Section I|I]], [[#Section III|III]] and [[#Section IV|IV]] joined together. The 10th section was born, which deals with matters of **Ecology** and the **Environment**.
+They thought it best to turn this need into its own section and scientists from other sections, primarily [[#Section I|I]], [[#Section III|III]] and [[#Section IV|IV]] joined together.
+The 10th section was born and grew into the **Spira Academy** over time. It deals with matters of **Ecology**, the **Environment**, restoration and recycling, and by extension the circle of life itself.
+
+>[!note]+ Notes
+>Another reference to a *Final Fantasy* game. **Spira** is the name of *FFX*'s world.
 ### Section XI
 	Fields: Psychology, Sociology, Learning
 After many years, [[#Section VI]] grew a bit too large and it was decided to split it into two. They both still reside near the ruins of **Fodivitas**, [[Nasbel]]. **Section VI** had grown into a temple-like structure, while this became a rather modern office building - a very cozy one, though.
