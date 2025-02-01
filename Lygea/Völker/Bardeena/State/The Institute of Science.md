@@ -182,6 +182,7 @@ The following lists all the categories with example subjects for each. Not all s
 	- Enchantments - mostly dealing with [[Die Mystik#Mystifizierungen|Mystifications]] of places and objects
 	- Gemology - in this case in regard to their **mystic** capabilities
 	- Curses - about [[Geister|ghosts]], the [[Besessene|posessed]]
+If a school offers a subject, it has to commit to it. That means classes will be held, even if there's only a single student interested in that subject. It only results in free time for the teachers, if no students chose that subject. But that is also subject to change rather quickly, since new students also arrive on a quarterly basis.
 ##### MID Graduation
 Graduation ceremonies are held every quarter of a year here as well. Graduates receive the so-called **Mid Diploma**, which lists all their chosen subjects and how many [[#Classes]] they've completed for each.
 How students become eligible for graduation is rather complicated due to the diverse nature of this society. In general they become graduates as soon as they become [[The Ministry of Community#Levels of Maturity|Adults]], or complete all the classes they've chosen.
