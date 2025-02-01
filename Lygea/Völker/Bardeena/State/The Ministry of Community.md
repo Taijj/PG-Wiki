@@ -1,12 +1,21 @@
 // TODO
-
+# Department of Preservation
+Art, History, Cultural Heritage, Environment
+# Department of Presentation
+Culture, Community, Entertainment & Media
 # Department of Mysticism
 // TODO
-
+# Department of Healthcare
+Physical and Psychological
 # Department of Family
 // TODO
-Some families might practice their own traditional coming of age ceremony, which is dependent on the respective tradition, of course. However, generally, in this Hybrid society, it is hard to define at which age a child has reached a certain level of maturity. Instead, tests and processes were developed to do so. Those tests put the child in one of the following categories and dictate where it can go:  
+(Kinder & Jugendhilfe) Domestic, Daycare, Kindergarten'n shit
 
+Care and education of very young children is considered to mainly be the responsibility of the parents and their existing family. Parents can choose to place their kids into daycare or kindergarten, but need to go through an application process in order for their children to be accepted into one. A lot of factors are considered and reviewed for a child to be accepted. Most important among them are:
+- The parent's occupation and severity of them not doing it for a while (e.g. health workers have an easier time getting their children into daycare than office workers do)    
+- The parent's available family network (grandparents, aunts/uncles, friends)    
+- The child's level of maturity
+Some families might practice their own traditional coming of age ceremony, which is dependent on the respective tradition, of course. However, generally, in this Hybrid society, it is hard to define at which age a child has reached a certain level of maturity. Instead, tests and processes were developed to do so. Those tests put the child in one of the following categories and dictate where it can go:  
 ## Levels of Maturity
 In this [[Mischlinge|Hybrid]] society, it is basically impossible to define based on age when an individual has reached maturity. Instead, together with and based on extensive research done by [[The Institute of Science#Section XI|Section XI]], this department came up with distinct stages every [[Die Invis|Invis]] goes through. These were base on observable and quantifiable **behavioral traits** and milestones to be mastered:
 
@@ -31,9 +40,5 @@ In this [[Mischlinge|Hybrid]] society, it is basically impossible to define base
 The Bardeenian [[The Institute of Science#Department of Education|system of education]] was developed in parallel, but how respective coming of age ceremonies or rituals are celebrated varies from family to family.
 ### Orphanages
 // TODO
-
-
 # Department of Standardization
-Also here!
-
 Also, makes rules that hold weight in court, and can be used to "sue" somebody.
