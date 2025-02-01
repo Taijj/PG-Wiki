@@ -185,14 +185,14 @@ The following lists all the categories with example subjects for each. Not all s
 If a school offers a subject, it has to commit to it. That means classes will be held, even if there's only a single student interested in that subject. It only results in free time for the teachers, if no students chose that subject. But that is also subject to change rather quickly, since new students also arrive on a quarterly basis.
 ##### MID Graduation
 Graduation ceremonies are held every quarter of a year here as well. Graduates receive the so-called **Mid Diploma**, which lists all their chosen subjects and how many [[#Classes]] they've completed for each.
-How students become eligible for graduation is rather complicated due to the diverse nature of this society. In general they become graduates as soon as they become [[The Ministry of Community#Levels of Maturity|Adults]], or complete all the classes they've chosen.
-- **Adults**: Adults may choose to graduate right away, or at any time after. However, as soon as they matured fully (i.e. reached the **Mature** level), they have to graduate at the end of the current quarter. At this point their progress will be locked in.
+How students become eligible for graduation is rather complicated due to the diverse nature of this society. In general they become graduates as soon as they reach [[The Ministry of Community#Levels of Maturity|Adulthood]], or complete all the classes they've chosen.
+- **Adults**: Anyone reaching the **Adult** **Level of Maturity** may choose to graduate right away, or at any time after. However, as soon as they matured fully (i.e. when they reached the **Mature** Level), they have to graduate at the end of the current quarter or pay for further schooling.
 - **Completed Classes**: Students actually have a fair chance to complete necessary classes in time, since they only need to complete 1 subject in each category, no matter which.
 Since most students have their last day of school ever in MID school, the graduation celebration is something at which the students can cut loose one more time. Similar to the German "Abistreich", the students disturb the lessons all over the school, kidnap selected teachers including the school head, and publicly make fun of the entire staff.
 ### AD(vanced) School
 	German: Extraschule
 This school is mandatory only for citizens that haven't reached the [[The Ministry of Community#Levels of Maturity|Adult]] level, yet. It expands on and deepens the teachings of [[#Mid(dle) School|Mid School]] further, which is considered completely optional. That is why students have complete freedom with which subjects they choose to continue. They might even choose not to continue at all and become **Junior Teachers** instead.
-- Schooling on this level still remains free for students that haven't fully matured. Anyone else, will have to start paying for classes, though.
+- Schooling on this level still remains free for students that haven't fully matured, yet. Anyone else, will have to start paying for classes, though.
 - Schools offering the **Advanced Level** are all primarily [[#Mid(dle) School|Mid School]]s. Not all **Mid Schools** offer the **Advanced Level**, but there are no schools for the **Advanced Level** only.
 - This is also the first level were students from all over the country may attend. Students from the previous levels may only visit schools in their home settlements.
 ##### AD Subjects
@@ -203,7 +203,7 @@ Besides offering a few more classes for all [[#Mid Subjects|Mid School Subjects]
 | Economy  | Computer Science        | Robotics            | Neurology  | Theology           |
 | Finance  | Theoretical Mathematics | Theoretical Physics | Medicine   | Competative Sports |
 ##### AD Graduation
-Graduation works similar to [[#Mid Graduation]], but the deadline is extended until [[The Ministry of Community#Levels of Maturity|Maturity]]. So every no-**Adult** student has to stay until they are an **Adult**, and everyone will graduate at the end of the next quarter as soon as they turned **Mature**.
+Graduation works exactly like [[#Mid Graduation]]. So every non-**Adult** student has to stay, until they are one, and everyone will graduate at the end of the next quarter as soon as they turned **Mature**, or pay to continue.
 The graduation celebration on this level is a formal dance, not unlike the American Prom, where students dress up, meet at a venue, and dance through the night.
 ### University
 University is completely optional and is only required, if the goal is to become part of one of the [[#Sections]]. Other than that, it is pretty much the same, as one would expect (students, professors, lectures, diplomas, doctorates, etc.).
