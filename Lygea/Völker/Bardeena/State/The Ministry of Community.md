@@ -9,9 +9,18 @@ The main way to fulfill their function is the operation of public libraries, mus
 ## Location
 Each settlement may or may not have its own library or archives operated by this department. However, the **Hybrid Archives** near the old ruins of **Fodivitas** deserve the title of headquarters the most.
 # Department of Presentation
-Culture, Community, Entertainment & Media
+The base of the Bardeenian culture and art scene sprang from this department. Its responsibilities lie in the presentation and celebration of culture in all forms and colors imaginable.
+## Organization
+- Art, Theater, Musical, etc.
+- TV, Radio, Podcast
+- Videogames
+- News
+- Seasonal Festivals
+- Bands & Concerts
 # Department of Mysticism
-// TODO
+Rules for underaged "wizards"
+Animation License
+
 # Department of Healthcare
 Physical and Psychological
 # Department of Family
@@ -45,7 +54,7 @@ In this [[Mischlinge|Hybrid]] society, it is basically impossible to define base
 | **Adult**<br>/Erwachsene*r       | - better sense of self<br>- mostly independent from caregivers<br>- full executive functioning                                                         | - autonomy, managing own finances<br>- own occupation or in active implementation of live plans<br>- taking on adult responsibilities                                                               | 18-19 years                  |
 | **Mature**<br>/Ausgereifte*r     | Experimenting with life                                                                                                                                | Living                                                                                                                                                                                              | 20 years,                    |
 The Bardeenian [[The Institute of Science#Department of Education|system of education]] was developed in parallel, but how respective coming of age ceremonies or rituals are celebrated varies from family to family.
-### Orphanages
+### Orphanages & Child Protection Services
 // TODO
 # Department of Standardization
 Also, makes rules that hold weight in court, and can be used to "sue" somebody.
