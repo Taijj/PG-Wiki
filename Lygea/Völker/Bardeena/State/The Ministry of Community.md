@@ -1,6 +1,13 @@
-// TODO
+	German: Ministerium der Gemeinschaft
+
+The ministry's main concerns are the regulation and organization of how the citizens of the nation are living together. It takes care to preserve a sense of culture, sets rules of how people should live together, and sets certain standards everyone can rely on.
+The rules set here are not as strong as a hard set laws would be, the [[The Bardeena Defense Force#Department of Police|Police]] won't enforce them, for instance. But they will hold high authority during conflicts, especially in [[The National Office#Department of Law|court]].
 # Department of Preservation
-Art, History, Cultural Heritage, Environment
+To preserve the nation's culture, its art, its music, and its history, this department was founded. The cultural footprint of Bardeena itself is admittedly weak, due to it being and embracing its multicultural nature. That is why they also take care to preserve what they can from all over Lygea.
+## Organization
+The main way to fulfill their function is the operation of public libraries, museums, and archives all over the country. Records of many things are kept, stored, and preserved meticulously. Those include but are not limited to: Paintings, sculptures, books, poems, newspaper articles, letters, musical records, movies, and even Videogames.
+## Location
+Each settlement may or may not have its own library or archives operated by this department. However, the **Hybrid Archives** near the old ruins of **Fodivitas** deserve the title of headquarters the most.
 # Department of Presentation
 Culture, Community, Entertainment & Media
 # Department of Mysticism
