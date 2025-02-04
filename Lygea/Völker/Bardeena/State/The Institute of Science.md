@@ -44,7 +44,7 @@ With **MARIA**'s help, **Section VI** became a place of knowledge about the phen
 
 >[!note]+ Notes
 >- **MARIA** is the spirit of an [[Die Eveliten|Evelitian]] eldest, killed during [[The Calamity]].
->- **MARIA**'s name and appearance is inspired by characters of the game *Final Fantasy VI*, especially *Terra in Esper form*, and *Maria* from the opera scene.
+>- **MARIA**'s name and appearance is inspired by characters of the game *Final Fantasy VI*, especially *Terra in Esper* form, and *Maria* from the opera scene.
 >- Most of the Bardeenian knowledge was built and derived from the findings of the [[Die Eveliten|Evelites]]. By modern standards those teachings have the notion of actual myth. That is why a lot of true knowledge about the [[Die Seele|Soul]] and its role in the world got lost to obscurity or was passed off as the stuff of fairy tales. Commonly **Mysticism** is therefore attributed to the work of an individual's brain instead.
 ### Section VII
 	Field: Medicine

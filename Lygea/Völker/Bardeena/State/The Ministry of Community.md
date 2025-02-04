@@ -10,17 +10,31 @@ The main way to fulfill their function is the operation of public libraries, mus
 Each settlement may or may not have its own library or archives operated by this department. However, the **Hybrid Archives** near the old ruins of **Fodivitas** deserve the title of headquarters the most.
 # Department of Presentation
 The base of the Bardeenian culture and art scene sprang from this department. Its responsibilities lie in the presentation and celebration of culture in all forms and colors imaginable.
-## Organization
-- Art, Theater, Musical, etc.
-- TV, Radio, Podcast
-- Videogames
-- News
-- Seasonal Festivals
-- Bands & Concerts
+## Sub Departments
+Individuals belong to any one of these, but projects are often realized by mixing people from the following together:
+- **The Artisans**: Paintings, Drawings, Sculptures, Fashion, Light shows, i.e. Visual Arts
+- **The Collective**: Theatre, Musical, Acting, i.e. Performing Arts
+- **The Ensemble**: Concerts, Orchestras, Bands, i.e. Musical Arts
+- **The Media**: Movies, TV, Radio, the news, i.e. Visual Media
+- **The Writers**: Novels, Poetry, Comics, Books, i.e. Printed Media
+- **The Designers**: Videogames & the Web, i.e. Digital Media
+## Location
+The most notable locations are the big opera house, that was discovered and restored in the ancient city of **Fodivitas**, and the large media transmission tower located in [[Bavista]]. Other smaller theatres, concert halls, or studios can be found all over the country.
 # Department of Mysticism
-Rules for underaged "wizards"
-Animation License
-
+This department prevents total [[Die Elemente|elemental]] anarchy from running wild through the streets of the cities. It creates rules that restrict the usage of [[Die Mystik|mystic]] abilities, to protect citizens and property from harm.
+## Hard Rules
+The rules set here, similar to the [[The Bardeena Defense Force#Citizens in Arms|weapon rules]], are some of the hardest rules set for the nation. Breaking them will get the [[The Bardeena Defense Force#Department of Police|Police]] on your case, if you want to or not. They are the closest thing to laws this country has, and upholding them is taken very seriously.
+## Rules & Licenses
+- [[#Levels of Maturity|Teenagers]] or younger citizens may only **animate** while being supervised closely by a **Mature Adult** on private property whose owner has given their consent. The supervisor will take full responsibility.
+- **Adults** may only **animate** on private property whose owner has given their consent, and take full responsibility of their actions.
+- **Occupational License**: This license enables its owner to **animate** the [[Die Elemente|Elements]] as part of their occupational duties only while fulfilling said duties.
+- **Public License**: This license enables its owner to **animate** the **Elements** in public under the obligation of greatest care.
+- **Enforcer's License**: This license enables its owner to **animate** the **Elements** as the means to attack and defend themselves and others from harm, or as a means to enforce peace.
+## Process
+Citizens can apply for any of the previously listed licenses, as soon as they become **Adults**. A license is rather expensive, though, and requires participation in a special training program. A higher tier license requires the applicant to complete the previous tiers first. So, in order to acquire an **Enforcer's License**, an **Occupational** and a **Public License** have to be acquired first, including payment and training.
+For people joining any department in [[The Bardeena Defense Force]], acquiring the **Enforcer's License** is part of the recruitment process and comes without additional costs.
+## Location
+Police stations, army barracks, or even schools often employ representatives of this department that organize and oversee the licensing processes. Department headquarters are situated in the harbor city of [[Bavista]].
 # Department of Healthcare
 Physical and Psychological
 # Department of Family
