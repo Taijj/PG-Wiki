@@ -36,8 +36,16 @@ For people joining any department in [[The Bardeena Defense Force]], acquiring t
 ## Location
 Police stations, army barracks, or even schools often employ representatives of this department that organize and oversee the licensing processes. Department headquarters are situated in the harbor city of [[Bavista]].
 # Department of Healthcare
-Physical and Psychological
+Ensuring the physical and mental health of all Bardeenian citizens is the main objective of this department.
+## Free Healthcare
+Bardeena has a system of free healthcare for all citizens. This even includes transport to and, if necessary, from the clinic by [[The Bardeena Defense Force#The Ambulance|an ambulance]]. This, however, has its limits. If a patient is behaving suspiciously, doctors, after consulting one another, might decide to stop treatment, ask for a fee, or suggest alternative treatment. After all they don't want to waste resource on someone trying to exploit the system or whose lifestyle is plainly bad.
+## Obligations 
+All medical personal swears an oath to treat the sick to the best of their ability, to heal injuries, to protect their patient's privacy, and to pass on their knowledge to anyone willing to listen. They also swear to protect the patient's dignity, which gives the patient the power to refuse treatment and explicitly allows active euthanasia.
+## Location
+A number of smaller and larger single practices of doctors, physicians, physiotherapists, psychotherapists, etc. can be found all over the country. Usually the [[The National Office#Department of Resources|Department of Resources]] keeps an eye this distribution and arranges the creation or downsizing of practices in any given area, depending on population density.
+Only the big cities have hospitals, usually more than one, too. The largest and best equipped one is the [[The Institute of Science#Section VII|Healing Wind Hospital]] in [[Bavista]].
 # Department of Family
+
 // TODO
 (Kinder & Jugendhilfe) Domestic, Daycare, Kindergarten'n shit
 

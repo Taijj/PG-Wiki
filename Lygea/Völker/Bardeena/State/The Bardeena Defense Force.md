@@ -63,12 +63,15 @@ It is generally allowed for each citizen to carry any weapon of their choosing. 
 The licenses for weapons are handle by the police, similar to how the [[The Ministry of Community#Department of Mysticism|Department of Mysticism]] hands out their **Animation Licenses**.
 # Department of Warding
 This department's mission is to defend Bardeena against the forces of nature themselves.
+### The Ambulance
+Stationed at strategic locations throughout every settlement, these will quickly jumpt to action, in case of a health emergency. They work pretty much the same way as ambulances from reality: Short reaction time, loud sirens, basic medical treatment, quick transport to the nearest [[The Ministry of Community#Department of Healthcare|clinic]].
 ### The Disaster Defenders
 These are basically the Bardeenian firefighters. People are employed in shifts, some work on a voluntary basis, some as their main occupation. They stand ready to rush and help out with natural disasters of any size, e.g. house fires, floods, heavy weather, etc.
 ### The Guard
 The guard's main task is to protect the citizens against the wilderness, namely the dangerous [[Die Anomi|Anomi]] living there. They are the ones building, maintaining, and manning the walls around each Bardeenian settlement.
 That includes the operation of sometimes elaborate warning systems, that notify the population, in case anything powerful comes too close, e.g. a large [[Die Dämonen|demon]] or an entire horde of large [[Die Tiere|animals]].
 Additionally, they are also the best guides to be found for expeditions beyond the city walls.
+
 # Department of Commission
 This department is the latest addition to the Defense Force and is still rather small and new. It consists of highly individual privately funded companies of varying sizes that can be hired for any kind of problem imaginable. Problems of the kind, which the other departments cannot or will not handle. Because problems might be
 - too small for them to bother,
