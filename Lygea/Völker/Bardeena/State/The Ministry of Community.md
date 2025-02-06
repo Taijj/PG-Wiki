@@ -96,4 +96,6 @@ This department also steps in for cases of domestic violence of any kind. They s
 The Bardeenian definition of an orphanage is a little different than the word might imply. Anyone, with no family connection or home of their own is considered an orphan, regardless of age and [[#Levels of Maturity|Level of Maturity]].
 Bardeenian orphanages are intergenerational nursing homes for children, the elderly, or any other person in need. This way many functional families form that aren't actually blood related at all.
 # Department of Standardization
-Also, makes rules that hold weight in court, and can be used to "sue" somebody.
+This department is a rather late addition to the whole bunch, and resulted from a need of consumer protection. Similar to the *Deutsches Institut für Normung* (DIN), but not as thorough, this department's job is to define standards for products and processes. The goal is to make every day life and work more safe and reliable.
+
+The standards defined by this department are rather recommendation than rule and may or may not be applied. However, products adhering to them usually sell better and are used more widely. If products advertise to use a certain standard, they have to make sure to have it properly implemented, though. Otherwise, that's a pretty valid [[The National Office#Department of Law|court case]].
