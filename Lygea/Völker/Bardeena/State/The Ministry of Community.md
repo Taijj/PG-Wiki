@@ -45,17 +45,16 @@ All medical personal swears an oath to treat the sick to the best of their abili
 A number of smaller and larger single practices of doctors, physicians, physiotherapists, psychotherapists, etc. can be found all over the country. Usually the [[The National Office#Department of Resources|Department of Resources]] keeps an eye this distribution and arranges the creation or downsizing of practices in any given area, depending on population density.
 Only the big cities have hospitals, usually more than one, too. The largest and best equipped one is the [[The Institute of Science#Section VII|Healing Wind Hospital]] in [[Bavista]].
 # Department of Family
-
-// TODO
-(Kinder & Jugendhilfe) Domestic, Daycare, Kindergarten'n shit
-
-Care and education of very young children is considered to mainly be the responsibility of the parents and their existing family. Parents can choose to place their kids into daycare or kindergarten, but need to go through an application process in order for their children to be accepted into one. A lot of factors are considered and reviewed for a child to be accepted. Most important among them are:
-- The parent's occupation and severity of them not doing it for a while (e.g. health workers have an easier time getting their children into daycare than office workers do)    
-- The parent's available family network (grandparents, aunts/uncles, friends)    
-- The child's level of maturity
-Some families might practice their own traditional coming of age ceremony, which is dependent on the respective tradition, of course. However, generally, in this Hybrid society, it is hard to define at which age a child has reached a certain level of maturity. Instead, tests and processes were developed to do so. Those tests put the child in one of the following categories and dictate where it can go:  
+The protection of families and the innocence of childhood is this department's mission. It also takes on the responsibility of keeping families in check.
+## Daycare & Kindergarten
+Care and education of very young children is considered to mainly be the responsibility of the parents and their existing family. Parents can choose to place their kids into daycare or kindergarten, but need to go through an application process first. A lot of factors are considered and reviewed for a child to be accepted, though. Most important among them are:
+- The parent's occupation and severity of them not doing it for a while (e.g. health workers have an easier time getting their children into daycare than office workers do) 
+- The parent's available family network (grandparents, aunts/uncles, friends)
+- The parent's physical and mental resilience
+- The child's [[#Levels of Maturity|Level of Maturity]]
+There is a great number of children that won't go to daycare or kindergarten, since they are embedded in a good family situation as is already.
 ## Levels of Maturity
-In this [[Mischlinge|Hybrid]] society, it is basically impossible to define based on age when an individual has reached maturity. Instead, together with and based on extensive research done by [[The Institute of Science#Section XI|Section XI]], this department came up with distinct stages every [[Die Invis|Invis]] goes through. These were base on observable and quantifiable **behavioral traits** and milestones to be mastered:
+In this [[Mischlinge|Hybrid]] society, it is basically impossible to define when an individual has reached maturity based on age. Instead, together with and based on extensive research done by [[The Institute of Science#Section XI|Section XI]], this department came up with distinct stages every [[Die Invis|Invis]] goes through. These were based on observable and quantifiable **behavioral traits** and milestones to be mastered:
 
 *(Equivalent: Equivalent human age or terms)*
 
@@ -75,8 +74,26 @@ In this [[Mischlinge|Hybrid]] society, it is basically impossible to define base
 | **Adulthood**                    | ----                                                                                                                                                   | ----                                                                                                                                                                                                | ----                         |
 | **Adult**<br>/Erwachsene*r       | - better sense of self<br>- mostly independent from caregivers<br>- full executive functioning                                                         | - autonomy, managing own finances<br>- own occupation or in active implementation of live plans<br>- taking on adult responsibilities                                                               | 18-19 years                  |
 | **Mature**<br>/Ausgereifte*r     | Experimenting with life                                                                                                                                | Living                                                                                                                                                                                              | 20 years,                    |
-The Bardeenian [[The Institute of Science#Department of Education|system of education]] was developed in parallel, but how respective coming of age ceremonies or rituals are celebrated varies from family to family.
-### Orphanages & Child Protection Services
-// TODO
+The Bardeenian [[The Institute of Science#Department of Education|system of education]] was developed in parallel. Respective coming of age ceremonies or rituals vary from family to family depending on personal traditions and culture, of course.
+## Community Balance
+One of the department's most important ongoing tasks is to keep the population in balance. Together with the [[The National Office#Department of Demographics|Department of Demographics]] they actually strive to keep a balance between population growth and decline.
+
+To realize this, they've developed a numerical model, to predict and evaluate future population growth. Each pregnancy, and each immigration application, will influence this **Population Index**, which determines the respective measures to be taken:
+- **White** - The population will shrink drastically, child birth is incentivized with monetary bonusses, immigrants are actively sought out.
+- **Blue** - The population will shrink, immigrants won't be evaluated so strictly.
+- **Green** - The population should roughly stay the same
+- **Yellow** - The population will grow, immigrants have to work a little harder to be accepted, to-be parents won't receive their basic income anymore
+- **Red** - The population will grow beyond what the country can provide for, no immigrants are allowed in, parents won't receive their basic income and their babies will be taken away at birth.
+
+> [!note]+ Trivia
+> - The Population Index has never reached a lower level than Green. It reached red a few times, but usually alternates between the Yellow and Green stages.
+> - There have been cases of unreasonable parents that were forcefully sterilized in addition to having their children taken away.
+
+Abortions, within a certain time after the pregnancy was discovered, are also legal. If penalties are given, they take care to apply them to the would-be parents, since the children are actually innocent. If a child was born, it is entitled to be treated as a full Bardeenian citizen, though.
+## Domestic Violence
+This department also steps in for cases of domestic violence of any kind. They separate children from abusive caretakers, partners from abusive spouses, or any similar situation that warrants interference. 
+## Orphanages
+The Bardeenian definition of an orphanage is a little different than the word might imply. Anyone, with no family connection or home of their own is considered an orphan, regardless of age and [[#Levels of Maturity|Level of Maturity]].
+Bardeenian orphanages are intergenerational nursing homes for children, the elderly, or any other person in need. This way many functional families form that aren't actually blood related at all.
 # Department of Standardization
 Also, makes rules that hold weight in court, and can be used to "sue" somebody.
