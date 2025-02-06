@@ -1,1 +1,3 @@
 //TODO
+
+Bardeena, in its essence, always was a country of outcasts and refugees. The ones seeking a more quiet life, found a new home in the town of Nasbel. Small, rural, simple compared to the big cities this became a town of farmers and fishers. Situated in a flat basin, it is mostly made up of large plantations and green pastures. The main portion of Bardeena's Food supplies originate from here.
