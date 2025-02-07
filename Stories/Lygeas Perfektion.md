@@ -2,7 +2,7 @@
 
 Es ist Magie, die bereits vor der Zeit vollkommen war. Aus dieser Perfektion entsprang aller Ding. So weiß ein Jedes darum, dass Magie die wahre Essenz und pure Vollkommenheit ist. Alles strebt danach, wieder aus der Hinlänglichkeit zur Perfektion aufzusteigen.
 
-Auch Lygea, unsere Mutter, suchte nach Perfektion. Sie gab uns ihr grünes Kleid, schaffte uns Lebensraum darin und schützte uns vor dem Zorn ihrer gleichen. Sie strebte danach, unsere perfekte Welt zu werden und, als ihre Kinder, ist es uns ein innerer Drang, es ihr gleich zu tun:
+Auch Lygea, unsere Mutter, suchte nach Perfektion. Sie gab uns ihr grünes Kleid, schaffte uns Lebensraum darin und schützte uns vor dem Zorn ihrer Gleichen. Sie strebte danach, unsere perfekte Welt zu werden und, als ihre Kinder, ist es uns ein innerer Drang, es ihr gleich zu tun:
 
 > Wir Teyaner suchen Perfektion in der Ruhe der Erde und dem Bund unserer Familien. Wir erstreben die vollkommene Wahrheit und Kraft des Geistes.  
 
@@ -14,7 +14,7 @@ Auch Lygea, unsere Mutter, suchte nach Perfektion. Sie gab uns ihr grünes Kleid
 
 > Wir Nerivaner suchen Perfektion in der Freude des Lichts und der Liebe zur Kunst. Wir erstreben vollkommene Freundschaft und Einssein mit der Natur.
 
-> Wir Eveliten bewohnten die Schatten. Wir haben die Perfektion im Erlangen von allumfassenden Wissen gesucht, doch fanden wir nur die Vergessenheit.
+> Wir Eveliten bewohnten die Schatten. Wir haben die Perfektion im Erlangen von allumfassendem Wissen gesucht, doch fanden wir nur die Vergessenheit.
 
 Aber was ist Perfektion und kann man sie wirklich erreichen? Wird der Weg jemals enden? Ist es nur eine Frage der Definition? Der Perspektive? Des Glaubens? 
 
