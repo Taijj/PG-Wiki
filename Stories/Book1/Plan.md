@@ -1,24 +1,49 @@
-Inspiriert durch: https://www.youtube.com/watch?v=Qv9qcTbwAiw
+- Sora, der Jin Metal zeigt, der das erst nicht gut findet, aber dann später total drauf abgeht.    
+- Generell Jin, der Dinge gut findet, aber sie dann trotzdem ablehnt
 
-Intro - There be Magic
-- The World is called Lygea    
-- There are 6 Races derived from 6 Elements
+Act I
+- Jin plagen Alpträume, die seine Erinnerungen invalidieren    
+- Jins Familienleben
+- Jin @ play
+- Jin fragt im Unterricht nach Sektion 12
+- C: Jin begegnet Sora, der ebenfalls die Wahrheit über Sektion 12 sucht.
 
-Prologue - THE_MURDER
-- Hook:
-- Why are the Naidesh Kids important?     
-- Who is Tania?    
-- Who are the attackers?
-- Crucial Info for Chapter 1
-- The outer wilds are dangerous and filled with monsters    
-- The races can animate the elements
-- Notes
-- Tania lives outside the city walls and they wanted to escape to her
+Act II +
+- B: Training mit Nia
+- M: False Victory
 
-First Chapter - Jin is late (and gets grounded)
-- Hook:
-- What happened to the building?
-- What are they looking for?
-- Jin must not be attacked by Chess, yet!
-- No demons, no fighting, no animations
-- Hybrids exist
+Act III -
+Welchen Fehler hat Jin gemacht?
+- Jin streitet mit Nia
+- Jin streitet mit Sora
+- L: Jin word gefangen genommen
+Act IV
+- B Story Sacrifice?
+- F: Kampf gegen Franziska und Rettung von Nia
+
+FRANZISKA
+- Kinder entführen
+- Bonus: Nia unschädlich machen
+- Bonus: Militär unschädlich machen
+- Haarafir infiltrieren
+
+Militär
+- Kinder nutzen
+- Existenz geheim halten
+
+Nia
+- Kinder beschützenKinder ausbilden
+
+I - 
+II - Weil niemand ihm sonst hilft, verbündet Jin sich mit Sora und sie finden heraus, dass Jins Eltern nicht seine Eltern sind.
+III - Aus Frust und Verwirrung verkracht Jin sich mit Sora und Nia und vertraut sich Franziska an, die sich als eigentlicher Drahtzieher entpuppt.
+IV - Jin bricht aus seinem wörtlichen und bildlichen Gefängnis aus, um zu verhindern, dass Haarafir dem Erdboden gleich macht und die Naidesh Kids zu entführen.
+
+Die Kinder wurden im Berg gefunden
+Die Kinder wurden von Raphaela adoptiert
+Sektion 12 existiert wirklich
+Sektion 12 wurde nur wegen der Kinder etabliert  
+Raphaela wurde ermordet
+
+Raphaela und Varn sind nicht ihre echten Eltern
+Franz hetzt Nia und das Militär gegeneinander auf.
