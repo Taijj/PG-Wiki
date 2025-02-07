@@ -1,6 +1,3 @@
-- Sora, der Jin Metal zeigt, der das erst nicht gut findet, aber dann später total drauf abgeht.    
-- Generell Jin, der Dinge gut findet, aber sie dann trotzdem ablehnt
-
 Act I
 - Jin plagen Alpträume, die seine Erinnerungen invalidieren    
 - Jins Familienleben
@@ -21,29 +18,17 @@ Act IV
 - B Story Sacrifice?
 - F: Kampf gegen Franziska und Rettung von Nia
 
-FRANZISKA
-- Kinder entführen
-- Bonus: Nia unschädlich machen
-- Bonus: Militär unschädlich machen
-- Haarafir infiltrieren
-
-Militär
-- Kinder nutzen
-- Existenz geheim halten
-
-Nia
-- Kinder beschützenKinder ausbilden
-
 I - 
 II - Weil niemand ihm sonst hilft, verbündet Jin sich mit Sora und sie finden heraus, dass Jins Eltern nicht seine Eltern sind.
 III - Aus Frust und Verwirrung verkracht Jin sich mit Sora und Nia und vertraut sich Franziska an, die sich als eigentlicher Drahtzieher entpuppt.
 IV - Jin bricht aus seinem wörtlichen und bildlichen Gefängnis aus, um zu verhindern, dass Haarafir dem Erdboden gleich macht und die Naidesh Kids zu entführen.
 
-Die Kinder wurden im Berg gefunden
-Die Kinder wurden von Raphaela adoptiert
-Sektion 12 existiert wirklich
-Sektion 12 wurde nur wegen der Kinder etabliert  
-Raphaela wurde ermordet
+Info Reveals:
+- Die Kinder wurden im Berg gefunden
+- Die Kinder wurden von Raphaela adoptiert
+- Sektion 12 existiert wirklich
+- Sektion 12 wurde nur wegen der Kinder etabliert  
+- Raphaela wurde ermordet
 
-Raphaela und Varn sind nicht ihre echten Eltern
-Franz hetzt Nia und das Militär gegeneinander auf.
+- Raphaela und Varn sind nicht ihre echten Eltern
+- Franz hetzt Nia und das Militär gegeneinander auf.
