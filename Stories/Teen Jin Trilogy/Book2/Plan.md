@@ -1,3 +1,24 @@
+Tropes
+- Magic is Hidden    
+- Demons    
+- Culture Clash    
+- Huge City    
+- Mythical Creatures (Demons, Werewolves, and a vast Bestiary)    
+- Creature Twist (Demons outside of wall)    
+- Hero has a unique profession central to the story, who he is really good at    
+- Hero has a special/hidden power and lives in hiding    
+- 1st Person View + Sarcasm/Cynicism    
+- Love Interest (not the focus though)  
+
+What is the Story about (Genre)
+- The value at stake    
+- Something concrete, what the story is about    
+- About the characters wants/need    
+- ONE thing I'm talking about (the value at stake, from Maslov)  
+  
+
+Action? [https://www.youtube.com/watch?v=EiCL48uG02A](https://www.youtube.com/watch?v=EiCL48uG02A)
+
 Act I
 - Jin plagen Alpträume, die seine Erinnerungen invalidieren    
 - Jins Familienleben
