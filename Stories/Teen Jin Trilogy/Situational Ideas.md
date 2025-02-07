@@ -8,6 +8,7 @@
 - Jugendausflug Gebet verpasst, Jin demütigung
 - Verdonnert Instrument zu lernen
 - Kyashi: "Dann steh ich auf, hau dir eine in die Fresse und hock mich wieder hin!"
+- Jin ist 5 Minuten zu spät und bekommt dafür shit von Stepmom
 ## Friends
 - Sora, der Jin Metal zeigt, der das erst nicht gut findet, aber dann später total drauf abgeht. (DEADLY SINNAAAS!)
 - Tari: "Ick brauch 'ne Freundin"
