@@ -1,2 +1,0 @@
-- Sora, der Jin Metal zeigt, der das erst nicht gut findet, aber dann später total drauf abgeht.    
-- Generell Jin, der Dinge gut findet, aber sie dann trotzdem ablehnt
