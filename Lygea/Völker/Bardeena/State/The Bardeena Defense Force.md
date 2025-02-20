@@ -55,9 +55,16 @@ The leaders of teams or cases are chosen on a per case basis, usually amongst vo
 ## Smaller Settlements
 For small towns and villages it is usually enough to have a single **Sheriff** and maybe a handful of **Deputies**. Sheriff and Deputy aren't proper ranks in this case but rather titles given to those willing to take on the responsibilities. Suffice it to say, being police might not even be their main job.
 ## Involvement
-It usually is every citizen's own responsibility to resolve conflicts amongst themselves. Therefore, the police is not concerned with upholding any kind of law and only interferes, if called upon by citizens. That means that in any conflict at least one party has to actively ask the police to get involved. An officer may proactively ask to help, if they notice any commotion, but may also just let it happen, if all parties agree to leave the police out of it.
-Involving the police is a decision citizens don't take lightly. If the police gets involved in a case, they'll do their best to find a culprit, which might then be hit with heavy fines. In the worst case, even the [[The National Office#Department of Law|Department of Law]] will get involved, which drives fines even higher.
-The police might even sit by, if a fight escalates and the parties go for live and limb of the other. But only, if the fight stays between the initial parties. They will call an ambulance and give testimony still, if necessary, of course.
+It usually is every citizen's own responsibility to resolve conflicts amongst themselves. Therefore, the police are not concerned with upholding any kind of law and only interfere, if called upon by citizens. That means: In any conflict, at least one party has to actively ask the police to get involved.
+Involving the police is a decision citizens don't take lightly. If the police get involved, they'll do their best to find a culprit, which then leads to heavy fines in addition to other punishment. In the worst case, the [[The National Office#Department of Law|Department of Law]] will get involved. Generally nobody wants that to happen, since court cases are very expensive. Whole lives can be destroyed by a single court case.  
+
+So an officer is not obliged to step into other people's businesses. They may proactively offer to help, if they notice any commotion, though. However, they may also reluctantly step back again and let things run their course, if all conflicting parties agree, they don't want any police involved.
+Still, there are a number of cases where they will step in, even when not asked to do so explicitly:
+- As soon as a dispute escalates to physical violence    
+- As soon as someone brandishes or shows off a weapon    
+- As soon as someone starts [[Die Mystik#Basierend auf Animation|animating]] in public    
+- As soon as a [[The Ministry of Community#Levels of Maturity|Child or Teenager]] starts animating anywhere without adult supervision
+At any of these points, the fighting parties are forfeiting their right to choose and the police step in. In the weapons or Animations cases they at least have to check, if the person in question holds a valid license, and withdraw again, if they do. If they don't, the police are obliged to take measures.
 ## Citizens in Arms
 It is generally allowed for each citizen to carry any weapon of their choosing. There are even weapon shops all over the country selling to anyone willing to buy. However, buyers need to be adults with a valid weapon's license. They have to buy and complete a basic weapon's training first, where they earn their right to buy any weapon of their choosing.
 The licenses for weapons are handle by the police, similar to how the [[The Ministry of Community#Department of Mysticism|Department of Mysticism]] hands out their **Animation Licenses**.
