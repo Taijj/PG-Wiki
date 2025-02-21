@@ -80,21 +80,22 @@ One of the department's most important ongoing tasks is to keep the population i
 
 To realize this, they've developed a numerical model, to predict and evaluate future population growth. Each pregnancy, and each immigration application, will influence this **Population Index**, which determines the respective measures to be taken:
 - **White** - The population will shrink drastically, child birth is incentivized with monetary bonusses, immigrants are actively sought out.
-- **Blue** - The population will shrink, immigrants won't be evaluated so strictly.
+- **Blue** - The population will shrink, immigrants won't be evaluated so strictly, increased income for children.
 - **Green** - The population should roughly stay the same.
-- **Yellow** - The population will grow, immigrants have to work a little harder to be accepted, to-be parents won't receive their basic income anymore.
-- **Red** - The population will grow beyond what the country can provide for, no immigrants are allowed in, parents won't receive their basic income and their babies will be taken away at birth.
+- **Yellow** - The population will grow, immigrants have to work a little harder to be accepted, to-be parents won't receive their basic income anymore, birth control becomes free
+- **Red** - The population will grow beyond what the country can provide for. This means the country is in an active state of emergency. No immigrants are allowed in, parents won't receive their basic income and their babies will even be taken away at birth.
 
-> [!note]+ Trivia
+> [!note]+ Notes
 > - The Population Index has never reached a lower level than Green. It reached Red a few times, but usually alternates between the Yellow and Green stages.
-> - There have been cases of unreasonable parents that were forcefully sterilized in addition to having their children taken away.
+> - There have been cases of unreasonable parents that were forcefully sterilized in addition to having their children taken away. This was only done, because less drastic measures have failed, though, and is by no means common.
+> - During the yellow stage, people might also still freely emigrate. They might even get support from the state to do so. During red, forced emigration may also happen.
 
 Abortions, within a certain time after the pregnancy was discovered, are also legal. If penalties are given, they take care to apply them to the would-be parents, since the children are actually innocent. If a child was born, it is entitled to be treated as a full Bardeenian citizen, though.
 ## Domestic Violence
 This department also steps in for cases of domestic violence of any kind. They separate children from abusive caretakers, partners from abusive spouses, or any similar situation that warrants interference. 
 ## Orphanages
 The Bardeenian definition of an orphanage is a little different than the word might imply. Anyone, with no family connection or home of their own is considered an orphan, regardless of age and [[#Levels of Maturity|Level of Maturity]].
-Bardeenian orphanages are intergenerational nursing homes for children, the elderly, or any other person in need. This way many functional families form that aren't actually blood related at all.
+Bardeenian orphanages are intergenerational nursing homes for children, the elderly, or any other person in need. This way many functional families form that aren't actually blood related at all.  Children taken from their parents, e.g. due to a [[#Community Balance|Red Population Index]] or a tough domestic situation, also end up here.
 # Department of Standardization
 This department is a rather late addition to the whole bunch, and resulted from a need of consumer protection. Similar to the *Deutsches Institut für Normung* (DIN), but not as thorough, this department's job is to define standards for products and processes. The goal is to make every day life and work more safe and reliable.
 
