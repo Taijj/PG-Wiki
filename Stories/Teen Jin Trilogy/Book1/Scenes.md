@@ -20,17 +20,32 @@ FRANZISKAS Frage, warum er so krampfhaft am Licht-Element festhält, reagiert Ji
 ## 4 - Die Naideshs
 > Um nicht als letzter Baden zu gehen, beeilt Jin sich mit seinen Chores, aber seine Familie hält ihn auf.
 
-
+Die Naideshs bereiten sich eine Veranstaltung am Abend vor. Alle waschen sich, aber das Badewasser wird nur einmal ausgetauscht, nachdem STIEF, DAD und Kyashi fertig sind. Das Wasser wird mit jeder Person natürlich widerlicher, deswegen wollen alle so früh wie möglich dran sein. So auch Jin, der als erster am Bad ankommt, dann soll er aber für DAD Getränke aus dem Keller holen und Toruco geht Baden. Toruco war überraschend schnell fertig und als Jin zurückkommt, ist Forashi bereits im Bad. Jin und Tashi sind übrig, aber STIEF ist unzufrieden wie der Abendtisch aufgeräumt wurde und Jin soll das als älterer der beiden richten. Am Ende ist er leider der letzte, der Badet...
 ## 5 - Therapie III
 > Um seine strengen Familienverhältnisse besser zu verstehen, fragt sie ihn über seine Eltern aus, aber er findet das alles völlig normal.
+
+FRANZISKA hackt wegen dem Badewasser nochmal nach und ob das wirklich so sein muss und wie das mit den Aufgaben im Haushalt so ist. Jin erklärt es mit der großen Familie und den knappen, finanziellen Mittel, weil nur DAD arbeitet. Die Frage, was STIEF den ganzen Tag macht, kann Jin nicht beantworten, denn Kyashi ist trotz Rollstuhl eigentlich auch sehr selbstständig. FRANZISKA kommt das alles ziemlich furchtbar vor, aber Jin akzeptiert das alles als notwendig, auch wenn er's ecklig findet.
+FRANZISKA fragt, wie typisch denn so ein Abend ist und Jin berichtet von der KIRCHE und, dass sie sich immer früh darauf vorbereiten, um pünktlich zum GOTTESDIENST zu kommen.
 ## 6 - Die Nethiel
 > Um ein guter Nethiel zu sein, hört Jin bei der Predigt ganz genau zu, aber seine eigenen Gedanken lenken ihn zu sehr ab.
+
+Im GOTTESDIENST spricht STIEF von der Tugend der Pünktlichkeit und wie die heilige [[Seylúna]] pünktlich eingeschritten ist, um ihr Opfer zu bringen. Das veranlasst Jin genauer über das Thema des Opfers nachzudenken. Seine Gedanken werden vom Ende der Predigt unterbrochen und er ist frustriert mit sich selbst, weil er nicht zugehört hat.
+Das Orchester wird aufgerufen ein Abschlussständchen zu spielen, von dem alle Naidesh-Kinder ein Teil sind, sowie Tari, NADINE und weitere. Jin verspielt sich etwas, wofür er von STIEF böse Blicke erntet.
 ## 7 - Therapie IV
 > Damit ihm klar wird, wie voll seine Tage sind, provoziert sie ihn, aber er verteidigt seinen Standpunkt.
+
+FRANZISKA erkundigt sich, wie oft Jin denn mit seiner Familie in die Kirche geht. Er erzählt von den GOTTESDIENSTEN, den Chor- und Orchesterproben und Jugendstunden und den Ausflügen zum See. FRANZISKA kommt zu dem Ergebnis, dass Jins Wochen ganz schön voll sind - dein Sein Stundenplan ist ebenfalls komplett ausgereizt, aber er zuckt nur mit den Schultern.
+Sie fragt, was er denn in der restlichen Zeit macht, woraufhin er von Tari und dessen Eltern erzählt. Mit Tari spielt er so oft er kann Videospiele, aber im Garten oder am KIRCHENTAG dürfen sie nicht, deswegen machen sie an solchen Tagen immer verschiedenes (oder sie schieben Langeweile, wenn ihnen nichts einfällt).
+FRANZISKA fragt nach, ob Jin noch andere Freunde hat, außerhalb der KIRCHE. Jin findet die Idee albern. In der Schule mag ihn eh niemand, er hat dafür eh keine Zeit und dabei kann eh nichts gutes herauskommen. FRANZISKA wundert sich, wie er darauf kommt, woraufhin er zu erzählen beginnt...
 ## 8 - In der Schule
 > Um sich vom langweiligen Unterricht abzulenken, verurteilt er seine Klasse, aber seine eigenen Gedanken widersprechen sich.
+
+Jin sitzt gelangweilt im Geschichtsunterricht und lamentiert, dass er das Fach ausgewählt hat. Die Lehrerin berichtet über das [[The Institute of Science|Institut der Wissenschaft]] und dessen Organisation in **Sektionen**. Er schaut über seine Klasse und fängt einen inneren Monolog an, bei dem sich seine Gedanken in Hardline-Religiös und Vernünftig-Nüchtern trennen und miteinander diskutieren. Nachdem er alle Sünden und Fehler einiger Mitschüler analysiert hat, wird das innere Gespräch abrupt unterbrochen, weil Sora bemerkt, wie Jin in anschaut und ihn anlächelt. Jin dreht sich verlegen weg, bevor er hört, wie Sora die Lehrerin zu **Sektion XII** ausfragt, von der die Lehrerin aber noch nie etwas gehört hat.
 ## 9 - Das Duell
 > Um eine gute Note zu bekommen, besiegt Jin seine Gegner, aber Sora will sein bestes geben.
+
+In der folgenden Stunde stehen Prüfungen im Fach "Elementares Animieren" an und die Lehrer haben sich dieses Mal etwas ganz besonderes ausgedacht: Die Schüler sollen sich mit [[Die Mystik#Dirigate|Dirigaten]] gegenseitig, in Duellen, aus dem Ring stoßen. Nach einem Versuch das bereitgestellt Licht zu animieren, zeigt Jin dann doch sein können. Er besiegt alle seine Gegner mit dem bereitgestellten Feuer, schließlich geht es um eine gute Note. Doch dann betritt Sora den Ring und dieser fängt gleich stark damit an, Blitze zu [[Die Mystik#Beschwörungen|beschwören]] und stößt Jin damit fast aus dem Ring.
+Sora und Jin liefern sich einen erbitterten Kampf und steigern sich so sehr in das Duell rein, dass die Lehrer das ganze unterbrechen müssen. Doch bevor sie das passiert schleudern Jin und Sora sich nochmal ihre stärksten Attacken um die Ohren. Die Attacken prallen aufeinander, geraten außer Kontrolle und schlagen ein riesiges Loch in die angrenzende Turnhalle.
 # Act II
 	Die Neue Welt: Sora tritt in Jins Leben und lockt ihn aus seinem Schrank.
 ## 10 - Therapie V
