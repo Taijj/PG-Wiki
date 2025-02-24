@@ -30,11 +30,11 @@ FRANZISKA fragt, wie typisch denn so ein Abend ist und Jin berichtet von der KIR
 > Um ein guter Nethiel zu sein, hört Jin bei der Predigt ganz genau zu, aber seine eigenen Gedanken lenken ihn zu sehr ab.
 
 Im GOTTESDIENST spricht STIEF von der Tugend der Pünktlichkeit und wie die heilige [[Seylúna]] pünktlich eingeschritten ist, um ihr Opfer zu bringen. Das veranlasst Jin genauer über das Thema des Opfers nachzudenken. Seine Gedanken werden vom Ende der Predigt unterbrochen und er ist frustriert mit sich selbst, weil er nicht zugehört hat.
-Das Orchester wird aufgerufen ein Abschlussständchen zu spielen, von dem alle Naidesh-Kinder ein Teil sind, sowie NADINE und weitere. Jin verspielt sich etwas, wofür er von STIEF böse Blicke erntet.
+Das Orchester wird aufgerufen ein Abschlussständchen zu spielen, von dem alle Naidesh-Kinder, NADINE und weitere weitere Gemeindemitglieder ein Teil sind. Jin verspielt sich etwas, wofür er von STIEF böse Blicke erntet.
 ## 7 - Therapie IV
 > Damit ihm klar wird, wie voll seine Tage sind, provoziert sie ihn, aber er verteidigt seinen Standpunkt.
 
-FRANZISKA erkundigt sich, wie oft Jin denn mit seiner Familie in die Kirche geht. Er erzählt von den GOTTESDIENSTEN, den Chor- und Orchesterproben und Jugendstunden und den Ausflügen zum See. FRANZISKA kommt zu dem Ergebnis, dass Jins Wochen ganz schön voll sind - dein Sein Stundenplan ist ebenfalls komplett ausgereizt, aber er zuckt nur mit den Schultern.
+FRANZISKA erkundigt sich, wie oft Jin denn mit seiner Familie in die Kirche geht. Er erzählt von den GOTTESDIENSTEN, den Chor- und Orchesterproben und Jugendstunden und den Ausflügen zum See. FRANZISKA kommt zu dem Ergebnis, dass Jins Wochen ganz schön voll sind - sein Sein Stundenplan ist ebenfalls komplett ausgereizt - aber er zuckt nur mit den Schultern.
 Sie fragt, was er denn in der restlichen Zeit macht, woraufhin er von Tari und dessen Eltern erzählt. Mit Tari spielt er so oft er kann Videospiele, aber im Garten oder am KIRCHENTAG dürfen sie nicht, deswegen machen sie an solchen Tagen immer verschiedenes (oder sie schieben Langeweile, wenn ihnen nichts einfällt).
 FRANZISKA fragt nach, ob Jin noch andere Freunde hat, außerhalb der KIRCHE. Jin findet die Idee albern. In der Schule mag ihn eh niemand, er hat dafür eh keine Zeit und dabei kann eh nichts gutes herauskommen. FRANZISKA wundert sich, wie er darauf kommt, woraufhin er zu erzählen beginnt...
 ## 8 - In der Schule
@@ -45,7 +45,7 @@ Jin sitzt gelangweilt im Geschichtsunterricht und lamentiert, dass er das Fach a
 > Um eine gute Note zu bekommen, besiegt Jin seine Gegner, aber Sora will sein bestes geben.
 
 In der folgenden Stunde stehen Prüfungen im Fach "Elementares Animieren" an und die Lehrer haben sich dieses Mal etwas ganz besonderes ausgedacht: Die Schüler sollen sich mit [[Die Mystik#Dirigate|Dirigaten]] gegenseitig, in Duellen, aus dem Ring stoßen. Nach einem Versuch das bereitgestellt Licht zu animieren, zeigt Jin dann doch sein können. Er besiegt alle seine Gegner mit dem bereitgestellten Feuer, schließlich geht es um eine gute Note. Doch dann betritt Sora den Ring und dieser fängt gleich stark damit an, Blitze zu [[Die Mystik#Beschwörungen|beschwören]] und stößt Jin damit fast aus dem Ring.
-Sora und Jin liefern sich einen erbitterten Kampf und steigern sich so sehr in das Duell rein, dass die Lehrer das ganze unterbrechen müssen. Doch bevor sie das passiert schleudern Jin und Sora sich nochmal ihre stärksten Attacken um die Ohren. Die Attacken prallen aufeinander, geraten außer Kontrolle und schlagen ein riesiges Loch in die angrenzende Turnhalle.
+Sora und Jin liefern sich einen erbitterten Kampf und steigern sich so sehr in das Duell rein, dass die Lehrer das ganze unterbrechen müssen. Doch bevor das passiert, schleudern Jin und Sora sich nochmal ihre stärksten Attacken um die Ohren. Die Attacken prallen aufeinander, geraten außer Kontrolle und schlagen ein riesiges Loch in die angrenzende Turnhalle.
 # Act II
 	Die Neue Welt: Sora tritt in Jins Leben und lockt ihn aus seinem Schrank.
 ## 10 - Therapie V
@@ -56,7 +56,7 @@ FRANZISKA versteht aber nicht, warum das jetzt so schlecht war, woraufhin Jin So
 ## 11 - Heimweg
 > Jin will den Vorfall vergessen und beeilt sich nach Hause, aber Sora möchte ihn besser kennenlernen.
 
-Nach dem Vorfall beeilt Jin sich nach Hause zu kommen, aber Sora lässt ihn nicht mehr in Ruhe und löchert ihn dazu, wo er so Animieren gelernt hat. Jin antwortet knapp und abweisend, bis Nia plötzlich vor den beiden steht. Sie hatte alles gesehen und äußert sich höchst beeindruckt von der ganzen Darbietung. Die drei gehen den Weg zusammen weiter, wobei Sora jetzt Nia ausfragt. Sie ist von dem jungen sehr angetan und lädt ihn zum nächsten Training mit ein, was Sora bereitwillig zusagt.
+Nach dem Vorfall beeilt Jin sich nach Hause zu kommen, aber Sora lässt ihn nicht mehr in Ruhe und löchert ihn dazu, wo er so Animieren gelernt hat. Jin antwortet knapp und abweisend, bis Nia plötzlich vor den beiden steht. Sie hatte alles gesehen und äußert sich höchst beeindruckt von der ganzen Darbietung. Die drei gehen den Weg zusammen weiter, wobei Sora jetzt Nia ausfragt. Sie ist von dem Jungen sehr angetan und lädt ihn zum nächsten Training mit ein, was Sora bereitwillig zusagt.
 ## 12 - Exilleron
 > Sora möchte mit Jin das Mode-Projekt umsetzen, aber Jin möchte ihn immer noch eher vermeiden.
 
@@ -78,7 +78,7 @@ Die beiden verbringen den ganzen Tag damit Pläne für die ULITMATIVE POWER zu s
 ## 16 - Glauben & Sackhaare
 > Tari spricht mit Jin, weil er Angst hat, dass Sora ihn vom Glauben abbringt, aber Jin versteht die bedenken nicht.
 
-Nach der Kirche geht die KIRCHENJUGEND noch zusammen zum See. Neben Jins Geschwistern sind NADINE und Tari dort und mit Sora diskutieren sie über den GOTTESDIENST. Es ging darum, dass alle Bewohner Lygeas in Sünde geboren wurden und nur durch die heilige [[Seylúna]], Vergebung und Erlösung finden können. Sora findet das generell schwachsinnig und will das nicht glauben.
+Nach der Kirche geht die KIRCHENJUGEND noch zusammen zum See. Neben Jins Geschwistern sind NADINE und Tari dort und mit Sora diskutieren sie über den GOTTESDIENST. Es ging darum, dass alle Bewohner Lygeas in Dunkelheit geboren wurden und nur durch die heilige [[Seylúna]], Vergebung und Erlösung finden können. Sora findet das generell schwachsinnig und will das nicht glauben.
 Mitten in der Diskussion nimmt Tari Jin beiseite und fragt ihn, wie er nur mit diesem respektlosen Kerl befreundet sein konnte, der ihren Glauben in den Dreck zieht. Jin gesteht, dass er Soras Ansichten tatsächlich teilweise teilt und selbst nicht so ganz glauben kann, dass ganz Lygea verdammt sein soll, weil sie den Glauben der Nethiel nicht teilen. Tari scheint das zu sorgen, aber Jin versichert ihm, dass er diesen Zweifeln nicht viel Raum geben will und er sich sicher ist, dass er sie bezwingen kann, was Tari etwas beschwichtigt.
 ## 17 - Cover Image
 > Jin übt mit seinem E-Bass für die kommenden Gottesdienste, aber Sora will, dass er sich entspannt.
@@ -102,7 +102,7 @@ Ihre Kunst-Lehrerin war so begeistert von der Show, das sie die beiden Jungs bat
 ## 21 - Verpasst
 > STIEF & DAD bestrafen Jin, weil er den Gottesdienst verpasst hat und Jins Versuche sich zu verteidigen schlagen fehl.
 
-Den Kampfanzug im Rucksack kommt Jin erschöpft aber zufrieden nach Hause, wo er von STIEFs lauter Stimme sofort zur ihr ins Wohnzimmer diktiert wird. Dort erwartet sie ihn wütend, DAD an ihrer Seite. Am Abend wäre die letzte große Orchesterprobe vorm Lebensfest gewesen und Jin war nicht aufgetaucht, weil er es vergessen hatte. Jin schimpft böse mit ihm, bezieht sich auf sie vielen Fehler, die er beim Spielen immer macht und wie er sich dabei erlauben konnte, die Probe sausen zu lassen. Jin versucht sich damit zu verteidigen, dass es für die Schule war und er doch eine Nachricht geschickt hatte, aber dafür kassiert er sich eine heftige Ohrfeige von STIEF. Die Ehrerbietung gegenüber der göttlichen Mutter sei wichtiger als alle weltlichen Belange und sie habe nur das Beste verdient.
+Den Kampfanzug im Rucksack kommt Jin nach der Vorstellung erschöpft aber zufrieden nach Hause, wo er von STIEFs lauter Stimme sofort zur ihr ins Wohnzimmer diktiert wird. Dort erwartet sie ihn wütend, DAD an ihrer Seite. Am Abend wäre die letzte große Orchesterprobe vorm Lebensfest gewesen und Jin war nicht aufgetaucht, weil er es vergessen hatte. STIEF schimpft böse mit ihm, bezieht sich auf die vielen Fehler, die er beim Spielen immer macht und wie er sich dabei erlauben konnte, die Probe sausen zu lassen. Jin versucht sich damit zu verteidigen, dass es für die Schule war und er doch eine Nachricht geschickt hatte, aber dafür kassiert er sich eine heftige Ohrfeige von STIEF. Die Ehrerbietung gegenüber der göttlichen Mutter sei wichtiger als alle weltlichen Belange und sie habe nur das Beste verdient.
 Für seinen Fehler bekommt Jin 2 Wochen Hausarrest und die Aufgabe, bis zum nächsten GOTTESDIENST nichts anderes zu machen, als zu üben. Jin nimmt das Urteil traurig an und schämt sich innig für seinen Fehler.
 ## 22 - Gerecht
 > Sora regt sich auf, weil Jin Hausarrest hat, aber Jin akzeptiert das als Gerecht.
@@ -111,8 +111,8 @@ Es sind Ferien und Jin hat Hausarrest. Über die erste Woche kommen verschiedene
 ## 23 - Unter Arrest
 > Jin ist traurig und zweifelt, aber er findet nichts in der Bibel, was ihm hilft.
 
-Am Anfang der zweiten Woche kommt der Frust auch bei Jin an. Er versucht mit seinen Eltern zu verhandeln, ob ihn seine Freunde nicht wenigstens besuchen dürften, aber die Eltern bleiben streng. Er liegt gelangweilt und traurig in seinem Zimmer herum und die beiden Seiten seiner Gedanken fangen wieder an zu diskutieren. Die eine Hälfte möchte gegen die Eltern rebellieren, aber die andere fürchtet sich vor der Sündenschuld, die er dann auf sich laden würde. Am Ende schließt er die Verbindung zwischen der ERBSÜNDE und den Spaß, den er mit Sora hatte.
-In seiner traurigen Ratlosigkeit schlägt er die BIBEL auf und findet dort einen Paragraphen, der augenscheinlich absolut nichts mit dem Problem zu tun hat. Aber er legt das Aufgeschlagene trotzdem irgendwie aus...
+Am Anfang der zweiten Woche kommt der Frust auch bei Jin an. Er versucht mit seinen Eltern zu verhandeln, ob ihn seine Freunde nicht wenigstens besuchen dürften, aber die Eltern bleiben streng. Er liegt gelangweilt und traurig in seinem Zimmer herum und die beiden Seiten seiner Gedanken fangen wieder an zu diskutieren. Die eine Hälfte möchte gegen die Eltern rebellieren, aber die andere fürchtet sich vor der Sündenschuld, die er dann auf sich laden würde.
+In seiner traurigen Ratlosigkeit schlägt er die BIBEL auf und findet dort einen Paragraphen, der augenscheinlich absolut nichts mit dem Problem zu tun hat. Aber er legt das Aufgeschlagene trotzdem irgendwie aus, ist sich seiner Interpretation aber nicht sicher.
 ## 24 - Vereitelte Pläne
 > Jin und Sora planen den Tag zusammen, aber DAD besteht darauf, dass Jin ihm hilft.
 
@@ -120,7 +120,7 @@ Am Ende der zweiten Woche ist Jins Hausarrest endlich zu Ende und Sora, Tari und
 ## 25 - Die größte Horror-Vorstellung eines Naidesh
 > Jin ist unkonzentriert, weil er Langeweile hat und lieber zu seinen Freunden will und das macht DAD wütend.
 
-DAD wollte einen großen Schrank für einen Bekannten aus der Nethiel-Gemeinde reparieren. Aber da Jins Hilfe nur aus "Zuschauen und Angeben" bestand, bekam dieser schnell Langeweile. Jin fängt an mit einigen der Sachen rumzuspielen, die DAD in seiner Werkstatt hat. DAD nervt das. Jin sollte sich aufs "Zuschauen und Angeben" konzentrieren. Jin hofft, heute vielleicht doch noch zu seinen Freunden zu kommen und fragt, wie lange das mit dem Schrank dauert. Daraufhin wird DAD wütend und er will Jin böse nach Hause schicken. Aber dann unterwirft sich Jin, entschuldigt sich beschämt und konzentriert sich völlig auf seine langweilige Aufgabe....
+DAD wollte einen großen Schrank für Kyashi reparieren. Aber da Jins Hilfe nur aus "Zuschauen und Angeben" bestand, bekam dieser schnell Langeweile. Jin fängt an mit einigen der Sachen rumzuspielen, die DAD in seiner Werkstatt hat. DAD nervt das. Jin sollte sich aufs "Zuschauen und Angeben" konzentrieren. Jin hofft, heute vielleicht doch noch zu seinen Freunden zu kommen und fragt, wie lange das mit dem Schrank dauert. Daraufhin wird DAD wütend und er will Jin böse nach Hause schicken. Aber dann unterwirft sich Jin, entschuldigt sich beschämt und konzentriert sich völlig auf seine langweilige Aufgabe....
 ## 26 - Das Licht wird schwächer
 > Nia und Sora sind stolz auf Jin, weil er große Fortschritte mit seinem Feuer macht, aber Jin ist traurig, dass es mit Licht nicht klappt.
 
@@ -152,24 +152,24 @@ Sora war in der Schule heute wieder unpünktlich und dieses Mal ist er auch zum 
 ## 32 - Metal is Forevaaaah!
 > Sora zeigt Jin Metal-Musik, weil er sie mit Jin teilen will, aber Jin hält es für "unheilig"
 
-Am nächsten Wochenende ist, trainieren Jin und Sora einfach so zusammen. Sora möchte aber nichts für die Schule tun und zeigt Jin stattdessen Musik, die er gut findet. Es ist das erste Mal, dass Jin Metal hört und es ist ihm unheimlich. Das wird ernstes Unbehagen, als Sora anfängt die Musik mit der Macht der Dunkelheit zu verbinden, und zu völliger Ablehnung, als Sora seiner Mutter sagt, sie solle aufhören die beiden zu nerven. Doch bevor wieder ein Streit ausbricht, bittet Jin Sora einfach die Musik auszumachen. Sora fragt sich, was denn in letzter Zeit mit Jin los sei, aber Jin hält sich noch zurück und die beiden verbringen den Nachmittag mit Videospielen.
+Am nächsten Wochenende trainieren Jin und Sora einfach so zusammen. Sora möchte aber nichts für die Schule tun und zeigt Jin stattdessen Musik, die er gut findet. Es ist das erste Mal, dass Jin Metal hört und es ist ihm unheimlich. Das wird ernstes Unbehagen, als Sora anfängt die Musik mit der Macht der Dunkelheit zu verbinden, und zu völliger Ablehnung, als Sora seiner Mutter sagt, sie solle aufhören die beiden zu nerven. Doch bevor wieder ein Streit ausbricht, bittet Jin Sora einfach die Musik auszumachen. Sora fragt sich, was denn in letzter Zeit mit Jin los sei, aber Jin hält sich noch zurück und die beiden verbringen den Nachmittag mit Videospielen.
 ## 33 - Zweifel
 > Jin ließt in der Bibel, um sich auf den nächsten GD vorzubereiten, aber seine Innere Stimme kämpft gegen die Lehren an.
 
-Am Abend danach ist Jin deprimiert und er weiß nicht, warum. Jin ließt in der BIBEL, aber er kann dieses Mal absolut keinen Zusammenhang zwischen seinen Gefühlen und dem aufgeschlagenen Vers finden. Dabei findet Toruco ihn, weil sie ihn die Chores an ihn übergeben will. Sie erkundigt sich nach ihm und ist sich sicher, dass die Tyrannei ihrer Eltern an seinem inneren Gefühlschaos schuld ist.
+Am Abend danach ist Jin deprimiert und er weiß nicht, warum. Jin ließt in der BIBEL, aber er kann dieses Mal absolut keinen Zusammenhang zwischen seinen Gefühlen und dem aufgeschlagenen Vers finden. Dabei findet Toruco ihn, weil sie ihre Chores an ihn übergeben will. Sie erkundigt sich nach ihm und ist sich sicher, dass die Tyrannei ihrer Eltern an seinem inneren Gefühlschaos schuld ist.
 Er glaubt das nicht und sie lässt ihn mit seinen Gedanken alleine. Toruco hat allerdings die beiden Gedankenhälften in Jins Kopf wieder aktiviert. Die gläubige Hälfte behält wieder die Oberhand: Sora huldigt der Dunkelheit, er liebt das Feuer, er ist schlecht zu seiner Mutter...
 ## 34 - Keine Zeit machen
 > Sora reißt Witze und macht Pläne, wie üblich, aber Jin bewertet alles im Hinblick auf sein neues Amt und zeigt kein Interesse an Soras Plänen.
 
-Stiller vergeht langsam und Jin ist mit den Vorbereitungen auf den Kirchentag noch mehr beschäftigt, als sonst. Sora und er sehen sich nur in der Schule und Jin versucht erst gar nicht mit ihm Pläne zu machen, entschuldigt sich aber mit dem Kirchentag. Jin lädt ihn zum nächsten BEZIRKSAUSFLUG ein, was Sora sich gern mal anschaut, aber er lehnt eine weitere Einladung zum GOTTESDIENST entschieden ab. Jin erklärt ihm, dass das sehr wichtig ist und er bald das AMT annehmen wird. Sora geht ein Licht auf und er hofft, dass Jin deswegen trotzdem er selbst sein kann.
+Stiller vergeht langsam und Jin ist mit den Vorbereitungen auf den Kirchentag noch mehr beschäftigt, als sonst. Sora und er sehen sich nur in der Schule und Jin versucht erst gar nicht mit ihm Pläne zu machen, entschuldigt sich aber mit dem KIRCHENTAG. Jin lädt ihn zum Ausflug vorm Kirchentag ein, was Sora sich gern mal anschaut, aber er lehnt eine weitere Einladung zum GOTTESDIENST entschieden ab. Jin erklärt ihm, dass das sehr wichtig ist und er bald das AMT annehmen wird. Sora geht ein Licht auf und er hofft, dass Jin deswegen trotzdem er selbst sein kann.
 ## 35 - Gemeindeausflug
 > Die drei entscheiden sich, mit dem Bot auf den See zu fahren, weil sie sonst nichts der Festangebote anmacht, aber dadurch verpassen sie das Schlussgebet.
 
-Am Wochenende machen viele der Nethiel einen Ausflug zum See. Natürlich sind die Naideshs mit dabei und sie nehmen Sora sogar gern mit. Es ist ein sonniger und Warmer frühsommertag und es werden viele Aktivitäten (Fußball, Volleyball, Seelsorgegespräche, Betkreise, Musik) angebote, aber Jin, Sora und Tari finden nichts, was sie zusammen machen wollen. Sie entschließen sich eines der angebotenen Boote zu nutzen und auf den See schwimmen zu gehen. Tari bleibt ihm Boot und genießt die Sonne. Jin und Sora vergnügen sich im Wasser. Dabei vergessen die drei leider die Zeit...
+Am Wochenende machen viele der Nethiel einen Ausflug zum See. Natürlich sind die Naideshs mit dabei und sie nehmen Sora sogar gern mit. Es ist ein sonniger und warmer Tag und es werden viele Aktivitäten (Fußball, Volleyball, Seelsorgegespräche, Betkreise, Musik) angeboten. Aber Jin, Sora und Tari finden nichts, was sie zusammen machen wollen. Sie entschließen sich eines der angebotenen Boote zu nutzen und auf den See schwimmen zu gehen. Tari bleibt ihm Boot und genießt die Sonne. Jin und Sora vergnügen sich im Wasser. Dabei vergessen die drei leider die Zeit...
 ## 36 - Verpasst 2
 > DAD bestraft Jin, weil die Jungs zu spät kommen, aber Jin demütigt sich vor allen, weil er panisch wird.
 
-Als sie bemerken, dass der Strand immer leerer wird, eilen sie zurück. Am Auto erwartet sie wütend schnaubender DAD. Er schimpft auf die drei ein, dass alle auf sie warten würden, dass sie noch andere Pläne heute hätten. Dann schimpft er besonders mit Jin, weil sie das Schlussgebet verpasst hatten und unpünktlich sind, von einem zukünftigen AMTsträger hätte er mehr erwartet. Die drei machen, dass sie ins Auto kommen, aber Jins Badehose war noch nicht getrocknet. DAD schimpft deswegen weiter auf ihn ein und in seiner Panik wechselt er seine Hose vor aller Augen aus und setzt sich ins Auto. Im Auto ist es sehr still, für die gesamte Fahrt nach Hause und daheim geht Jin erstmal in den Keller, um zu weinen...
+Als sie bemerken, dass der Strand immer leerer wird, eilen sie zurück. Am Auto erwartet sie ein wütend schnaubender DAD. Er schimpft auf die drei ein, dass alle auf sie warten würden, dass sie noch andere Pläne heute hätten. Dann schimpft er besonders mit Jin, weil sie das Schlussgebet verpasst hatten und unpünktlich sind, von einem zukünftigen AMTsträger hätte er mehr erwartet. Die drei machen, dass sie ins Auto kommen, aber Jins Badehose war noch nicht getrocknet. DAD schimpft deswegen weiter auf ihn ein und in seiner Panik wechselt er seine Hose vor aller Augen aus und setzt sich ins Auto. Im Auto ist es sehr still, für die gesamte Fahrt nach Hause und daheim geht Jin erstmal in den Keller, um zu weinen...
 ## 37 - Abgekommen
 > Jin weint, weil er sich die Schuld gibt, vom rechten Weg abgekommen zu sein, aber FRANZISKA sagt nichts.
 
@@ -182,13 +182,13 @@ Als Jin mit der Dunkelheit in Verbindung gebracht wird, reicht es ihm. Er schaut
 ## 39 - Falsch verstanden
 > FRANZISKA stellt Jin weitere Fragen, weil sie davon überzeugt ist, dass er die Dinge falsch deutet, aber er zweifelt an ihren Vorschlägen.
 
-Jin beendet seine Erzählungen, indem er sein Verhalten vor FRANZISKA rechtfertigt. Sora war ein schlechter Einfluss, hat ihn vom rechten Weg abgebracht und eine Trennung ist das Beste, weil Jin sich jetzt voll auf das Amt fokussieren könnte. FRANZISKA bemerkt, dass ihr eingriff scheinbar zum perfekten Zeitpunkt gekommen war. Sie zweifelt daran, dass Jin die Sachen richtig deutet. Als Jin aufbegehrt hält sie ihn auf, denn ihre Zeit für heute ist abgelaufen. Sie gibt ihm aber Fragen mit auf den Weg, über die er nochmal nachdenken sollte, die sie ihm in einem Umschlag mit nach Hause gibt. Jin verlässt die Schule, auf dem Heimweg ließt er sich FRANZISKAs Fragen durch...
+Jin beendet seine Erzählungen, indem er sein Verhalten vor FRANZISKA rechtfertigt. Sora war ein schlechter Einfluss, hat ihn vom rechten Weg abgebracht und eine Trennung ist das Beste, weil Jin sich jetzt voll auf das AMT fokussieren könnte. FRANZISKA bemerkt, dass ihr eingriff scheinbar zum perfekten Zeitpunkt gekommen war. Sie zweifelt daran, dass Jin die Sachen richtig deutet. Als Jin aufbegehrt hält sie ihn auf, denn ihre Zeit für heute ist abgelaufen. Sie gibt ihm aber Fragen mit auf den Weg, über die er nochmal nachdenken sollte, die sie ihm in einem Umschlag mit nach Hause gibt. Jin verlässt die Schule, auf dem Heimweg ließt er sich FRANZISKAs Fragen durch...
 # Act V
 	Die neue Welt siegt, Sora ist ein guter Einfluss
 ## 40 - Alltag
 > Jin durchlebt seinen Alltag wie ferngesteuert, weil er sehr traurig ist, aber er weiß nicht, warum.
 
-Die wenigen Wochen nach der Sitzung mit FRANZISKA erlebt Jin, wie ferngesteuert. Er fühlt sich Taub und Elend. Im Gottesdienst hört er von der Bosheit des Feuers und der Gefahr des Zweifelns am Glauben. Mit fester Überzeugung versucht er im GOTTESDIENST bei der LICHTPRÄSENTATION mit zu machen, aber es gelingt ihm nicht. Wenn er nicht in der Schule sitzt, hetzt er von einer Chorprobe zur Anderen. Nia beschwert sich über sein Fehlen beim Training.
+Die wenigen Tage nach der Sitzung mit FRANZISKA erlebt Jin, wie ferngesteuert. Er fühlt sich Taub und Elend. Im Gottesdienst hört er von der Bosheit des Feuers und der Gefahr des Zweifelns am Glauben. Mit fester Überzeugung versucht er im GOTTESDIENST bei der LICHTPRÄSENTATION mit zu machen, aber es gelingt ihm nicht. Wenn er nicht in der Schule sitzt, hetzt er von einer Chorprobe zur Anderen. Nia beschwert sich über sein Fehlen beim Training.
 An einem Abend, an dem er besonders traurig ist, schlägt er wieder die BIBEL auf. Nachdem er das Wort ließt fängt er an zu weinen.
 ## 41 - Toruco's Klagelied
 > Toruco versucht Jin ernsthaft zu verletzen, weil sie glaubt er belügt sich selbst, aber er versucht sie, und sich, vom Gegenteil zu überzeugen.
@@ -202,12 +202,12 @@ Am Ende schlägt STIEF im nochmal vor in der BIBEL zu lesen und dort den Rat der
 ## 43 - Der Kirchentag
 > Die Naideshs nehmen aktiv am Kirchentag teil, aber haben keine Zeit selbst die Veranstaltungen zu besuchen, die sie interessieren.
 
-Am Tag vor dem großen GOTTESDIENST sind die Naideshs beschäftigt, um von einem Konzert zum anderen zu hetzen. Sie sind so beschäftigt, dass sie gar keine Zeit und Energie dafür haben, selbst das dargebotene zu genießen. Auf dem Weg nach Hause erzählt Tarif von der einen und anderen Veranstaltunge, die ihm sehr viel Spaß gemacht hatte, aber Jin ist so müde, dass er gar nicht richtig zuhören kann. Abends fällt er erschöpft ins Bett und schläft sofort ein..
+Am Tag vor dem großen GOTTESDIENST sind die Naideshs beschäftigt, um von einem Konzert zum anderen zu hetzen. Sie sind so beschäftigt, dass sie gar keine Zeit und Energie dafür haben, selbst das dargebotene zu genießen. Auf dem Weg nach Hause erzählt Tari von der einen und anderen Veranstaltunge, die ihm sehr viel Spaß gemacht hatte, aber Jin ist so müde, dass er gar nicht richtig zuhören kann. Abends fällt er erschöpft ins Bett und schläft sofort ein.
 ## 44 - Der große Tag
 > Jin kann nicht stillhalten, weil er wegen des Amtes nervös ist, aber Tari will ihn beruhigen.
 
 Aber seine Nacht war unruhig. Er erinnert sich, dass er viel geträumt hatte, aber er weiß nicht mehr genau, was es war. Nur, dass er viel Feuer gesehen hatte, was ihn sogar einmal aufgeweckt hatte. Beim großen GOTTESDIENST angekommen ist er sehr nervös im Hinblick auf den Empfang des AMTes und wegen seines Schlafmangels. Tari begrüßt ihn fröhlich, aber als er Jin sieht bemerkt er sofort, das etwas nicht stimmt. Jin entschuldigt sich bei Tari und gesteht, dass er seine Zweifel doch nicht unter Kontrolle hatte und jetzt Angst hat das AMT anzutreten.
-Tari redet beruhigend auf ihn ein. Er müsse sich nicht entschuldigen, sonder Tari müsste sich bei ihm Entschuldigen. Er gesteht ihm, dass er Angst hatte, Jin würde ihn mit Sora ersetzen. Mittlerweile hatte er aber gelernt, dass das Schwachsinn war und Sora ein cooler Typ ist. Er genießt es sogar mit Sora alleine Dinge zu unternehmen und hält ihn für sehr vernünftig. Tari entschuldigt sich, Jin so eingeengt und ihn wegen des Glaubens so eingeengt zu haben. Tari versichert Jin die Freundschaft, egal ob Zweifelnd, mit blasphemischen Freunden oder was auch immer. Seit langem spürt Jin so etwas wie Erleichterung... 
+Tari redet beruhigend auf ihn ein. Er müsse sich nicht entschuldigen, sonder Tari müsste sich bei ihm Entschuldigen. Er gesteht ihm, dass er Angst hatte, Jin würde ihn mit Sora ersetzen. Mittlerweile hatte er aber gelernt, dass das Schwachsinn war und Sora ein cooler Typ ist. Er genießt es sogar mit Sora alleine Dinge zu unternehmen und hält ihn für sehr vernünftig. Tari entschuldigt sich, Jin wegen des Glaubens so eingeengt zu haben. Tari versichert Jin die Freundschaft, egal ob zweifelnd, mit blasphemischen Freunden oder was auch immer. Seit langem spürt Jin so etwas wie Erleichterung... 
 ## 45 - Entscheidung
 > Jin betet intensiv für die Amtseinsetzung, weil er nervös ist, aber seine Zweifel und innere Stimme werden immer stärker.
 
@@ -215,9 +215,9 @@ Im GOTTESDIENST kann Jin sich nicht konzentrieren. Alles, was gesagt wird, erinn
 ## 46 - Entschwinden
 > Jin eilt zu Sora, weil er sich bei ihm entschuldigen will, aber Sora ist nicht zu Hause.
 
-Die Gemeinde ist still und Jin schaut in die geschockten Gesichter der Anwesenden. Sein Blick trifft den von Toruco, deren Augen sich mit Tränen füllen und den von STIEF, ihn fassungslos anstarrt. Er entschuldigt sich bei allen Anwesenden, aber versichert, dass er das AMT nicht annehmen kann. Er blickt Tari ins Gesicht, der ist ebenfalls überrascht, reicht ihm dann aber stolz die Hand. Jin schüttelt sie, entschuldigt sich nochmal bei der STAMMMUTTER und allen Anwesenden und verlässt eilig die Versammlung. So schnell er kann rennt er zu Sora 
+Die Gemeinde ist still und Jin schaut in die geschockten Gesichter der Anwesenden. Sein Blick trifft den von Toruco, deren Augen sich mit Tränen füllen und den seiner Eltern, die ihn fassungslos anstarrwn. Er entschuldigt sich bei allen Anwesenden, aber versichert, dass er das AMT nicht annehmen kann. Er blickt Tari ins Gesicht, der ist ebenfalls überrascht, reicht ihm dann aber stolz die Hand. Jin schüttelt sie. Er entschuldigt sich nochmal bei der STAMMMUTTER und allen Anwesenden und verlässt eilig die Versammlung. So schnell er kann rennt er zu Sora 
 ## 47 - Entschluss
-Jin klingelt bei Sora Sturm, bis Soras Mutter ihm öffnet. Sie wundert sich etwas über sein plötzliches Erscheinen, aber sagt ihm, dass Sora vor kurzem alleine zum See aufgebrochen ist. Jin beschwört sie, dass er ihn unbedingt sofort sehen muss und sie ist so nett und leiht ihm ihr Fahrrad aus. Jin nimm ist so dankbar, dass er sie direkt umarmt. Danach macht er sich, so schnell er kann auf zum See.
+Jin klingelt bei Sora Sturm, bis Soras Mutter ihm öffnet. Sie wundert sich etwas über sein plötzliches Erscheinen, aber sagt ihm, dass Sora vor kurzem alleine zum See aufgebrochen ist. Jin beschwört sie, dass er ihn unbedingt sofort sehen muss und sie ist so nett und leiht ihm ihr Fahrrad aus. Jin ist so dankbar, dass er sie direkt umarmt. Danach macht er sich, so schnell er kann auf zum See.
 ## 48 - Entschuldigung
 > Jin entschuldigt sich bei Sora, weil er sich schämt, aber Sora rührt sich nicht.
 
