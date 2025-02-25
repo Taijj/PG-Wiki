@@ -4,6 +4,8 @@ CHESS - FRANZISKA
 - Bonus: Militär unschädlich machen
 - Haarafir infiltrieren
 
+Good Antagonists: https://www.youtube.com/watch?v=QU-d-84IYUc
+
 Militär - Die Regierung - Oberst Helm?
 - Kinder nutzen
 - Existenz geheim halten
