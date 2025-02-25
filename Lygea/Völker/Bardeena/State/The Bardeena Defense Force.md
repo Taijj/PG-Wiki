@@ -94,4 +94,4 @@ While they are often also hired to do jobs that would belong to another departme
 - pluck a daisy from the nearest lawn,
 - in short anything a client asks for.
 
-The first companies were founded in [[Haarafir]], some years after the military moved to [[Bavista]] by soldiers, who didn't want to move along. Despite having a rough few initial years, the most famous commission company became [[Ämber]], which was founded and headed by [[Jin Naidesh]].
+The first companies were founded in [[Haarafir]], some years after the military moved to [[Bavista]] by soldiers, who didn't want to move along. Despite having a rough few initial years, the most famous commission company became [[Ämber]], which was founded and headed by [[Lygea/Völker/Bardeena/Ämber/Jin Naidesh]].
