@@ -22,24 +22,46 @@ Though no virtue of the **Holy Cantha**, **Punctuality** is also seen as an aspe
 - Similarly, [[Die Pflanzen|Plants]] are also seen as divine beings. Some say they are the children of **Eseyána**, others treat them as her legions (e.g. like angels). Individuals even restrain religiously from hurting any of them (anti-vegetarians).
 - Doubting any of the Nethiel believes is generally frowned upon, and is said to be a way to open one's soul to the **Darkness** (embers of doubt). The most hardcore believers even treat it as equal to sinning.
 - It is also believed that the **Light** gave everyone a free will, in order to freely decide for the ways of the **Light** or **Darkness**. Which is also a point of controversy amongst critics.
-## Sacraments
-- Taufe - Blessing
-- Sealing - Light infusion
-- Communion - Putting the fires out
-- Light Ward - dreifach amen LICHTPRÄSENTATION
+# Organization
+The church is organized by a hierarchic structure of ministries. It is financed directly by what the believers give voluntarily as monetary offerings.
 ## Ministries and Ranks
+The church's ministries are divided into these broad ranks:
+- The **Mariel** - motherly ministries. These are the highest ranks the church  Stamm-, Bezirks-, Apostel
+- The Darsul - Bischoff, Bezirksältester, Bezirk
+- The Darith - Priester, Hirte, Vorsteher
+- The Thôsi - Diakone, Helfer, etc
+
+Extended Responsibilities
+
+
+
 - Erwählung
 - Men and Women
 - Oberhaupt
-- Dresscodes
-# Organization
-
+- 
 ## Congregations
+The church is organized by t
+
 Kirchen sind moderne Gebäude
 ## Divine Service
 - GOTTESDIENST
 - - KIRCHE
 - Musik
-## Festivals & Rituals
+# Rituals & Sacraments
+## Navá-Dua 
+	taken from the night
+The Nethiel believe that everyone is initially born in and belonging to the **Darkness**. In order to bring a soul closer to the **Light**, it has to be brought out of the **Darkness** first. So, the first official act anyone joining the Nethiel - by birth or by choice - will undergo, is the ritual of **Navá-Dua**.
+The initiate 
+
+
+
+- **Caluva** (Imbued with light): Piece of light inside
+- **Sandaira** (Protection for the divine): Sündenvergebung
+- **Ani-Gala** (Proof of brightness): dreifachamen
+- **Immaciel** (Choice of elf) - Konfi
+
+
+## More
 GEMEINDEFEST
 KIRCHENTAG
+Dresscodes
