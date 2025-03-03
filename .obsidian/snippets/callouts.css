@@ -50,3 +50,13 @@
 	--callout-color: 150, 170, 150;
 	--callout-icon: lucide-book-text;
 }
+
+.callout[data-callout="skills"] {
+	--callout-color: 150, 170, 150;
+	--callout-icon: sword;
+}
+
+.callout[data-callout="more"] {
+	--callout-color: 150, 170, 150;
+	--callout-icon: message-square-diff;
+}
