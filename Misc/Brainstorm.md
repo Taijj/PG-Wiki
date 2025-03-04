@@ -1,0 +1,23 @@
+# Titania
+- Formwandlung
+	- Farbveränderungen (Haut-, Haar), auch Muster
+	- Eingeschränkte, Muskelkontrolle?
+	- Nein: Haar- und Fingernagelwuchs (außer sie brauchts)
+	- Anima-Form: Last Resort
+- Geweih: Abgefeilt wegen praxis
+- Füße: Humanoid mit Krallen
+- Schweif: Wie Wolf
+- Ohren: Titanisch
+- Waffe: 
+	- Research: Bloodbourne + Monsterhunter
+	- Symbol ihrer Schmach, Legacy, nur im Ausnahmezustand
+	- Vllt aus Knochen von Ältesten/Urwesen
+- Haare Lang: Ja, aber je nach Situation und Lebensphase
+- Trinkets from the past
+- Völkerreise
+	- Teyanisches Familientatoo (100 Jahre Teyaner)
+	- Musikinstrument spielen
+- Persönlichkeit:
+	- Junge Titania: Kuvira (Korra)
+	- Lin Beifong
+	- Vesemir
