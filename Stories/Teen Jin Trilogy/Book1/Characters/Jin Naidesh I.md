@@ -125,7 +125,7 @@ He is very active in their congregation, sings in the choir, plays in the orches
 School and the [[#Spiritual Beliefs|church]] keep him busy most of the week. It is usually bearable, but some weeks he doesn't have a single evening for himself.
 ## Spare Time
 After school, he's often picked up by [[Aunt Nia]] for training. Nia is training him and his siblings in martial arts, armed combat, and she's teaching them on how to use their [[Die Elemente|elemental]] abilities. The training is hard, but Jin does rather enjoy it.
-In the little time he has left, he's either playing Videogames alone or with his best and only friend [[Tari (Teen)|Tari]], if they are allowed to. If not, they try to come up with other things to do, which turns out differently most of the time.
+In the little time he has left, he's either playing Videogames alone or with his best and only friend [[Tari I|Tari]], if they are allowed to. If not, they try to come up with other things to do, which turns out differently most of the time.
 ## Habits
 - His breakfast consists of a bowl of cereal, or sweet spreads on toast, and milk.
 - He prays before every meal, even when on his own, e.g. before bed, but in public he tries to do it quickly and in as inconspicuous as possible.
@@ -136,85 +136,76 @@ Jin likes to stay rather quite in big groups. Especially, if he doesn't know mos
 # Social
 Jin's entire social circle is basically made up of the people he knows from [[#Spiritual Beliefs|church]] and his family.
 ## Family
-Officially, Jin's a normal young [[Mischlinge|Hybrid]] living in [[Haarafir]]. In reality, he's a [[Die Titanier|Titanian]], but neither he, nor his siblings know of their heritage. His true parents are similarly unimportant at the current stage of his life.
+Officially, Jin's a normal young [[Mischlinge|Hybrid]] living in [[Haarafir]]. In reality, he's a [[Die Titanier|Titanian]], but neither he, nor his siblings know of their heritage and at this stage of his life, his true origins don't really matter.
+### Members
+At the moment, the Naidesh family consist of 7 members.
 #### Mother
-His mother, [[Raphaela Naidesh]], was a [[Die Rowagier|Rowagian]]-[[Die Nerivaner|Nerivan]] women. Sadly she died in a car accident when he was 8 years old. About 2 years later, his father fell in love with and married [[Mayra Naidesh]], which became the family's stepmother.
-
+His mother, [[Raphaela Naidesh]], was a [[Die Rowagier|Rowagian]]-[[Die Nerivaner|Nerivan]] women. Sadly she died in a car accident when he was 8 years old. About 2 years later, his father fell in love with and married [[Mayra Naidesh]], which became the family's stepmother. **Mayra** does not know the truth about her stepchildren either.
+**Mayra** is a pretty strict and conservative women. She's the leader of their [[#Spiritual Beliefs|church]] and fulfills her duties sternly, diligently, and with special attention to their family's reputation. She's a real contrast to the kind and free-spirited deceased **Raphaela**.
 #### Father
-[[Debrann Naidesh]] is the father of the family. He's a [[Die Forasier|Forasian]]-[[Die Teyaner|Teyan]] hybrid man
-
-His middle Name "Bill" originates from the ancient forasian Name "Biløc", which means "little flame", his foster mother selected this name for him
-
+[[Debrann Naidesh]] is the father of the family. He's a [[Die Forasier|Forasian]]-[[Die Teyaner|Teyan]] man and the only one in the family who has some kind of a clue of what his children are.
+He's usually a very reserved man, but with strong and conservative opinions about right and wrong. His faith means everything to him. He strives to talk about it as much as possible and gets angry with his children, if they don't treat it seriously enough.
 #### Siblings
+Jin's got 3 sisters and 2 brothers:
+- [[Kyashi Naidesh I|Kyashi]] is the eldest sister, who's bound to a wheelchair. She's a rather quite women, but also likes to crack jokes about her disability. Jin loves to talk and spend time with her, and helps, even if she's perfectly capable of taking care of herself.
+- [[Toruco Naidesh I|Toruco]] is his next older sister, who likes to challenge and teas him. Toruco's a tough girl, who doesn't take shit from anyone. With the exception of their parents maybe. Still, she's generally the rebellious one in the family.
+- [[Forashi Naidesh|Forashi]] is the younger brother with which Jin enjoys a happy rivalry, be it training, games, or even chores. He's a very levelheaded person, who draws conclusions from his own thoughts, and loves to argue people into the ground.
+- [[Tashi Naidesh I|Tashi]] the youngest is a kind girl who likes to act wild and tough, literally falling short by her appearance (she's not only the youngest but also the smallest). For Jin, she's pretty much the standard little sister to love and protect.
+- **Mao**, his older brother, disappeared when [[#Mother|Raphaela]] died and circumstances forced the family to forget about him. At this time, its like he never even existed.
+### Family Residence
+The family used to have a nice house in the living district of [[Haarafir]], close to the [[Marros]]. But they moved to an appartement closer to the city center, shortly after [[#Father|Debrann]] met and married [[#Mother|Mayra]]. The appartement is much smaller, but roomy enough to house them all. The children have to share rooms, though.
+The two older ones, Toruco and Jin, share a room, and the two younger ones, Tashi and Forashi, share another. Kyashi has her own room, she's the oldest and needs more space due to her disability.
+She is about to move out though. [[Aunt Nia]], who bought off the old house from **Debrann**, made sure it will be available for them, if they ever decided to move back there. Kyashi is taking her up on that offer soon.
+### The Family Band
+As the children of their congregation's [[The Nethiel Church#Additional Responsibilities|Matron]], it is their duty to praise and worship their goddess with the gifts they were given. Namely a voice and hands as tools to make holy music. Shortly after their stepmother came into their lives, the parents sat each of their children down, and all but forced their children to learn an instrument and join the [[#Spiritual Beliefs|church]] choir.
+The offered them a free choice of instrument, though, and in the end they had a something like a little family band going:
 
-
-
-
-
-
-The Naidesh Family:
-
-|                 |                  |
-| --------------- | ---------------- |
-| Mother: Rafaela | Father: Varn     |
-| Sister: Tashi   | Brother: Forashi |
-| Sister: Toruco  | Brother: Mao     |
-| Sister: Kyashi  |                  |
-- True Mother: Titania    
-- True Father: Jin-Ban   
-
-## Family Residence
-
-## The Family band
-
-Jin's parents put it into their head to form a family orchestra, since Rafaela played the viola and Varn the clarinet. When each of their children turned 7 they made them choose an instrument. They planned on classical instruments and presented them with a selection. That plan failed as Jin used their carelessness when formulating their demands to him.
-
-They told him "You may choose any instrument you like" and forgot to add "from this list". So Jin chose the electric guitar. After some back and forth they stood to their word, and instead of an orchestra, the family formed some kind of symphonic band:
-
-|   |   |   |
-|---|---|---|
-|Rafaela - Viola|Mao - String Bass|Tashi - Violin|
-|Kayashi - Piano|Varn - Clarinet|Toruco - Flute|
-|Jin - Electric Guitar|Forashi - Drums||
-
- 
+| **Kyashi** | Piano  | **Jin**     | Base Guitar | **Tashi** | Violin |
+| ---------- | ------ | ----------- | ----------- | --------- | ------ |
+| **Toruco** | Guitar | **Forashi** | Saxophone   |           |        |
+The band sometimes plays on its own, too, but they mostly make up the [[#Spiritual Beliefs|church]] orchestra, along with other members of the congregation. The parents themselves also participate in the choir, but they don't play any instrument.
 ## Relationships & Friendships
+Jin's best friend is [[Tari I]], a [[Die Nerivaner|Nerivan]] boy he knows from [[#Spiritual Beliefs|church]]. They both met after the Naideshs had moved, which also caused them to switch congregations. They quickly connected over their love for videogames and vivid imaginations.
+Jin also has small crush on [[NADINE]], a [[Die Rowagier|Rowagian]]-[[Die Forasier|Forasian]] girl also from **church**. Other than the **church**-youth, he's got no further social connections, though.
 
-- The members of the Naidesh Family love and care for each other, they help wherever needed and never hesitate to do so - Jin oftentimes relies on them when he needs help at Ämber
-    
-
-- Jin loved his deceased foster parents very much, their loss hit him really hard
-    
-- He quickly developed a big brother complex for his younger sister Tashi, which he sometimes still treats like a child. Her working at Ämber is a welcome excuse for him to keep an eye on her
-    
-- He similarly treats the youngest of the bunch, Forashi, who tends to be very childish at times
-    
-- Toruco, who's older than him, became kind of his family-nemesis after Mao left. Both of them like to provoke each other into fights and challenges
-    
-- Mao, his oldest brother used to be Jin's role model, until Jin caught him with his dead parents. Now Jin sees him as his mortal enemy.
-    
-- Kyashi, the oldest, was forced into the mother role for the Family. She took care of her younger siblings. In return Jin stays under one roof with her to help her with her disability.
-    
-
-- During his days at the Haarafir school Sora was his best friend. Unfortunately Sora vanished without a trace one day.
-    
-- During his military days, he met a teyan woman by the name of Neni, which he fell in love with. Unfortunately their differences caused Neni to terminate their relationship, which Jin counts as one of his major defeats.
-    
-- He also tries to keep up with hybrid military activities. He still got some friends there, who keep him posted about major things. Like Neni's Father, who trained Jin for a long time.
-    
+In school is very reticent and shy. Deep down he thinks everyone hates him, and he's quietly judging everyone on this basis. He also heavily prioritizes **church** over everything else in his life, and rarely has time to spend with people from "the outside".
 # Professional
+Jin has not reached [[The Ministry of Community#Levels of Maturity|adulthood]], yet, and therefore still has to go to school. He's currently visiting the **Enjar MID School**, a [[The Institute of Science#MID(dle) School|Middle School]] near to where the Naideshs live.
+## School
+4 Days, 7-8 hours = 32 Classes
+- Math, Informatics
+- First, Second
+- Physics, Biology, Chemistry
+- Visual Arts
+- History
+- Gymnastics
+- Animations
+
+- **Logical**: Math, Informatics, Statistics, Data Science
+- **Language**: Second, Third, Fourth, etc.
+- **Natural**: Physics, Biology, Chemistry, [[#Section I|Planetology]], [[#Section IV|Anomiology]]
+- **Artistic**: Visual Arts, Performing Arts
+- **Cultural**: General or race specific History, [[#Section V|Evetology]]
+- **Physical**: Athletics, Gymnastics, Dance, Martial Arts
+- **Mystic**:
+	- [[Die Mystik#Basierend auf Animation|Animations]] - usually in combination with Martial Arts
+	- Enchantments - mostly dealing with [[Die Mystik#Mystifizierungen|Mystifications]] of places and objects
+	- Gemology - in this case in regard to their **mystic** capabilities
+	- Curses - about [[Geister|ghosts]], the [[Besessene|posessed]]
+
+
 
 #### Intellectual Features
 
 - Quick study, doesn't need to work too hard    
-- Plays an electronic guitar
-- Elemental Animation with Nia
+- 
 - Like most Hybrids, he speaks fluent Dragnarian
     
 - Additionally, he's very fond of the forasian language, which he speaks effortlessly
-#### Shool
-- Shool
+
 
 
 Skills
 - Teyan sense of touch
+- Plays an electronic guitar
+- Elemental Animation with Nia
