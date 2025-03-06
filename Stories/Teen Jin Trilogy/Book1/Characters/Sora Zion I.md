@@ -1,4 +1,4 @@
-Jin William Naidesh is the protagonist of multiple stories playing in the lygean universe. He is one of the 6 [[The Capsule Kids|Capsule Kids]] and this article describes him at the start of the so-called *Teen-Jin-Trilogy.*
+Sora Christopher Zion is a support (B) and hero character in multiple stories playing in the lygean universe. He is the best friend of the protagonist [[Jin Naidesh I]] and this article describes him at the point he meets **Jin** at the start of the so-called *Teen-Jin-Trilogy.*
 # General
 --- start-multi-column: Overview01
 ```column-settings
@@ -10,12 +10,11 @@ Shadow: off
 
 >[!common] Common
 > **Spezies**
-> *[[Mischlinge|Hybrid]]: [[Die Nerivaner|Nerivan]]/[[Die Forasier|Forasian]]*
-> (in truth: [[Die Titanier|Titanian]])
+> *[[Mischlinge|Hybrid]]: [[Die Nerivaner|Nerivan]]/[[Die Rowagier|Rowagian]]*> 
 > **Mystic Potential**
 > *[[Mystisches Potential#Level C - Verurteilten Level|Level C]]*
 > **Element**
-> *[[Die Elemente|Nuclear>Fire]]* 
+> *[[Die Elemente|Lightning]]*
 > **Residence**
 > [[Haarafir]]
 > **Occupation**
@@ -26,33 +25,33 @@ Shadow: off
 
 >[!cultural] Bio
 >**Name**
->*Jin William Naidesh*
+>*Sora Christopher Zion*
 >**Sex/Gender/Pronouns**
 >*Male, He/Him*
 >**Sexuality**
 >*Straight*
 >**Birthday**
->*28.02.tbd*
+>*05.12.tbd*
 >**Age**
->*16*
+>*17*
 >**Maturity**
->[[The Ministry of Community#Levels of Maturity|(Late) Evolver]]
+>[[The Ministry of Community#Levels of Maturity|Individual]]
 
 --- column-break ---
 
 >[!physical] Physical
 >**Height**
->*173 cm*
+>*179 cm*
 >**Weight**
->*79 kg*
+>*69 kg*
 >**Body**
->*Slim, firm*
+>*Thin*
 >**Eyes**
->[[Die Titanier#Physik|Titanian]]
+>Cyan
 >**Hair Color**
->*[Flame](https://colors.artyclick.com/color-names-dictionary/color-names/flame-color)*
+>*[Celeste](https://colors.artyclick.com/color-names-dictionary/color-names/celeste-color)*-Black
 >**Skin**
->[Peanut](https://colors.artyclick.com/color-shades-finder/?color=#793419)
+>Caucasian
 
 --- end-multi-column
 __
@@ -67,22 +66,21 @@ Shadow: off
 
 >[!from-reality] Personality 
 > **Alignment**
-> Lawful Good
+> Chaotic Good
 > **Template**
-> *Tobey as a Teen*
+> *Christian as a Teen*
 
 --- column-break ---
 
 >[!skills] Skills
->- *Martial Arts* (armed + unarmed)
 >- *Elemental Animation*
->- *E-Bass playing, singing* 
+>- Plays the Electric Guitar
+>- A good runner
 
 --- column-break ---
 
 >[!more] More
->- Active member of [[The Nethiel Church]]
->- One of [[The Capsule Kids]]
+>--
 
 --- end-multi-column
 # Physical
