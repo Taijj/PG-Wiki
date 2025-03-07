@@ -1,4 +1,4 @@
-Sora Christopher Zion is a support (B) and hero character in multiple stories playing in the lygean universe. He is the best friend of the protagonist [[Jin Naidesh I]] and this article describes him at the point he meets **Jin** at the start of the so-called *Teen-Jin-Trilogy.*
+Sora Christopher Exion is a support (B) and hero character in multiple stories playing in the lygean universe. He is the best friend of the protagonist [[Jin Naidesh I]] and this article describes him at the state before he meets **Jin**, at the start of the so-called *Teen-Jin-Trilogy.*
 # General
 --- start-multi-column: Overview01
 ```column-settings
@@ -54,7 +54,7 @@ Shadow: off
 >Caucasian
 
 --- end-multi-column
-__
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 --- start-multi-column: Overview02
 
 ```column-settings
