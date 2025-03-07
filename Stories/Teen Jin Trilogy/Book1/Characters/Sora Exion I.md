@@ -47,11 +47,13 @@ Shadow: off
 >**Body**
 >*Thin*
 >**Eyes**
->Cyan
+>[Merigold Yellow](https://colors.artyclick.com/color-names-dictionary/color-names/marigold-yellow-color/)
 >**Hair Color**
 >*[Celeste](https://colors.artyclick.com/color-names-dictionary/color-names/celeste-color)*-Black
 >**Skin**
 >Caucasian
+>**Handedness**
+>*Right*
 
 --- end-multi-column
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
@@ -84,24 +86,26 @@ Shadow: off
 
 --- end-multi-column
 # Physical
-As a [[Die Titanier|Titanian]] he has the appearance of a male teenage humanoid fox. His body hair is fiery red, while his skin has a rather dark brown coloring (peanut). The default color of his eyes is green.
-## Appearance
-His body is rather slim and not too muscular, but firm and well trained nonetheless. He wears his hair in a not too long and rather unkempt [shag haircut](https://www.thetrendspotter.net/wp-content/uploads/2022/12/Shag-Haircut-1.jpg), and he has a bushy tail and fox ears. His eyes have a thin shape, but they are by no means small. He's got a defined, pointy jawline with a normal sized mouth - no facial hair.
+Sora has the appearance of a rather wild teenage [[Mischlinge|Hybrid]] boy. His [[Die Rowagier|Rowagian]] side is more dominant than the [[Die Nerivaner|Nerivan]] one, but without wings. His hair starts in a rather saturated [Celeste](https://colors.artyclick.com/color-names-dictionary/color-names/celeste-color)-Blue, and gradually gets darker until it reaches black at the tips. His skin tone is Caucasian, with **Nerivan** patterned spots, and his eyes shine in a [Merigold Yellow](https://colors.artyclick.com/color-names-dictionary/color-names/marigold-yellow-color/). The ears are **Nerivan**, the Legs **Rowagian**, and he's got small horns, which are mostly covered by his hair.
+His body is rather thin, but show signs of physical fitness. A handsome face, constantly shining with a seductive look, sits atop a pointy jaw. Everything is rounded of with his shoulder long, voluminous wavy (babe #1) hair.
+(His skeleton is rather **Nerivan**, no double damage disadvantage.)
 ## Apparel & Accessoires
-Jin's dressing style is basically non-existent, that is to say: It is very simple. Usually he wears mono colored sweaters, hoodies, t-shirts, or jeans with cheap trainers. On cold days, he likes to put a t-shirt over a sweater to have some color variety. The coloring of his cloths is very soft, modest or dark. His clothes, with his shoes being the exception, are usually hand-me-downs from his older siblings (especially [[#Siblings|Mao]], but he doesn't know that).
-His best clothes are the ones he wears for [[#Spiritual Beliefs|church]], which is a dark-almost-black green business suit, a white shirt, and differently colored ties.
+Sora's dressing style is casual but stylish. He wears mostly dark clothes, with nice colored highlights or tribal motifs. They fit him very well, compliment his figure, and get replaced before they show signs of age or tear. The same is true for his shoes. A visible keychain connects his pants with the keys in his pockets. A simple black wrist watch is attached to his left arm.
+All in all, he looks pretty metal.
 ## Hygiene
-He is actually not bothered much with taking care of himself. Other than taking a bath twice a week before church, brushing his teeth in the morning and before bed, and splashing his face with water in the morning, he doesn't do much personal hygiene. He also somehow never learned the value of deodorant, which makes his natural fragrance to come out at times. His body odor could be much worse, but is not a pleasant smell in any case.
+Sora does take good care of himself on an appropriate level. He has no trouble with getting himself dirty, but also cleans up afterwards. He likes leave a pleasant impression, especially with the opposite sex.
 ## Enhanced Senses
-Some [[Die Teyaner|Teyan]] part, from deep deep within his ancestry, caused him to have an enhanced sense and a sensibility for feeling [[Die Seele#Die Aura|Auras]]. To date this is nothing more than random sensations he feels from time to time, though, and he mostly interprets them as [[#Spiritual Beliefs|divine signs from the Light]]. To actually be useful he'd have to focus and train his senses, but so far he didn't get that idea.
+He's inherited a set of healthy eyes (no glasses) from his [[Die Rowagier|Rowagian]] side, but more importantly: He's got near [[Die Nerivaner|Nerivan]] hearing.
 # Personality
-The young Jin is a very modest, shy, and reticent person in general. In familiar surroundings he's more outgoing and proactive. He's a very religious person whose faith dictates his views on right and wrong.
+Sora is a rather outgoing, motivating, and impulsive character in any circumstances. He's impressed and fond of live itself, and tries to really see the person in front of him.
 ## Flaws
-Jin is very insecure about himself and his own true opinions and views. He avoids making mistakes like the plague, and tries to please everyone, especially people in positions of authority. He's got a great fear of failing. To fail deserves punishment.
-That is why executing a task AT LEAST perfectly is the lowest acceptable outcome for him. Everything else is not enough. The feeling of not being enough drives him to always go above and beyond. This is also the reason why he's very bad at taking compliments.
+- disrespectful
+- Impulsive (vs Planning, Schedules, etc.)
+- A bit Tardi, careless
 
-His fears, standards, and the repression of his own passions drive him to be rather impatient and to often lash out in anger, if things don't go his way. 
 ## Strengths
+ He's very attentive, too, and often notices small details in people's demeanors. 
+
 Contrary to what he believes himself, Jin is a very structured, responsible, and reliable person, who gets a lot done well. In general he's also honest, accepting and kind towards others, with a great readiness to help. He is quick on the uptake, shines with specialized knowledge, and even has a great sense of humor.
 He is also very passionate, if he allows himself to be. In spite of his frequent anger outbursts, people generally like to hang out or be around him.
 ## Spiritual Beliefs

@@ -53,6 +53,8 @@ Shadow: off
 >*[Flame](https://colors.artyclick.com/color-names-dictionary/color-names/flame-color)*
 >**Skin**
 >[Peanut](https://colors.artyclick.com/color-shades-finder/?color=#793419)
+>**Handedness**
+>*Right*
 
 --- end-multi-column
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
@@ -87,10 +89,9 @@ Shadow: off
 --- end-multi-column
 # Physical
 As a [[Die Titanier|Titanian]] he has the appearance of a male teenage humanoid fox. His body hair is fiery red, while his skin has a rather dark brown coloring (peanut). The default color of his eyes is green.
-## Appearance
 His body is rather slim and not too muscular, but firm and well trained nonetheless. He wears his hair in a not too long and rather unkempt [shag haircut](https://www.thetrendspotter.net/wp-content/uploads/2022/12/Shag-Haircut-1.jpg), and he has a bushy tail and fox ears. His eyes have a thin shape, but they are by no means small. He's got a defined, pointy jawline with a normal sized mouth - no facial hair.
 ## Apparel & Accessoires
-Jin's dressing style is basically non-existent, that is to say: It is very simple. Usually he wears mono colored sweaters, hoodies, t-shirts, or jeans with cheap trainers. On cold days, he likes to put a t-shirt over a sweater to have some color variety. The coloring of his cloths is very soft, modest or dark. His clothes, with his shoes being the exception, are usually hand-me-downs from his older siblings (especially [[#Siblings|Mao]], but he doesn't know that).
+Jin's dressing style is basically non-existent, that is to say: It is very simple. Usually he wears mono colored sweaters, hoodies, t-shirts, or jeans with cheap trainers. The coloring of his cloths is very soft, modest or dark. The motifs are random, and usually make no sense to him or anyone else. His clothes, with his shoes being the exception, are usually hand-me-downs from his older siblings (especially [[#Siblings|Mao]], but he doesn't know that). If he can, he puts on pants and shorts with additional side bags. His keys usually reside in his left pocket, attached to his pants by a short keychain. A red lanyard is also attached to the keys, which he lets hang from the pocket then.
 His best clothes are the ones he wears for [[#Spiritual Beliefs|church]], which is a dark-almost-black green business suit, a white shirt, and differently colored ties.
 ## Hygiene
 He is actually not bothered much with taking care of himself. Other than taking a bath twice a week before church, brushing his teeth in the morning and before bed, and splashing his face with water in the morning, he doesn't do much personal hygiene. He also somehow never learned the value of deodorant, which makes his natural fragrance to come out at times. His body odor could be much worse, but is not a pleasant smell in any case.
