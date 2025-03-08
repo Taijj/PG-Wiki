@@ -1,5 +1,3 @@
-	The fire(god) gives
-
 
 Gave all the children second, more proper names
 

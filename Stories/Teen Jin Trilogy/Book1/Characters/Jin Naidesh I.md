@@ -9,7 +9,7 @@ Shadow: off
 ```
 
 >[!common] Common
-> **Spezies**
+> **Species**
 > *[[Mischlinge|Hybrid]]: [[Die Nerivaner|Nerivan]]/[[Die Forasier|Forasian]]*
 > (in truth: [[Die Titanier|Titanian]])
 > **Mystic Potential**
