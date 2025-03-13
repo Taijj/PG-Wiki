@@ -1,4 +1,4 @@
-As the older twin of the [[Die Zwielichter|Twilights]], Titania is an important character throughout the history of Lygea. She plays a role in many stories in the lygean universe, and this article only gives a brief overview of her common traits.
+Titania is the progenitor of the [[Die Titanier|Titanian]] race and the older twin of the [[Die Zwielichter|Twilights]]. She is a very important character throughout the history of Lygea. She plays a role in many stories in the lygean universe and therefore this article only gives a brief overview of her common traits.
 # General
 --- start-multi-column: Overview01
 ```column-settings
@@ -20,7 +20,7 @@ Shadow: off
 
 >[!cultural] Bio
 >**Names**
->*[[#Incarnations|Many...]]*
+>*[[#Names|Many...]]*
 >**Sex/Gender/Pronouns**
 >*Female, She/Her*
 >**Sexuality**
@@ -57,7 +57,7 @@ Shadow: off
 > **Alignment**
 > Lawful Good (most)
 > **Template**
-> *Young: [Lin Beifong](https://avatar.fandom.com/wiki/Lin_Beifong)*
+> *Young: [Kuvira](https://en.wikipedia.org/wiki/Kuvira)*
 > *Mature: [Lin Beifong](https://avatar.fandom.com/wiki/Lin_Beifong)*
 > [Vesemir](https://witcher-games.fandom.com/wiki/Vesemir)
 >  
@@ -66,9 +66,9 @@ Shadow: off
 
 >[!skills] Skills
 >- *Trained in all kinds of armed and unarmed combat*
->- Hunting & Survival
->- *Elemental Animation*
->- *Multiple Instruments & singing* 
+>- Hunting & Survival 
+>- *Multiple Instruments & singing*
+>- *Elemental-, [[Die Singularitäten|Singular]], and restricted [[Die Seele|Soul]]-Animation*
 
 --- column-break ---
 
@@ -78,82 +78,50 @@ Shadow: off
 
 --- end-multi-column
 # Physical
-
+As the offspring of a [[Die Regidea|Regidea]] and an [[Die Invis#Die Ältesten|Eldest]], and additionally being conceived during a [[Kosmische Ereignisse|cosmic event]], Titania's and her [[#Family|sister]]'s existences are one of the most anomalous things possible in the lygean universe. Her appearance and abilities are definitely unique and result from this well timed heritage.
+## Common Appearance
+Titania commonly appears as a tall well trained and tough female figure, showing elements of both her parents, as well as elements of her later offspring, the [[Die Titanier|Titanians]]. She grows hair like the [[Die Forasier|Forasians]], has **Titanian** ears and a wolfen tail. Her hands and feet are rather humanoid with short claws, and she can grow impressive [[Die Nerivaner|Nerivan]] antlers. She usually keeps those short, though.
 ## Shape shifting
+Titania inherited some shapeshifting abilities form her [[#Family|father]], which she can use to alter her appearance at will. However, these are severely limited in comparison and require a lot of effort and discomfort from her side:
+- She can change the colors of her eyes, hair, and skin according to her whim, but needs several hours of rest afterwards. She can also create any skin pattern or hair gradient that way.
+- She can quickly grow her hair, claws, and antlers. She cannot grow them back, though.
+- She can give herself a temporary muscle boost to become quicker and stronger. Doing that makes her grow an additional 3 centimeters, too.
+- Her age will always stay the same, and she cannot change how old she looks.
+- In last-resort situation, she might unleash her own [[#Anima-Form]].
+# Personality
+Titania is generally a disciplined, tough, and strict leader. She was raised in a masculine world, so she's rather out of touch with her feminine side, which she only came to embrace in her later years.
+She led a ruthless live of breeding, war, and conquest before she had to leave it all behind. She learned the appreciation of life, compassion, and the intense love for [[Die Titanier|"her children"]], on her travels all over Lygea.
+# Names
+Titania is leading many different lives and she's meeting many people on her travels. Over the years she gathers many different names and titles:
+- **Titania** - the name her [[#Family|father]] gave her, which means "Greatest of Flames".
+- **(Aunt) Nia** - the name she gave herself in modern times, after she discovered [[The Capsule Kids]].
+- tbd
+# Family
+- Father
+- Mother
+- Sister
+## Relationships & Friendships
 
-- Formwandlung
-	- Farbveränderungen (Haut-, Haar), auch Muster
-	- Eingeschränkte, Muskelkontrolle?
-	- Nein: Haar- und Fingernagelwuchs (außer sie brauchts)
-	- Anima-Form: Last Resort
-- Geweih: Abgefeilt wegen praxis
-- Füße: Humanoid mit Krallen
-- Schweif: Wie Wolf
-- Ohren: Titanisch
-- Waffe: 
-	- Research: Bloodbourne + Monsterhunter
-	- Symbol ihrer Schmach, Legacy, nur im Ausnahmezustand
-	- Vllt aus Knochen von Ältesten/Urwesen
-- Haare Lang: Ja, aber je nach Situation und Lebensphase
-- Trinkets from the past
+Trinkets from the past
 - Völkerreise
 	- Teyanisches Familientatoo (100 Jahre Teyaner)
 	- Musikinstrument spielen
-- Persönlichkeit:
-	- Junge Titania: Kuvira (Korra)
-	- Lin Beifong
-	- Vesemir
 
-# Incarnations
-Names
-Titani
-#
+# Skills
 
-# Personality
+### Combat
+- Weapon: 
+	- Research: Bloodbourne + Monsterhunter
+	- Symbol ihrer Schmach, Legacy, nur im Ausnahmezustand
+	- Vllt aus Knochen von Ältesten/Urwesen
 
-## Flaws
+- Armed
+- Unarmed
+### Animations
+- Elemental
+- Singular
+- Soul
 
-## Strengths
-
-## Spiritual Beliefs
-
-## Likes & Dislikes
-
-| Likes | Dislikes |
-| ----- | -------- |
-- Favorite music: Mainstream
-- Fav. media genre: Adventure
-- Favorite color: Red
-- Favorite dish: Bilkjöt
-- Favorite beverage: Iced Tea
-- Favorite candy: Chocolate, Cookies, Caramel
-- Favorite game: Realm of Hearts
-# Personal
-
-## Spare Time
-
-## Habits
-
-## Speech & Gestures
-
-# Social
-
-## Family
-
-### Members
-
-#### Mother
-
-#### Father
-
-#### Siblings
-
-
-## Relationships & Friendships
-
-# Professional
-
-
-## Intellectual Features
-
-## Additional Skills
+# Anima-Form
+- Last Resort
+- Artifical buff as pre-form
