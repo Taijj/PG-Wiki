@@ -48,7 +48,7 @@ Shadow: off
 >*Thin*
 >**Eyes**
 >[Merigold Yellow](https://colors.artyclick.com/color-names-dictionary/color-names/marigold-yellow-color/)
->**Hair Color**
+>**Hair**
 >*[Celeste](https://colors.artyclick.com/color-names-dictionary/color-names/celeste-color)*-Black
 >**Skin**
 >Caucasian

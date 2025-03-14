@@ -49,7 +49,7 @@ Shadow: off
 >*Slim, firm*
 >**Eyes**
 >[[Die Titanier#Physik|Titanian]]
->**Hair Color**
+>**Hair**
 >*[Flame](https://colors.artyclick.com/color-names-dictionary/color-names/flame-color)*
 >**Skin**
 >[Peanut](https://colors.artyclick.com/color-shades-finder/?color=#793419)

@@ -53,3 +53,4 @@ Info Reveals:
 
 - Raphaela und Varn sind nicht ihre echten Eltern
 - Franz hetzt Nia und das Militär gegeneinander auf.
+- How does Nia keep taps on all of the children?
