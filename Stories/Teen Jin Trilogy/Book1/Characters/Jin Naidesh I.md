@@ -130,7 +130,7 @@ He is very active in their congregation, sings in the choir, plays in the orches
 School and the [[#Spiritual Beliefs|church]] keep him busy most of the week. It is usually bearable, but some weeks he doesn't have a single evening for himself.
 ## Spare Time
 After school, he's often picked up by [[Aunt Nia]] for training. Nia is training him and his siblings in martial arts, armed combat, and she's teaching them on how to use their [[Die Elemente|elemental]] abilities. The training is hard, but Jin does rather enjoy it.
-In the little time he has left, he's either playing videogames alone or with his best and only friend [[Tari I|Tari]], if they are allowed to. If not, they try to come up with other things to do, which turns out differently most of the time.
+In the little time he has left, he's either playing videogames alone or with his best and only friend [[Tarmael Curan I|Tari]], if they are allowed to. If not, they try to come up with other things to do, which turns out differently most of the time.
 ## Habits
 - His breakfast consists of a bowl of cereal, or sweet spreads on toast, and milk.
 - He prays before every meal, even when on his own, e.g. before bed, but in public he tries to do it quickly and in a way as inconspicuous as possible.
@@ -170,7 +170,7 @@ They offered them a free choice of instrument, though, and in the end they had a
 | **Toruco** | Guitar | **Forashi** | Saxophone   |           |        |
 The band sometimes plays on its own, too, but they mostly make up the [[#Spiritual Beliefs|church]] orchestra, along with other members of the congregation. The parents themselves also participate in the choir, but they don't play any instrument.
 ## Relationships & Friendships
-Jin's best friend is [[Tari I|Tari]], a [[Die Nerivaner|Nerivan]] boy he knows from [[#Spiritual Beliefs|church]]. They both met after the Naideshs had moved, which also caused them to switch congregations. They quickly connected over their love for videogames and vivid imaginations.
+Jin's best friend is [[Tarmael Curan I|Tari]], a [[Die Nerivaner|Nerivan]] boy he knows from [[#Spiritual Beliefs|church]]. They both met after the Naideshs had moved, which also caused them to switch congregations. They quickly connected over their love for videogames and vivid imaginations.
 Jin also has a small crush on [[NADINE]], a [[Die Rowagier|Rowagian]]-[[Die Forasier|Forasian]] girl also from **church**. Other than the **church**-youth, he's got no further social connections, though.
 
 In school he is very reticent and shy. Deep down he thinks everyone hates him, and he's quietly judging everyone on this basis. He also heavily prioritizes **church** over everything else in his life, and rarely has time to spend with people from "the outside".

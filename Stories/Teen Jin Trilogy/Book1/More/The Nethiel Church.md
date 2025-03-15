@@ -93,7 +93,7 @@ The sacrament is performed by one of the [[#Ranks|Idhár]]. While praying they t
 	The Calling
 Those chosen to serve a ministry will be ordained by an [[#Ranks|Idhár]] as well. The ritual of **Naloth** is the ceremony by wich that happens. The minister-to-be will have another piece of a church's [[#The Siláryl|Siláryl]] embedded into their right hand.
 With the two ambers they are blessed and empowered by the **Light** to serve, encouraged to devout their life to it, asked to preach the Nethiel faith in its name, and tasked to care for the souls under its glow.
-## More
+## Other
 Other rituals of note are:
 - **Immaciel** (Choice of self) - when a child comes of age, the responsibility of keeping the ways of the **Light** are transferred from the parents to the adolescent.
 - **Melartha** (Union of Love) - the ritual of marriage, which is a modernized version of the classic [[Die Nerivaner#Die Hochzeit - Die Gründung einer Familie|Nerivan wedding]].
