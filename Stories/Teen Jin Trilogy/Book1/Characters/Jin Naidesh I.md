@@ -48,7 +48,7 @@ Shadow: off
 >**Body**
 >*Slim, firm*
 >**Eyes**
->[[Die Titanier#Physik|Titanian]]
+>[[Die Titanier#Physik|Titanian]]>Green
 >**Hair**
 >*[Flame](https://colors.artyclick.com/color-names-dictionary/color-names/flame-color)*
 >**Skin**

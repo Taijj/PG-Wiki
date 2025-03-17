@@ -1,4 +1,4 @@
-
+Tari is a reoccurring character and protagonist in multiple stories in modern times. He's the childhood friend of [[Jin Naidesh I|Jin Naidesh]] and this article describes him at the beginning of the so-called *Teen-Jin-Trilogy*.
 # General
 --- start-multi-column: Overview01
 ```column-settings
@@ -10,9 +10,7 @@ Shadow: off
 
 >[!common] Common
 > **Species**
-> *[[Die Nerivaner|Nerivan]]*
-> **Element**
-> *[[Die Elemente|Light]]* 
+> *[[Die Nerivaner|Nerivan]]* 
 > **Residence**
 > [[Haarafir]]
 > **Occupation**
@@ -22,7 +20,7 @@ Shadow: off
 
 >[!cultural] Bio
 >**Name**
->*Tarmael Curan*
+>*Tarmael "Tari" Curan*
 >**Sex/Gender/Pronouns**
 >*Male, He/Him*
 >**Sexuality**
@@ -72,132 +70,29 @@ Shadow: off
 --- column-break ---
 
 >[!more] More
->- Active member of [[The Nethiel Church]]
+>Active member of [[The Nethiel Church]]
 
 --- end-multi-column
-# Physical
-
-## Apparel & Accessoires
-
-## Hygiene
-
-## Enhanced Senses
-
+# Appearance
+Tari is an average looking skinny [[Die Nerivaner|Nerivan]] boy with shaggy shoulder long brown hair and long twisted horns. Rectangular glasses sit on his nose and partly hide the freckles in his bright face.
+He likes to wear loose shirts and sweaters with nerdy motifs, ripped jeans and simple trainers. Dangling from one of his pockets is a metal keychain.
 # Personality
-
-## Spiritual Beliefs
-All members of his family are believers in the [[The Nethiel Church|Nethiel]] faith. His parents are rather strict and its important to them that their children follow that doctrine. So it is an integral and important part of Jin's life, and he tries very hard to live up to these beliefs.
-He is very active in their congregation, sings in the choir, plays in the orchestra, and takes on administrative tasks. He prioritizes the church and his faith above everything else, even though there are major aspects of the doctrine he dislikes and can't understand.
-## Likes & Dislikes
-
-| Likes                     | Dislikes                      |
-| ------------------------- | ----------------------------- |
-| Research                  | Stress                        |
-| Comics, Cartoons, Movies  | Competition                   |
-| Walks, Strolls, Exploring | Cleaning and tidying          |
-| Cooperation               | Arguments (w. Friends/Family) |
-|                           |                               |
-- Favorite music: Classic Rock
-- Fav. media genre: Comedy & Crime (Superheros)
-- Favorite color: 
-- Favorite dish: Bilkjöt
-- Favorite beverage: Iced Tea
-- Favorite candy: Chocolate, Cookies, Caramel
-- Favorite game: Realm of Hearts
-
-- Not following rules
-    
-- Hurting Nature and the Creatures in it
-    
-- Ignoring facts
+Tari is a [Highly Sensitive Person](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity) and therefore tends to freeze in stress situations, has trouble making quick decisions, and overthinks emotional triggers. This sometimes makes him seem like a pushover, aloof, or lazy. His difficulties in finding the right words to say aren't helping in this regard, either.
+He is not very outgoing, but generally likes to hang around with others. Under the hood, he is a nice and creative soul, with a burning passion for Lygea's [[Die Anomi|Flora, Fauna]] and Geek culture.
+Losing his pet familiar at the age of 11 gave him a pretty significant separation anxiety, especially with close friends.
 # Personal
-Born on Silviem!
-
-To the 11th Birthday every (Region) Child gets a Familiar to care for. From Birth to Death.
-But while Camp his Familiar got Sick and died right before Camp was over
-In Camp he achieved almost every Year the Master badge of his grade, except the last Year
-
-- Idealistic - his positive and unbreakable view of the World hurts him most than it helps
-    
-- Introvert - missing often great chances to make good friends
-    
-- Stubborn - if not convinced otherwise, he does what he think is right
-    
-- Messy - he doesn’t like cleaning up in any way
-    
-- Indecisiveness - he has a hard time choosing between multiple things,especially when their value is almost identical
-
-
-- Nice - He’s a very easy person to be around
-    
-- Helpful - Always ready to help, even it’s not his area of expertise
-    
-- Perceptive - he can easily spot when somebody needs help, or how are the feeling
-    
-- Patient - Time is just a concept
-    
-- Empathic - It is easy for him to understand what others feel
-
-
-- He’s afraid of Heights and gets easily Vertigo
-    
-- He freezes in Stress and Panic Situations
-
-- The loss of his Familiar
-	- Even not his fault, he still blames himself for not caring good enough for it
-
-- Losing another close friend in any shape or form
-	- He prevents himself to make to tight bonds, especially with Anomi    
-	- Declining every opportunity to have a new Familiar
-
-- He understand Rules are Rules and follows the no question asked
-    
-- He believes in an ideal world and the good in everyone and everything
-    
-- Helping other comes before helping oneself
-    
-- Dress for the job you do
-
-
-- He suffers from Vertigo (getting dizzy at heights)
-    
-- Total darkness weakens him extremely, even to the point of passing out
-    
-- He’s a Highly Sensible Person. This is the reason for him to freeze in Stress Situations, Indecisiveness and carrying emotional stuff longer around than it’s good for someone (among other things)
-
-- He cannot handle money well. He often declines or simply forgets to get paid. Also he doesn’t understand the value concept of Money, so he overpays more than often
-- Some can say he is addicted to knowledge, diving himself in Research 
-    
-- When he’s not researching he’s reading a comic, watching cartoons or Movies. He becomes antsy, not getting his fix of the newest episode of the most recent Show
-## Spare Time
-
-## Habits
-
-## Speech & Gestures
-
+He was born on the [[Die Kontinente#Silviem|continent of Silviem]] into a devout [[The Nethiel Church|Nethiel]] family. There he went through the [[Die Nerivaner|Nerivan]] educational system, so-called **Camp**, until he lost his pet familiar when he was 11. Shortly after, his family moved to [[Haarafir]], close to his [[#Family|aunt]], to start a new life there.
+Tari likes to spend a lot of time in front of a screen, to get his fix of favorite shows. His parents intervened at some point, though. They often make him go outside where he likes to watch, draw, and study plants and other wildlife.
+Tari has a very colloquial speech, often ignoring the basic rules of grammar and sometimes even making up words as he goes.
 # Social
+He's got some people he hangs out with at school, but those friendships usually don't extend into the afternoon. Tari's best and only real friend is [[Jin Naidesh I|Jin Naidesh]]. The two met each other at [[#Personal|church]] and became friends over the course of some weeks.
+The two of them like to play videogames together, especially their favorite game *Realm of Hearts*, which Tari owns. However, Tari's parents are pretty strict when it comes to screentime, and they often have to find other ways to pass the time. They usually find something to do, but there are also days on which they just lie around, bored out of their minds.
+# Family
+Tari's family is also rather religious with strict tendencies. They encourage, sometimes force, their son to go outside more. Especially during summer time, when they all but move into the large garden plot they own. Tari and **Jin** also spent a lot of time there and, in good weather, they even camp out there with a tent.
 
-## Family
-
-### Members
-
-#### Mother
-
-#### Father
-
-#### Siblings
-
-## Relationships & Friendships
-
+- **Silvan Curan**: Taris father is pretty strict and lacks an understanding of his son, at least according to Tari. **Silvan** is the one with the highest expectations of Tari and he puts him under the most pressure. 
+- **Afasi Curan**: His mother is less strict and is more understanding. She's got some pretty strong conservative views as well, though.
+- **Vara Glineth**: Tari and his aunt have a very friendly relationship. They like to meat and do a lot of things together, like trips to the cinema, theatre, going to the swimming pool, or even hiking.
+- *Sister: (@Abe: Last chance: If he's supposed to have any siblings, say it now or forever hold your tongue...)*
 # Professional
-
-## School
-In University he was the Best in the courses Myths, Elementals and TRF (Theoretical Recreation of Fossils)
-
-## Intellectual Features
-- When he finds a topic that intrigues him, he digs himself into a hole of research
-    
-- Knows seemingly every Anomi and their subspecies
-    
-- When he got any freetime he enjoys Comics, Cartoons, shows and Movies, so he’s pretty much a Geek
-## Additional Skills
+Tari is a [[The Institute of Science#MID(dle) School|MID school]] student. But he doesn't visit the same one as [[#Social|Jin]]. While **Jin** visits **Enjar MID**, closer to the where he lives, Tari visit **Greens MID** closer to [[Haarafir]]'s urban district. Tari doesn't put too much effort into school, except for the classes he's really interested in, namely **Visual Arts** and [[The Institute of Science#Section IV|Anomiology]].
