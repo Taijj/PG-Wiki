@@ -146,7 +146,7 @@ Officially, Jin's a normal young [[Mischlinge|Hybrid]] living in [[Haarafir]]. I
 At the moment, the Naidesh family consist of 7 members.
 #### Mother
 His mother, [[Raphaela Naidesh]], was a [[Die Rowagier|Rowagian]]-[[Die Nerivaner|Nerivan]] women. Sadly she died in a car accident when he was 8 years old. About 2 years later, his father fell in love with and married [[Mayra Naidesh]], which became the family's stepmother. **Mayra** does not know the truth about her stepchildren either.
-**Mayra** is a pretty strict and conservative women. She's the leader of their [[#Spiritual Beliefs|congregation]] and fulfills her duties sternly, diligently, and with special attention to their family's reputation. She's a real contrast to the kind and free-spirited **Raphaela**.
+**Mayra** is a pretty strict and conservative women. She's the leader of their [[#Spiritual Beliefs|congregation]] and fulfills her duties sternly, diligently, and with special attention to their family's reputation. She's a real contrast to the kind and free-spirited **Raphaela**. Jin thinks he has respect for her, but in truth, he's terrified.
 #### Father
 [[Debrann Naidesh]] is the father of the family. He's a [[Die Forasier|Forasian]]-[[Die Teyaner|Teyan]] man and the only one in the family who has some kind of a clue of what his children are.
 He's usually a very reserved man, but with strong and conservative opinions about right and wrong. His faith means everything to him. He strives to talk about it as much as possible and gets angry with his children, if they don't treat it seriously enough.

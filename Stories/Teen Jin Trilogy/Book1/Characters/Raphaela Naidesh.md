@@ -1,1 +1,3 @@
 // TODO
+- Rowagian-Nerivan
+- Deceased
