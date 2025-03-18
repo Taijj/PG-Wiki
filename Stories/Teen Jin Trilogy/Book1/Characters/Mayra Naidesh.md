@@ -1,4 +1,4 @@
-Mayra Naidesh is the implicit main antagonist of *Book I* in the *Teen-Jin-Trilogy*. She is the wife of [[Debrann Naidesh]] and stepmother to the protagonist [[Jin Naidesh I|Jin]] and his siblings.
+Mayra Naidesh is an implicit antagonist in *Book I* of the *Teen-Jin-Trilogy*. She is the wife of [[Debrann Naidesh]] and stepmother to the protagonist [[Jin Naidesh I|Jin]] and his siblings.
 # General
 --- start-multi-column: Overview01
 ```column-settings
