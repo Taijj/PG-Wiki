@@ -131,3 +131,5 @@ With 5 of them she was quickly overwhelmed, though, and she resorted to strict d
 - [[Tashi Naidesh I|Tashi]] is the youngest girl and she's also generally well behaved. She likes to act tough, though, but Mayra is usually so busy with the other kids that most of **Tashi**'s shenanigans go by unnoticed.
 ### Family Residence
 On Mayra's behest, the whole family moved from their nice house into her appartement near the city center. Mayra didn't want to give up her connections in this district and her responsibilities as the [[#Spiritual Beliefs|Matron]], and [[#Husband|Debrann]] reverently agreed. So instead of her moving into the big house, **Debrann** and the kids had to move into her smaller appartement.
+## Nia
+[[Aunt Nia|Nia]] is an old family friend that was around even before she married [[#Husband|Debrann]]. To be honest, Mayra does not like that scruffy and strangely wild women much. But **Debrann** respects her and she also seems to be good to and for the children, so Mayra doesn't mind much.
