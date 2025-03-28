@@ -88,7 +88,7 @@ Shadow: off
 
 --- end-multi-column
 # Physical
-As a [[Die Titanier|Titanian]] he has the appearance of a male teenage humanoid fox. His body hair is fiery red, while his skin has a rather dark brown coloring (peanut). The default color of his eyes is green.
+As a [[Die Titanier|Titanian]] he has the appearance of a male humanoid teenage fox. His body hair is fiery red, while his skin has a rather dark brown coloring (peanut). The default color of his eyes is green.
 His body is rather slim and not too muscular, but firm and well trained nonetheless. He wears his hair in a not too long and rather unkempt [shag haircut](https://www.thetrendspotter.net/wp-content/uploads/2022/12/Shag-Haircut-1.jpg), and he has a bushy tail and fox ears. His eyes have a thin shape, but they are by no means small. He's got a defined, pointy jawline with a normal sized mouth - no facial hair.
 ## Apparel & Accessoires
 Jin's dressing style is basically non-existent, that is to say: It is very simple. Usually he wears mono colored sweaters, hoodies, t-shirts, or jeans with cheap trainers. The coloring of his cloths is very soft, modest or dark. The motifs are random, and usually make no sense to him or anyone else. His clothes, with his shoes being the exception, are usually hand-me-downs from his older siblings (especially [[#Siblings|Mao]], but he doesn't know that). If he can, he puts on pants and shorts with additional side bags. His keys usually reside in his left pocket, attached to his pants by a short keychain. A red lanyard is also attached to the keys, which he lets hang from the pocket then.
@@ -154,7 +154,7 @@ He's usually a very reserved man, but with strong and conservative opinions abou
 Jin's got 3 sisters and 2 brothers:
 - [[Kyashi Naidesh I|Kyashi]] is the eldest sister, who's bound to a wheelchair. She's a rather quite women, but also likes to crack jokes about her disability. Jin loves to talk and spend time with her, and helps, even if she's perfectly capable of taking care of herself.
 - [[Toruco Naidesh I|Toruco]] is his next older sister, who likes to challenge and tease him. Toruco's a tough girl, who doesn't take shit from anyone. With the exception of their parents. Still, she's generally the rebellious one in the family.
-- [[Forashi Naidesh|Forashi]] is the younger brother with which Jin enjoys a happy rivalry, be it training, games, or even chores. He's a very levelheaded person, who draws conclusions from his own thoughts, and loves to argue people into the ground.
+- [[Forashi Naidesh I|Forashi]] is the younger brother with which Jin enjoys a happy rivalry, be it training, games, or even chores. He's a very levelheaded person, who draws conclusions from his own thoughts, and loves to argue people into the ground.
 - [[Tashi Naidesh I|Tashi]] the youngest is a kind girl who likes to act wild and tough, literally falling short by her appearance (she's not only the youngest but also the smallest). For Jin, she's pretty much the standard little sister to love and protect.
 - **Mao**, his older brother, disappeared when [[#Mother|Raphaela]] died and circumstances forced the family to forget about him. At this time, its like he never even existed.
 ### Family Residence

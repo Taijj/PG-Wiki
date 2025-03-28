@@ -55,7 +55,7 @@ Shadow: off
 
 >[!from-reality] Personality 
 > **Alignment**
-> Chaotic Good (most)
+> Neutral Good
 > **Template**
 > *Young: [Kuvira](https://en.wikipedia.org/wiki/Kuvira)*
 > *Mature: [Lin Beifong](https://avatar.fandom.com/wiki/Lin_Beifong)*

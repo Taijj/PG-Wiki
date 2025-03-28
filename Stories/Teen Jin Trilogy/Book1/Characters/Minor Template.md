@@ -1,4 +1,4 @@
-Gwin Exion is a minor character in the so-called *Teen-Jin-Trilogy* and the mother of [[Sora Exion I|Sora]].
+Forashi Blu Naidesh is a minor character in the so-called *Teen-Jin-Trilogy*, and potential other stories. He's one of the 6 [[The Capsule Kids|Capsule Kids]] and the younger brother of the protagonist [[Jin Naidesh I|Jin]].
 # General
 --- start-multi-column: Overview01
 ```column-settings
@@ -106,7 +106,7 @@ Shadow: off
 
 
 # Personal
-
+- TRaining with NIa
 
 ## Spare Time
 
@@ -115,7 +115,6 @@ Shadow: off
 ## Speech & Gestures
 
 # Social
-She gave him his second name Christopher, Sor named by dad
 
 ## Family
 

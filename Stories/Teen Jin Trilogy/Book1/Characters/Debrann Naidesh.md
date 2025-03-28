@@ -134,7 +134,7 @@ Debrann tries to deal with and treat all his children equally. He has a certain 
 - [[Kyashi Naidesh I|Kyashi]] the eldest girl, who's already an adult
 - [[Toruco Naidesh I|Toruco]], the next younger
 - [[Jin Naidesh I|Jin]] the older son
-- [[Forashi Naidesh|Forashi]] the younger son
+- [[Forashi Naidesh I|Forashi]] the younger son
 - [[Tashi Naidesh I|Tashi]] the youngest daughter
 ### Mao
 The Naideshs used to have another son, who got lost at the accident [[Raphaela Naidesh|Raphaela]] died. Officially he got kidnapped by wild beasts before the rescuers arrived. Another trauma to add to Debrann's delusions. [[#Nia]]'s suggestion to remove Mao off of Debrann's memories, as she did with the [[#Children]], was accepted with relieve.
@@ -146,7 +146,7 @@ Outside of his family, these two also play an important role in his life.
 ### Samuel Karat
 Samuel is his employer. He's a fair and rather kind business man with some experience and knowledge in the fields Debrann works in. Debrann is a reliable and loyal employee and so Samuel is very fond of him. Samuel often gives him special treatment and Debrann often steps in and helps out even past hours.
 # Nia
-[[Aunt Nia|Nia]] had been a loyal friend of the family for years now, but Debrann actually almost knows nothing about her. He only remembers her suddenly appearing in their lives a year after [[#Wife|Raphaela]] brought home [[Forashi Naidesh|Forashi]]. She used to be a close friend of **Raphaela**'s and he actually doesn't know her that well.
+[[Aunt Nia|Nia]] had been a loyal friend of the family for years now, but Debrann actually almost knows nothing about her. He only remembers her suddenly appearing in their lives a year after [[#Wife|Raphaela]] brought home [[Forashi Naidesh I|Forashi]]. She used to be a close friend of **Raphaela**'s and he actually doesn't know her that well.
 All he knows is that she knows the truth about his [[#Children]], and that she's very fond of them. He's fine with not knowing more, since she also stepped up and helped out a lot after **Raphaela**'s death. He could rely on her during these hard times. And she earned his respect and thanks in the process.
 Nowadays, he's okay with her training the kids. He might not share her motives, but it cannot hurt, if they learn some discipline and blow of steam in the process.
 # Professional
