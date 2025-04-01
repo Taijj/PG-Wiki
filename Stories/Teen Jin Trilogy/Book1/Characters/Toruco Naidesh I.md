@@ -97,6 +97,6 @@ Physical activity is something she really likes, and she relishes in training wi
 Unfortunately the parents expect her to also help with chores, and actively participate in church activities, which she does with heavy reluctance.
 Toruco's voice is as fierce as her appearance and she can be quite vulgar. Her natural tone sounds pissed and accusatory.
 # Social
-If she's not out alone to get some distance, she actually likes to "hang" with [[Aunt Nia]]. **Nia** often doesn't mind to take her along to hunt or for extra training sessions, that is how Toruco became so strong. Additionally, and even though Toruco doesn't think much of [[#Personal|church]], she also likes to spend time with her best friend [[NADINE]].
+If she's not out alone to get some distance, she actually likes to "hang" with [[Aunt Nia]]. **Nia** often doesn't mind to take her along to hunt or for extra training sessions, that is how Toruco became so strong. Additionally, and even though Toruco doesn't think much of [[#Personal|church]], she also likes to spend time with her best friend [[Wirbelwind Falkenfeder I|Wirbelwind]].
 # Professional
 Toruco visits the same school as [[Jin Naidesh I|Jin]] and [[Forashi Naidesh I|Forashi]], [[The Institute of Science#MID(dle) School|Enjar MID]] in [[Haarafir]]. She's not a model student at all and lacks in most subjects. Nonetheless she will graduate soon, by reaching [[The Ministry of Community#Levels of Maturity|adulthood]].

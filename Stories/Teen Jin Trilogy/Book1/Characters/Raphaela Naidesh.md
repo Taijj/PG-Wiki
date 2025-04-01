@@ -1,3 +1,3 @@
-// TODO
-- Rowagian-Nerivan
-- Deceased
+Raphaela is the deceased mother of the [[Jin Naidesh I#Family|Naidesh-Family]]. She died during a car accident 8 years ago and was soon after replaced by [[Mayra Naidesh]].
+
+Raphaela was a free-spritted and kind [[Mischlinge|hybrid]] women who took care of her 6 children with diligence and interest. She was a [[Die Nerivaner|Nerivan]]/[[Die Rowagier|Rowagian]] mixture whereby her **Rowagian** attributes dominated greatly. Her [Grapefruit](https://colors.artyclick.com/color-names-dictionary/color-names/grapefruit-color) colored feathers and fair skin were her most distinct features.

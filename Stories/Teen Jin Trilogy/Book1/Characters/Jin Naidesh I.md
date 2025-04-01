@@ -171,7 +171,7 @@ They offered them a free choice of instrument, though, and in the end they had a
 The band sometimes plays on its own, too, but they mostly make up the [[#Spiritual Beliefs|church]] orchestra, along with other members of the congregation. The parents themselves also participate in the choir, but they don't play any instrument.
 ## Relationships & Friendships
 Jin's best friend is [[Tarmael Curan I|Tari]], a [[Die Nerivaner|Nerivan]] boy he knows from [[#Spiritual Beliefs|church]]. They both met after the Naideshs had moved, which also caused them to switch congregations. They quickly connected over their love for videogames and vivid imaginations.
-Jin also has a small crush on [[NADINE]], a [[Die Rowagier|Rowagian]]-[[Die Forasier|Forasian]] girl also from **church**. Other than the **church**-youth, he's got no further social connections, though.
+Jin also has a small crush on [[Wirbelwind Falkenfeder I]], a [[Die Rowagier|Rowagian]]-[[Die Forasier|Forasian]] girl also from **church**. Other than the **church**-youth, he's got no further social connections, though.
 
 In school he is very reticent and shy. Deep down he thinks everyone hates him, and he's quietly judging everyone on this basis. He also heavily prioritizes **church** over everything else in his life, and rarely has time to spend with people from "the outside".
 # Professional
