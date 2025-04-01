@@ -36,7 +36,7 @@ Shadow: off
 >**Age**
 >*16*
 >**Maturity**
->[[The Ministry of Community#Levels of Maturity|(Late) Evolver]]
+>(Late) [[The Ministry of Community#Levels of Maturity|Evolver]]
 
 --- column-break ---
 
@@ -146,7 +146,7 @@ Officially, Jin's a normal young [[Mischlinge|Hybrid]] living in [[Haarafir]]. I
 At the moment, the Naidesh family consist of 7 members.
 #### Mother
 His mother, [[Raphaela Naidesh]], was a [[Die Rowagier|Rowagian]]-[[Die Nerivaner|Nerivan]] women. Sadly she died in a car accident when he was 8 years old. About 2 years later, his father fell in love with and married [[Mayra Naidesh]], which became the family's stepmother. **Mayra** does not know the truth about her stepchildren either.
-**Mayra** is a pretty strict and conservative women. She's the leader of their [[#Spiritual Beliefs|congregation]] and fulfills her duties sternly, diligently, and with special attention to their family's reputation. She's a real contrast to the kind and free-spirited **Raphaela**. Jin thinks he has respect for her, but in truth, he's terrified.
+**Mayra** is a pretty strict and conservative women. She's the leader of their [[#Spiritual Beliefs|congregation]] and fulfills her duties sternly, diligently, and with special attention to their family's reputation. She's a real contrast to the kind and free-spirited **Raphaela**. Jin thinks he has respect for her, but in truth, he's rather terrified.
 #### Father
 [[Debrann Naidesh]] is the father of the family. He's a [[Die Forasier|Forasian]]-[[Die Teyaner|Teyan]] man and the only one in the family who has some kind of a clue of what his children are.
 He's usually a very reserved man, but with strong and conservative opinions about right and wrong. His faith means everything to him. He strives to talk about it as much as possible and gets angry with his children, if they don't treat it seriously enough.
@@ -168,10 +168,10 @@ They offered them a free choice of instrument, though, and in the end they had a
 | **Kyashi** | Piano  | **Jin**     | Base Guitar | **Tashi** | Violin |
 | ---------- | ------ | ----------- | ----------- | --------- | ------ |
 | **Toruco** | Guitar | **Forashi** | Saxophone   |           |        |
-The band sometimes plays on its own, too, but they mostly make up the [[#Spiritual Beliefs|church]] orchestra, along with other members of the congregation. The parents themselves also participate in the choir, but they don't play any instrument.
+The band sometimes plays on its own, too, but they mostly make up the [[#Spiritual Beliefs|church]] orchestra, along with other members of the congregation. The parents themselves don't participate in neither choir nor orchestra.
 ## Relationships & Friendships
 Jin's best friend is [[Tarmael Curan I|Tari]], a [[Die Nerivaner|Nerivan]] boy he knows from [[#Spiritual Beliefs|church]]. They both met after the Naideshs had moved, which also caused them to switch congregations. They quickly connected over their love for videogames and vivid imaginations.
-Jin also has a small crush on [[Wirbelwind Falkenfeder I]], a [[Die Rowagier|Rowagian]]-[[Die Forasier|Forasian]] girl also from **church**. Other than the **church**-youth, he's got no further social connections, though.
+Jin also has a small crush on [[Wirbelwind Falkenfeder I|Wirbelwind]], a [[Die Rowagier|Rowagian]]-[[Die Forasier|Forasian]] girl also from **church**. Other than the **church**-youth, he's got no further social connections, though.
 
 In school he is very reticent and shy. Deep down he thinks everyone hates him, and he's quietly judging everyone on this basis. He also heavily prioritizes **church** over everything else in his life, and rarely has time to spend with people from "the outside".
 # Professional
