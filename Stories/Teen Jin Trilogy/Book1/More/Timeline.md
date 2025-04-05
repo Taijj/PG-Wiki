@@ -33,8 +33,8 @@ Training:
 | [[Scenes#32 - Metal is Forevaaaah!]]                        | 11.06       |                                                       |
 | [[Scenes#33 - Zweifel]]                                     | 11.06       |                                                       |
 | [[Scenes#34 - Keine Zeit machen]]                           | 12.-14.06   |                                                       |
-| [[Scenes#35 - Gemeindeausflug]]                             | 24.07       | Nethiel-Sommerfest                                    |
-| [[Scenes#36 - Verpasst 2]]                                  | 24.07       |                                                       |
+| [[Scenes#35 - Gemeindeausflug]]                             | 23.07       | Nethiel-Sommerfest                                    |
+| [[Scenes#36 - Verpasst 2]]                                  | 23.07       |                                                       |
 | [[Scenes#38 - Unterste Schublade]]                          | 08.09       | Stiller begins                                        |
 | [[Scenes#39 - Falsch verstanden]]                           | 10.10       | Therapie session<br>Szenen: 1, 3, 5, 7,10, 20, 30, 37 |
 | [[Scenes#40 - Alltag]]                                      | 10.10-07.11 | Stiller Alltag                                        |
