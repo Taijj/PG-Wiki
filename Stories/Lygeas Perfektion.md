@@ -16,8 +16,6 @@ Auch Lygea, unsere Mutter, suchte nach Perfektion. Sie gab uns ihr grünes Kleid
 
 > Wir Eveliten bewohnten die Schatten. Wir haben die Perfektion im Erlangen von allumfassendem Wissen gesucht, doch fanden wir nur die Vergessenheit.
 
-Aber was ist Perfektion und kann man sie wirklich erreichen? Wird der Weg jemals enden? Ist es nur eine Frage der Definition? Der Perspektive? Des Glaubens? 
-
-Viele haben versucht, die vollkommene Perfektion zu erreichen, nur, um festzustellen, dass sie ihnen mit jedem Schritt weiter zu entgleiten droht. Und was ist es, was am Ende wirklich zählt?
+Aber was ist Perfektion und kann man sie wirklich erreichen? Wird der Weg jemals enden? Ist es nur eine Frage der Definition? Der Perspektive? Des Glaubens? Viele haben versucht, die vollkommene Perfektion zu erreichen, nur, um festzustellen, dass sie ihnen mit jedem Schritt weiter zu entgleiten droht. Und was ist es, was am Ende wirklich zählt?
 
 War es all die Sorge wert?

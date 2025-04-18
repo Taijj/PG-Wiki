@@ -74,7 +74,7 @@ Shadow: off
 
 --- end-multi-column
 # Appearance
-Tari is an average looking skinny [[Die Nerivaner|Nerivan]] boy with shaggy shoulder long brown hair and long twisted horns. Rectangular glasses sit on his nose and partly hide the freckles in his bright face.
+Tari is an average looking skinny [[Die Nerivaner|Nerivan]] boy with shaggy shoulder long brown hair and long twisted horns. His bright face is covered in freckles.
 He likes to wear loose shirts and sweaters with nerdy motifs, ripped jeans and simple trainers. Dangling from one of his pockets is a metal keychain.
 # Personality
 Tari is a [Highly Sensitive Person](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity) and therefore tends to freeze in stress situations, has trouble making quick decisions, and overthinks emotional triggers. This sometimes makes him seem like a pushover, aloof, or lazy. His difficulties in finding the right words to say aren't helping in this regard, either.
@@ -93,6 +93,5 @@ Tari's family is also rather religious with strict tendencies. They encourage, s
 - **Silvan Curan**: Taris father is pretty strict and lacks an understanding of his son, at least according to Tari. **Silvan** is the one with the highest expectations of Tari and he puts him under the most pressure. 
 - **Afasi Curan**: His mother is less strict and is more understanding. She's got some pretty strong conservative views as well, though.
 - **Vara Glineth**: Tari and his aunt have a very friendly relationship. They like to meat and do a lot of things together, like trips to the cinema, theatre, going to the swimming pool, or even hiking.
-- *Sister: (@Abe: Last chance: If he's supposed to have any siblings, say it now or forever hold your tongue...)*
 # Professional
 Tari is a [[The Institute of Science#MID(dle) School|MID school]] student. But he doesn't visit the same one as [[#Social|Jin]]. While **Jin** visits **Enjar MID**, closer to the where he lives, Tari visit **Greens MID** closer to [[Haarafir]]'s urban district. Tari doesn't put too much effort into school, except for the classes he's really interested in, namely **Visual Arts** and [[The Institute of Science#Section IV|Anomiology]].

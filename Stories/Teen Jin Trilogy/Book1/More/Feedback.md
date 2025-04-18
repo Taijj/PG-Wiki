@@ -1,0 +1,38 @@
+# Reviewers
+- Abe
+- Drachenfreundin
+- Christian
+- Benni (Taphead)
+# Lessons
+- **Iterieren ist ein schmerzhafter Prozess** (Kill your Darlings)
+- Wir Menschen müssen uns gar nicht so verbiegen, um interessant zu erzählen
+- Mach dir Gedanken über die Informationsdichte im Verhältnis zum Erzähltempo und zu Erzählperspektive  
+- Aktuellen Stand Kohärent halten
+	- nicht so Große Iterationsblöcke machen
+	- Informationen aufeinander abstimmen
+	- Boyscout Rule: FIX IT NOW
+- Erzählstimme finden
+	- Der neutrale, allwissende Erzähle ist eigentlich nie neutral!
+	- Erzähler/-Sprache ist ebenfalls ein entscheidender Character in der Welt
+	- Welche Beziehung hat die Erzähl-Figur zu den Charakteren und der Welt?
+	- Eine gut definierte Erzählstimme hat eine **Große Auswirkung**
+	- Gutes Beispiel: Gehart Polt (Barischer Kabaretist, Einmannstücke)
+- Sprache
+	- Große Herausforderung: Viel mit wenig Worten dagen
+	- Faustregeln:
+		- Adjektive und Adverbien vermeiden
+		- Starke Verben over Komplizierte Substantiv-Konstrukte
+		- Längere Sätze im Zweifel in mehrere einfachere Sätze teilen
+		- Tautologien(Semantische Redundanzen) vermeiden: "bereits schon", "still und leise", "nie und nimmer"
+		- Vermeide "abschwächende" Wörter wie "scheint" oder "fast"
+	- ABER: Ein wirkliches "richtig" und "falsch" gibt es nicht (mit Sinn und Verstand)
+- Show don't Tell
+	- Weniger nüchterne Beschreibung, mehr aus der Sicht der Charaktere (z.b. Erzählen, während der Charakter es erlebt)
+	- Mehrere Sinneswarhnemungen integrieren (Was kann man hören? Was kann man riechen? Wie fühlt sie etwas an? Wie schmeckt's?)
+- Grammatik
+	- [Auslassungspunkte](https://www.duden.de/sprachwissen/rechtschreibregeln/auslassungspunkte](https://www.duden.de/sprachwissen/rechtschreibregeln/auslassungspunkte) (...): alt + 0133
+		- Mitten im Wort: Ohne Leerzeichen "So eine Sch...!"
+		- Wenn der Satz ab- oder unterbrochen wird: Mit Leerzeichen "Ich wusste nicht, dass ..."
+	- [Farben](https://www.google.com/url?q=https://www.kapiert.de/deutsch/klasse-7-8/rechtschreibung/woerter-richtig-schreiben/farbbezeichnungen-richtig-schreiben/&sa=D&source=docs&ust=1744923557439188&usg=AOvVaw1GA0AkPkOPmdc4rSytbadi)
+		- Bindestrich: Farben existieren nebeneinander
+		- In einem Wort: Farben sind gemischt oder gehen ineinander über
