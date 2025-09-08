@@ -98,4 +98,4 @@ Tashi's speech is rather colloquial and usually sounds cocky, at least up until 
 # Social
 She's got a number of play buddies in [[#Professional|school]] and around the neighborhood, but her friendships aren't that deep, yet. Her great role models are the big "women" in her life, namely [[Toruco Naidesh I|Toruco]] and [[Wirbelwind Falkenfeder I|Wirbelwind]] - [[Kyashi Naidesh I|Kyashi]] and [[Aunt Nia]], too, to some degree. Additionally, she's also fond of the occasional alone time.
 # Professional
-Tashi still goes to [[The Institute of Science#FUN(damental) School|FUN school]], but it is suspected she might be graduating soon. She's an average student with a knack for sports and science and will most likely join her brothers on **Enjar MID** after she graduated.
+Tashi still goes to [[The Institute of Science#FUN(damental) School|FUN school]], but it is suspected she might be graduating soon. She's an average student with a knack for sports and science and will most likely join her brothers on **Enjar MID** after she graduated. <- Redconned! She actually already is in MID school!

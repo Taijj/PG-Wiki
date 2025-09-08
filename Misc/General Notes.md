@@ -1,0 +1,2 @@
+- WRITING SNOWFLAKE METHOD: https://www.advancedfictionwriting.com/articles/snowflake-method/
+- Wikpedia for Writers: https://tvtropes.org/

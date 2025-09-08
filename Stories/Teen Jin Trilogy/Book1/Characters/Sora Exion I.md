@@ -85,7 +85,8 @@ Shadow: off
 
 --- end-multi-column
 # Physical
-Sora has the appearance of a rather wild teenage [[Mischlinge|Hybrid]] boy. His [[Die Rowagier|Rowagian]] side is more dominant than the [[Die Nerivaner|Nerivan]] one, but without wings. His hair starts in a rather saturated [Celeste](https://colors.artyclick.com/color-names-dictionary/color-names/celeste-color)-Blue, and gradually gets darker until it reaches black at the tips. His skin tone is Caucasian, with **Nerivan** patterned spots, and his eyes shine in a [Merigold Yellow](https://colors.artyclick.com/color-names-dictionary/color-names/marigold-yellow-color/). The ears are **Nerivan**, the Legs **Rowagian**, and he's got small horns, which are mostly covered by his hair.
+Sora has the appearance of a rather wild teenage [[Mischlinge|Hybrid]] boy. His [[Die Rowagier|Rowagian]] side is more dominant than the [[Die Nerivaner|Nerivan]] one, but without wings. His hair starts in a rather saturated [Celeste](https://colors.artyclick.com/color-names-dictionary/color-names/celeste-color)-Blue, and gradually gets darker until it reaches black at the tips. <-- Redconned, it is black with natural blue strands
+His skin tone is Caucasian, with **Nerivan** patterned spots, and his eyes shine in a [Merigold Yellow](https://colors.artyclick.com/color-names-dictionary/color-names/marigold-yellow-color/). The ears are **Nerivan**, the Legs **Rowagian**, and he's got small horns, which are mostly covered by his hair.
 His body is rather thin, but shows signs of physical fitness. A handsome face, constantly shining with a seductive look, sits atop a pointy jaw. Everything is rounded of with his shoulder long voluminous wavy (babe #1) hair.
 (His skeleton is **Nerivan**, no double damage disadvantage.)
 ## Apparel & Accessoires

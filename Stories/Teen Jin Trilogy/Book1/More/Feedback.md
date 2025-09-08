@@ -36,3 +36,30 @@
 	- [Farben](https://www.google.com/url?q=https://www.kapiert.de/deutsch/klasse-7-8/rechtschreibung/woerter-richtig-schreiben/farbbezeichnungen-richtig-schreiben/&sa=D&source=docs&ust=1744923557439188&usg=AOvVaw1GA0AkPkOPmdc4rSytbadi)
 		- Bindestrich: Farben existieren nebeneinander
 		- In einem Wort: Farben sind gemischt oder gehen ineinander über
+
+# Genre
+- Young, Adult, Fiction - Herausforderungen Stellen
+- Sidata - Hermann Hesse (Religious)
+- Welt: Lore, Landschaft, Nebencharaktere - Fantasy beschreibt die Art der Welt - Sehr breites Spektrum
+- Character Arc:
+- Ich schreibe ein Buch, was jemand anderes zu lesen bekommt (Als Author ist man die Bitch des Lesers)
+- Wie möchte ich die Leute unterhalten?
+- Wie ein Gamedesigner denken (Wie kommt der Leser in die Geschichte rein)
+- Erste drei Seiten sind entscheidend!
+- BuchReihe als ganzes ausplanen
+- Braucht einen starken Hook!
+- Keime des finalen Konflikts sollten "spürbar" sein
+- Wie is das erste Buch in die Gesamtreihe mit eingebettet
+- Es geht um Identität: Fühl mich fremd in meine Familie und meiner Umgebung
+- Er ist Feuer, er ist schlecht - gleich in den ersten Seiten aufzeigen
+- Mehr mit der Brechstange arbeiten. Nicht versuchen so subtil zu sein!
+- Weniger Zeit aufwenden, um alles zu erklären...
+- Young Adult Fiction: Climax vom Buch zu Schwach (Was ist die Große Entscheidung, die Jin treffen muss, die Welt muss teilnehmen. Selbstbewusster mit der Welt umgehen)
+- UFF am Ende! Was macht Sora eigentlich am Ende?
+- Mehr trauen Lygea zu zeigen!
+# Lesson 22.05.2025
+- Schreiben ist Informationselement, wie füttere ich dem Leser Informationen
+- Keep it Simple Stupid
+	- Der Leser kann mehr stellen mit seiner Fantasie füllen, als ich ihm zutraue
+	- Rausstreichen ist immer gut für einen Text
+- 

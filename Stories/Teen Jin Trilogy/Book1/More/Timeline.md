@@ -10,7 +10,7 @@ Training:
 | [[Scenes#4 - Die Naideshs]]                                 | --          |                                                       |
 | [[Scenes#6 - Die Nethiel]]                                  | --          |                                                       |
 | [[Scenes#8 - In der Schule]]                                | --          |                                                       |
-| [[Scenes#9 - Das Duell]]                                    | 20.03       | Wilder just passed                                    |
+| [[Scenes#9 - Das Duell]]                                    | 20.03       | Wilder just passed, Das Fest der Elemente (Turnier)   |
 | [[Scenes#11 - Heimweg]]                                     | 20.03       |                                                       |
 | [[Scenes#12 - Exilleron]]                                   | 22.03       |                                                       |
 | [[Scenes#13 - Feuer]]                                       | 15.03       |                                                       |

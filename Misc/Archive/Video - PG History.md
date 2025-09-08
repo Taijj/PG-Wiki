@@ -1,0 +1,41 @@
+- FC CD Restore - professionelle Datenrettung
+	- IM-POSSIBLE! >\_<
+- Podcast with Abe
+	- Ball Comics: Live Demo (Karo-Papier)
+	- Billy und Romo: Read
+		- Page 65 + 66
+		- Skip/Summarize until 73
+		- Read 74
+	- Worldbuilding: Read
+		- Terra (+?)
+	- War of the Elements: Read
+		- In Prison Seite 8 Vorletzer Absatz
+	- How Bill: Read
+		- Everything + Commentary
+	- Character Compilations: Wie hieß der Character?
+		- Live + Auflösung
+	- LosG
+		- Art-Archive
+	- Lygea Beginning
+		- Durchs Archiv wühlen
+	- Lygea Current: Read
+		- 1 Artikel aus'm Wiki
+	- Elemental Circle: Element Alternative Names
+		- Nuklear
+		- Kraft - Magnet, Anziehung, Gravitation
+		- Negativ - Spiegel, Invertierung
+		- Illusion - Kopie, Farbe, Aussehen
+		- Mineral - Salz, Zucker, Schwefel, Kalk, (Öl?)
+	- PG Current: Read
+		- A perfectly normal day
+
+
+- Visual Timeline
+- Narrative Storytelling - Craft a story
+- Guess the Inspiration behind this and that artwork
+- Interviews and testimonials
+- Balance between showcasing and engaging
+
+
+- How does PG relate to current world events?
+- What is a universal theme (Idea: "So many years of work, and I got nothing to show..." but I do)
