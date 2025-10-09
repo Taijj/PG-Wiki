@@ -34,7 +34,7 @@ Shadow: off
 
 >[!physical] Physical
 >**Eyes**
->[Blue Lagoon](https://colors.artyclick.com/color-names-dictionary/color-names/blue-lagoon-color)
+>[Pale Violet](https://colors.artyclick.com/color-names-dictionary/color-names/pale-violet-color/r)
 >**Hair**
 >*[Dune](https://colors.artyclick.com/color-names-dictionary/color-names/dune-color)*
 >**Skin**
