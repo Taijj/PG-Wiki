@@ -1,3 +1,17 @@
+
+For each character (everyone thinks they're the main character)
+1. Who is it about?
+2. What did they want?
+3. Why can't they get it?
+4. What did they do about it?
+5. Why doesn't that work?
+6. How does it end?
+
+- Think in scenes
+- Start with description of a scene (this is the scene where X does Y)
+- Ask questions, write down the answers
+
+
 - I Jin trifft Sora (neue Welt)    
 - II Jin präsentiert Exilleron (confidence boost)    
 - III Dad macht Jin vor allen zur Schnecke (confidence drop)    

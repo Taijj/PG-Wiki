@@ -78,7 +78,7 @@ These rituals and sacraments are part of the Nethiel faith, and are usually prac
 The Nethiel believe that their given light - symbolized by the [[#The Siláryl|Siláryl]] - is weakening over time, and they will also taint themselves with sin whenever they're not behaving according to doctrine. To charge the divine power of their pieces of **Light**, and to extinguish the burning embers of sin in their souls, the sacrament of **Sandaira** is practiced in every divine service. Skipping this just once, is believed to be very dangerous, since the **Darkness** will have an easier time to corrupt one's soul then.
 ## Ani-Gala
 	Proof of brightness
-Each divine service ends with this ritual. The believers present their [[#The Siláryl|Siláryl]] with one hand in a unified gesture, while singing "**Gala**" three times with a loud voice. Every single amber, including the one embedded in the [[#Churches|Nave]] wall, will glow warmly during this ritual.
+Each divine service ends with this ritual. The believers present their [[#The Siláryl|Siláryl]] with one hand in a unified gesture, while singing "**Gala**" four times with a loud voice. Every single amber, including the one embedded in the [[#Churches|Nave]] wall, will glow warmly during this ritual.
 Very devout souls will raise their other hand and [[Die Mystik#Basierend auf Animation|animate]] a ball of light in its palm. Those able to to that are believed to be close to and particularly blessed by the **Light**. The Nethiel also believe that everyone who [[#Caluva|received the Light]] is able to do that with faith and devotion. They are generally unaware of and therefore ignore the [[Mystisches Potential#Level B - Volks Level|known limitations]].
 ## Navá-Dua 
 	taken from the night

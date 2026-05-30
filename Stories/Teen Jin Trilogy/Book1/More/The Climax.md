@@ -1,3 +1,5 @@
+
+
 # Synposis
 Das folgende ist das Ende des vorletzten und eine Zusammenfassung des letzten Aktes meiner Geschichte.
 
@@ -39,6 +41,8 @@ Sein Feuer bricht aus ihm heraus und er beginnt die Amok laufenden Pflanzen zu A
 Tante Nia, von dem Chaos angezogen, kommt schließlich dazu. Sie erkennt den Stein und weiß was zu tun ist, benötigt aber Hilfe. Jins Hilfe. Seine Mutter antwortet aus ihm heraus und zusammen mit Nia schickt Jin einen Strom aus dunklem Feuer gegen den instabilen Stein.
 
 Die dunklen Flammen verzehren die Energie des Steins und er wird still, leblos und grau. Es ist vorbei.
+
+(Lucida hatte das Nethiel Gathering als Testrun für ihre Invasion benutzt)
 
 # Notes
 
