@@ -211,3 +211,29 @@ Weg zu den Nerivanern fanden, gingen die Nerivaner dazu über, eher diese für d
 Die alten Runen blieben allerdings als künstlerische Symbole noch erhalten und entwickelten sich zur Notenschrift weiter, die überall auf Lygea für Notationen verwendet werden. Außerdem werden sie weiterhin in der nerivanischen [[#Die Symbole des Lichts|Animationstechnik]] verwendet.
 ## Die Silariel
 Unabhängig von den restlichen [[#Generelle Regierungsstruktur|Konfessionen]] hat sich eine gewisse Schar der Nerivaner um [[Lygrassyl]] versammelt. Diese Schar ist der Orden der [[Die Silariel|Silariel]], die sich um eine besondere Beziehung zu **Lygrassyl** bemühen.
+
+## Die Maerir
+Trotz ihrer Lebensliebende und Friedliebende Natur haben die Nerivaner eine bewaffnete Gruppe die sie nach innen beschützt und nach außen Gebiete erkundet und begrenzt auch auf die Jagd geht. Die Maerir unterstehen der **Inquisition**.
+Folgende Rollen sind innerhalb der Maerir:
+
+**Gwaelnë**
+Die Jäger.
+Diese Einheit ist hauptsächlich außerhalb des nerivanischen Terrotorium unterwegs. In erster Linie Jagen sie Gesetzesflüchtlinge, aber in Zeiten des Hungers auch wenige Anomi.
+Aufgrund Ihrer Kenntnisse der anderen Territorien, werden sie auch manchmal für Begleitmissionen verwendet. 
+Ihre Werkzeuge sind primär Pfeil und Bogen und ihr Wappen ist der Löwenzahn.
+
+**Caldor**
+Die Wachen.
+Diese Einheit beschützt die Städte, Tempel und auch die Exile der Nerivaner. Es gibt unter ihnen Eliteeinheiten die für bestimmte Personen wie hohe Priesterinnen zu deren Schutz eingesetzt werden. 
+Ihre Werkzeuge sind primär Schild und Speer und ihr Wappen ist die Farne.
+
+**Thauryas**
+Die Gesetzeshüter.
+Diese Einheit wird eingesetzt sobald das Gesetz gebrochen wurde. Sie untersuchen den Fall und nehmen Verdächtige fest. Nach einer Festnahme und abgeschlossenen Untersuchungen werden ihre Erkenntnisse einem Gericht vorgeführt. 
+Ihr Werkzeug ist das Kurzschwert und ihr Wappen sind Ranken. 
+
+**Rhòsaghil**
+Die Miliz.
+Diese Einheit ist die Größte der Maerir. Sie werden eingesetzt wenn eine größere Bedrohung den Nerivanern sich nähert. Ihre Werkzeuge sind Waffen aller Art und Ihr Wappen ist die Rose. 
+
+Unter diesen Rollen gibt es entsprechende Ränge die eine Befehlskette bilden. 
