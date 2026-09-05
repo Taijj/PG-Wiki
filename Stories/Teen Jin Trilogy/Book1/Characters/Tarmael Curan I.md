@@ -1,4 +1,4 @@
-Tari is a reoccurring character and protagonist in multiple stories in modern times. He's the childhood friend of [[Jin Naidesh I|Jin Naidesh]] and this article describes him at the beginning of the so-called *Teen-Jin-Trilogy*.
+Tari is a reoccurring character and protagonist in multiple stories in modern times. He's the childhood friend of [Jin Naidesh](</Stories/Teen Jin Trilogy/Book1/Characters/Jin Naidesh I.md>) and this article describes him at the beginning of the so-called *Teen-Jin-Trilogy*.
 # General
 --- start-multi-column: Overview01
 ```column-settings
@@ -10,11 +10,11 @@ Shadow: off
 
 >[!common] Common
 > **Species**
-> *[[Die Nerivaner|Nerivan]]* 
+> *[Nerivan](</Lygea/Völker/Die Nerivaner/Die Nerivaner.md>)* 
 > **Residence**
-> [[Haarafir]]
+> [Haarafir](</Lygea/Völker/Bardeena/Locations/Haarafir.md>)
 > **Occupation**
-> Student ([[The Institute of Science#MID(dle) School|MID School]])
+> Student ([MID School](</Lygea/Völker/Bardeena/State/The Institute of Science.md#MID(dle) School>))
 
 --- column-break ---
 
@@ -30,7 +30,7 @@ Shadow: off
 >**Age**
 >*15*
 >**Maturity**
->[[The Ministry of Community#Levels of Maturity|Evolver]]
+>[Evolver](</Lygea/Völker/Bardeena/State/The Ministry of Community.md#Levels of Maturity>)
 
 --- column-break ---
 
@@ -70,22 +70,22 @@ Shadow: off
 --- column-break ---
 
 >[!more] More
->Active member of [[The Nethiel Church]]
+>Active member of [The Nethiel Church](</Stories/Teen Jin Trilogy/Book1/More/The Nethiel Church.md>)
 
 --- end-multi-column
 # Appearance
-Tari is an average looking skinny [[Die Nerivaner|Nerivan]] boy with shaggy shoulder long brown hair and long twisted horns. His bright face is covered in freckles.
+Tari is an average looking skinny [Nerivan](</Lygea/Völker/Die Nerivaner/Die Nerivaner.md>) boy with shaggy shoulder long brown hair and long twisted horns. His bright face is covered in freckles.
 He likes to wear loose shirts and sweaters with nerdy motifs, ripped jeans and simple trainers. Dangling from one of his pockets is a metal keychain.
 # Personality
 Tari is a [Highly Sensitive Person](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity) and therefore tends to freeze in stress situations, has trouble making quick decisions, and overthinks emotional triggers. This sometimes makes him seem like a pushover, aloof, or lazy. His difficulties in finding the right words to say aren't helping in this regard, either.
-He is not very outgoing, but generally likes to hang around with others. Under the hood, he is a nice and creative soul, with a burning passion for Lygea's [[Die Anomi|Flora, Fauna]] and Geek culture.
+He is not very outgoing, but generally likes to hang around with others. Under the hood, he is a nice and creative soul, with a burning passion for Lygea's [Flora, Fauna](</Lygea/Lebewesen/Anomi/Die Anomi.md>) and Geek culture.
 Losing his pet familiar at the age of 11 gave him a pretty significant separation anxiety, especially with close friends.
 # Personal
-He was born on the [[Die Kontinente#Silviem|continent of Silviem]] into a devout [[The Nethiel Church|Nethiel]] family. There he went through the [[Die Nerivaner|Nerivan]] educational system, so-called **Camp**, until he lost his pet familiar when he was 11. Shortly after, his family moved to [[Haarafir]], close to his [[#Family|aunt]], to start a new life there.
+He was born on the [continent of Silviem](</Lygea/Das Universum/Planet Lygea/Die Kontinente.md#Silviem>) into a devout [Nethiel](</Stories/Teen Jin Trilogy/Book1/More/The Nethiel Church.md>) family. There he went through the [Nerivan](</Lygea/Völker/Die Nerivaner/Die Nerivaner.md>) educational system, so-called **Camp**, until he lost his pet familiar when he was 11. Shortly after, his family moved to [Haarafir](</Lygea/Völker/Bardeena/Locations/Haarafir.md>), close to his [aunt](<#Family>), to start a new life there.
 Tari likes to spend a lot of time in front of a screen, to get his fix of favorite shows. His parents intervened at some point, though. They often make him go outside where he likes to watch, draw, and study plants and other wildlife.
 Tari has a very colloquial speech, often ignoring the basic rules of grammar and sometimes even making up words as he goes.
 # Social
-He's got some people he hangs out with at school, but those friendships usually don't extend into the afternoon. Tari's best and only real friend is [[Jin Naidesh I|Jin Naidesh]]. The two met each other at [[#Personal|church]] and became friends over the course of some weeks.
+He's got some people he hangs out with at school, but those friendships usually don't extend into the afternoon. Tari's best and only real friend is [Jin Naidesh](</Stories/Teen Jin Trilogy/Book1/Characters/Jin Naidesh I.md>). The two met each other at [church](<#Personal>) and became friends over the course of some weeks.
 The two of them like to play videogames together, especially their favorite game *Realm of Hearts*, which Tari owns. However, Tari's parents are pretty strict when it comes to screentime, and they often have to find other ways to pass the time. They usually find something to do, but there are also days on which they just lie around, bored out of their minds.
 # Family
 Tari's family is also rather religious with strict tendencies. They encourage, sometimes force, their son to go outside more. Especially during summer time, when they all but move into the large garden plot they own. Tari and **Jin** also spent a lot of time there and, in good weather, they even camp out there with a tent.
@@ -94,4 +94,4 @@ Tari's family is also rather religious with strict tendencies. They encourage, s
 - **Afasi Curan**: His mother is less strict and is more understanding. She's got some pretty strong conservative views as well, though.
 - **Vara Glineth**: Tari and his aunt have a very friendly relationship. They like to meat and do a lot of things together, like trips to the cinema, theatre, going to the swimming pool, or even hiking.
 # Professional
-Tari is a [[The Institute of Science#MID(dle) School|MID school]] student. But he doesn't visit the same one as [[#Social|Jin]]. While **Jin** visits **Enjar MID**, closer to the where he lives, Tari visit **Greens MID** closer to [[Haarafir]]'s urban district. Tari doesn't put too much effort into school, except for the classes he's really interested in, namely **Visual Arts** and [[The Institute of Science#Section IV|Anomiology]].
+Tari is a [MID school](</Lygea/Völker/Bardeena/State/The Institute of Science.md#MID(dle) School>) student. But he doesn't visit the same one as [Jin](<#Social>). While **Jin** visits **Enjar MID**, closer to the where he lives, Tari visit **Greens MID** closer to [Haarafir](</Lygea/Völker/Bardeena/Locations/Haarafir.md>)'s urban district. Tari doesn't put too much effort into school, except for the classes he's really interested in, namely **Visual Arts** and [Anomiology](</Lygea/Völker/Bardeena/State/The Institute of Science.md#Section IV>).

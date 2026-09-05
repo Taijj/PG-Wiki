@@ -1,6 +1,6 @@
 	Die Bausteine der Materie
 
-Die Elemente sind eine Form der [Magie](Die%20Magie.md) und zwar die **körperliche Form derivärer Ordnung**. Sie sind die Bausteine für alles physische und existieren als kleine, atomare Einheiten. Diese Atome oder Partikel können sich auf verschiedenste Weisen aneinander heften (“Moleküle”) und so unterschiedlichste Stoffe bilden.  
+Die Elemente sind eine Form der [Magie](</Lygea/Das Universum/Magie/Die Magie.md>) und zwar die **körperliche Form derivärer Ordnung**. Sie sind die Bausteine für alles physische und existieren als kleine, atomare Einheiten. Diese Atome oder Partikel können sich auf verschiedenste Weisen aneinander heften (“Moleküle”) und so unterschiedlichste Stoffe bilden.  
 ## Elemente
 [![Magic Circle](https://www.worldanvil.com/uploads/images/66cc85d1e444bcc48bb3f53e1ef4853a.jpg "Magic Circle")](https://www.worldanvil.com/i/249707 "Magic Circle")
 ### Klassen
@@ -51,4 +51,4 @@ Um ein besseres Verständnis davon zu geben, was man sich unter bestimmten Eleme
 - **Nuklear** wird auch als "Zerstörung" oder "Strahlung" bezeichnet.
 
 # In der Mystik
-In der [Mystik](Die%20Mystik.md) ist es vielen Lebewesen möglich diese Elemente willentlich zu kontrollieren. Oft gibt es dabei allerdings Einschränkungen. Welche Einschränkungen vorliegen hängt vom [mystischen Potenzial](Mystisches%20Potential.md) des jeweiligen Lebewesens ab.
+In der [Mystik](</Lygea/Das Universum/Mystik/Die Mystik.md>) ist es vielen Lebewesen möglich diese Elemente willentlich zu kontrollieren. Oft gibt es dabei allerdings Einschränkungen. Welche Einschränkungen vorliegen hängt vom [mystischen Potenzial](</Lygea/Das Universum/Mystik/Mystisches Potential.md>) des jeweiligen Lebewesens ab.

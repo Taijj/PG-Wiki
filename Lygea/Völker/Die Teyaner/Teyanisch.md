@@ -1,6 +1,6 @@
 	Basis: Keine
 
-(\*) Modernisierter Dialekt, entwickelt nach [[The Calamity]]
+(\*) Modernisierter Dialekt, entwickelt nach [The Calamity](</Lygea/Geschichte/03 Das zweite Jahrtausned/The Calamity.md>)
 
 |     | **Vokabel**                                            | **Bedeutungen**                                                                                                 |
 | --- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -9,7 +9,7 @@
 | C   | Cil<br>Cilma<br>Cilpa<br>Capinza                       | Sinn<br>Kopf/Haupt<br>Wächtersinn<br>Graukap                                                                    |
 | D   | Dee<br>Dhes<br>Dheskan<br>Djet                         | Erde/Land<br>Wüste<br>Wüstenkönig (Bestie, Chameleon x Löwe x Bock)<br>Acht                                     |
 | E   | Eh<br>Ehjat<br>Ehn<br>Enjar*                           | Ewig<br>Ewiggrün<br>Immer<br>Immergrün                                                                          |
-| F   | Faw<br>Fir<br>Fra                                      | Ferne<br>Freund<br>Groß                                                                                         |
+| F   | Faw<br>Fir<br>Fra<br>Frapur                            | Ferne<br>Freund<br>Groß<br>Donner, großer Lärm                                                                  |
 | G   | Gij<br>Gro<br>Gro Dhes                                 | Falsch/Fehler<br>Gnade<br>Gnade der Wüste                                                                       |
 | H   | Han<br>Har<br>Haarafir*<br>Hel                         | Flucht<br>Der Samen<br>Saat der Freundschaft<br>Gabe / Spende                                                   |
 | I   | In<br>In Xur<br>Ian                                    | Klein<br>Kleine Rast<br>Gefräßig/Fresser                                                                        |
@@ -19,7 +19,7 @@
 | M   | Ma<br>Mas<br>Miv<br>Muns                               | Wissen  <br>Lehre<br>Neun<br>Zwei                                                                               |
 | N   | Naf<br>Nai<br>Naidesh*<br>Nen<br>Nii  <br>Niive        | Fünf<br>Stern<br>Stern der Wüste<br>Glück<br>Linie  <br>Lebenslinie                                             |
 | O   | Osh                                                    | Verstoß                                                                                                         |
-| P   | Pan                                                    | Wächter                                                                                                         |
+| P   | Pan<br>Pur                                             | Wächter<br>Laut                                                                                                 |
 | Q   | Qar<br>Quet                                            | Sturm<br>Vier                                                                                                   |
 | R   | Ra<br>Rei<br>Rizz                                      | fliegen<br>Norden<br>Spitz/Stachel                                                                              |
 | S   | Sa  <br>Sha<br>Si<br>Syn                               | Ahne /Vorfahre  <br>Vater<br>Licht<br>Haut                                                                      |

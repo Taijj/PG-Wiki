@@ -7,3 +7,4 @@ This central city is where the country was initially founded. It used to be Bard
 Stadt - Haarafir (Saat der Freundschaft)
 - Threat levels    
 - Districts
+- Insignia, Code of Arms

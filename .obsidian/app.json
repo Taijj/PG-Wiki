@@ -1,4 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "strictLineBreaks": false,
+  "readableLineLength": true
 }

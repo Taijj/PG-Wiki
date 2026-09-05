@@ -1,6 +1,6 @@
 	"meine Schüler"
 
-Die Eveliten sind eine Art der [[Die Invis|Invis]]. Sie sind das Volk des [[Die Elemente|Schattens]] und des Wissens und sind sehr strukturiert und Logik orientiert. Von allen Völkern Lygeas entwickeln sie sich daher am schnellsten.
+Die Eveliten sind eine Art der [Invis](</Lygea/Lebewesen/Invis/Die Invis.md>). Sie sind das Volk des [Schattens](</Lygea/Das Universum/Magie/Die Elemente.md>) und des Wissens und sind sehr strukturiert und Logik orientiert. Von allen Völkern Lygeas entwickeln sie sich daher am schnellsten.
 --- start-multi-column: Overview01
 ```column-settings
 Number of Columns: 3
@@ -11,17 +11,17 @@ Shadow: off
 
 >[!common] Allgemeines
 > **Schöpfer**
-> *[[Evel]]*
+> *[Evel](</Lygea/Lebewesen/Die Ersten/Regidea/Evel.md>)*
 > **Übergeordnete Spezies**
-> *[[Die Invis|Invis]]*
+> *[Invis](</Lygea/Lebewesen/Invis/Die Invis.md>)*
 > **Element**
-> *[[Die Elemente|Schatten]]*
+> *[Schatten](</Lygea/Das Universum/Magie/Die Elemente.md>)*
 > **Mystisches Potential**
-> *[[Mystisches Potential#Level B - Volks Level|Level B/C]]*
+> *[Level B/C](</Lygea/Das Universum/Mystik/Mystisches Potential.md#Level B - Volks Level>)*
 > **Mystische Technik**
-> *[[#Die Sprüche Evels]]*
+> *[Die Eveliten](</Lygea/Völker/Die Eveliten/Die Eveliten.md#Die Sprüche Evels>)*
 > **Seelen-Ritual**
-> *[[#Die Aufgabe - Das Chronik-Ritual|Chronik-Ritual]]* 
+> *[Chronik-Ritual](<#Die Aufgabe - Das Chronik-Ritual>)* 
 
 --- column-break ---
 
@@ -61,7 +61,7 @@ Shadow: off
 >**Geschlechtsmerkmale**
 >*Die beiden Geschlechter unterscheiden sich nur durch die "offensichtlichen" Geschlechtsmerkmale (Penis, Vagina, Brüste)*
 >**Fruchtbarkeit**
->*° Frauen und Männer, während einer [[Kosmische Ereignisse#Totale Gosfinsternis - Finsternis|totalen Gosfinsternis]]
+>*° Frauen und Männer, während einer [totalen Gosfinsternis](</Lygea/Das Universum/Astronomie/Kosmische Ereignisse.md#Totale Gosfinsternis - Finsternis>)
 >° Maximal 1 Embryo pro Befruchtung*
 >**Schwangerschaft**
 >*15-17 Monate*
@@ -97,21 +97,21 @@ Sie ernähren sich omnivor. Hauptsächliche Nahrungsquellen sind Pilze, Nüsse, 
 Mit zunehmendem Alter wird die Haut heller, bis der gesamte Körper “kaum noch Kontrast” aufweist. Dabei verläuft das Aufhellen des Körpers vom Lebensanfang bis zum Lebensende grob linear.
 ## Fortpflanzung
 Während der Fruchtbarkeit kommt eine Art Brunft über beide Geschlechter, die sie zum Geschlechtsverkehr treibt. Austragung und Geburt sind dabei in der Form sehr ähnlich zur menschlichen Realität.
-Allerdings empfinden Eveliten den Akt der Fortpflanzung, sowie die Schwangerschaft und Geburt als sehr abstoßend und sie schämen sich ihrer Brunft. Das hat sie sehr früh dazu veranlasst, [[Die Erfindung der Sistasi-Medizin|Medizin]] gegen diese Brunft und die künstliche Befruchtung zu entwickeln. Diese ersetzten anfangs die Notwendigkeit zum verhassten Geschlechtsverkehr und später sogar den gesamten Prozess von Austragung und Stillung.
+Allerdings empfinden Eveliten den Akt der Fortpflanzung, sowie die Schwangerschaft und Geburt als sehr abstoßend und sie schämen sich ihrer Brunft. Das hat sie sehr früh dazu veranlasst, [Medizin](</Lygea/Geschichte/Rassengeschichte/Evelitische Geschichte/Die Erfindung der Sistasi-Medizin.md>) gegen diese Brunft und die künstliche Befruchtung zu entwickeln. Diese ersetzten anfangs die Notwendigkeit zum verhassten Geschlechtsverkehr und später sogar den gesamten Prozess von Austragung und Stillung.
 # Geschichte
-Die evelitische Geschichte besteht zu einem großen Teil aus der Erfindung der künstlichen Befruchtung und der Entwicklung ihrer Dome, als Schutz vor dem Tageslicht. Viele, aus der menschlichen Realität bekannte, technologische Erfindungen begleiteten sie auf diesem Weg. [[Evelitische Geschichte|Dieser Artikel]] beschreibt die wichtigsten, historischen Ereignisse der evelitschen Geschichte etwas detailierter.
+Die evelitische Geschichte besteht zu einem großen Teil aus der Erfindung der künstlichen Befruchtung und der Entwicklung ihrer Dome, als Schutz vor dem Tageslicht. Viele, aus der menschlichen Realität bekannte, technologische Erfindungen begleiteten sie auf diesem Weg. [Dieser Artikel](</Lygea/Geschichte/Rassengeschichte/Evelitische Geschichte/Evelitische Geschichte.md>) beschreibt die wichtigsten, historischen Ereignisse der evelitschen Geschichte etwas detailierter.
 # Kultur
 Eveliten sind relativ emotionsarm und deshalb auch nicht aggressiv. Sie sind allerdings bereit, alles im Sinne der Wissenschaft zu tun, was bei anderen Völkern auf moralisches Unverständnis treffen kann. Sie lieben die Arbeit des Geistes, die Logik und das aufdecken von Sachverhalten.
 Sie forcieren eine strikte Struktur und Ordnung in ihrer Gesellschaft, wo jedes Mitglied eine spezifische Rolle ausführt. Wird eine solche Rolle durch ein Ableben frei, ist die Nachfolge in einer Hierarchie genau ausdefiniert. Neue Eveliten werden nur gezeugt, wenn ein Platz in der Gesellschaft in absehbarer Zeit frei wird.
 Die Eveliten haben keine religiösen oder “abergläubischen” Tendenzen entwickelt.
 ## Elementare Einflüsse
-Eveliten haben Kontrolle über das [[Die Elemente|Schatten-Element]]. Ihre besten können sogar die Schatten-Verwandten Elemente (Illusion, Negativ, Gift, Telekinese) animieren.
+Eveliten haben Kontrolle über das [Schatten-Element](</Lygea/Das Universum/Magie/Die Elemente.md>). Ihre besten können sogar die Schatten-Verwandten Elemente (Illusion, Negativ, Gift, Telekinese) animieren.
 ## Die Sprüche Evels
-Die Sprüche Evels sind die evelitische [[Die Mystik#Animationstechnik|Animationstechnik]]. Zuerst [[Die Mystik#Basierend auf Animation|animieren]] sie ihren eigenen Schatten zu einer Art Blase, die sie selbst völlig umschließt und sie in durchsichtige Dunkelheit hüllt. Dann **animieren** sie aus der Blase heraus, was sie gerade zur Verteidigung oder sonstigem benötigen.
+Die Sprüche Evels sind die evelitische [Animationstechnik](</Lygea/Das Universum/Mystik/Die Mystik.md#Animationstechnik>). Zuerst [animieren](</Lygea/Das Universum/Mystik/Die Mystik.md#Basierend auf Animation>) sie ihren eigenen Schatten zu einer Art Blase, die sie selbst völlig umschließt und sie in durchsichtige Dunkelheit hüllt. Dann **animieren** sie aus der Blase heraus, was sie gerade zur Verteidigung oder sonstigem benötigen.
 Meistens halten sie beim **Animieren** ein Buch aus dem sie vor jeder **Animation** zitieren. Dabei bleibt ihr Körper völlig still. Nur ihr Kopf neigt sich zum Lesen und sie nicken in eine bestimmte Richtung, wenn sie eine Animation auf ein bestimmtes Ziel anwenden wollen.
 ## In der Gesellschaft
-Das ihnen innewohnende [[Die Elemente|Schatten-Element]] wirkt auf Eveliten so, wie das Licht auf andere Wesen. Deshalb sind die Nächte ihre Tage und die Tage ihre Nächte. Im Hellen können sie schlechter sehen. Viele Ihrer Erfindungen haben daher den Sinn diese Invertierung zu revidieren, was vor allem im Kontakt mit anderen Völkern wichtig ist.
-Ihre [[Evelitische Geschichte#Die Dome|Stadt-Dome ]]beinhalten Häuser ohne Fenster. Nur schmale Schlitze lassen Luft in die Räume hinein. Ihre Möbel sind schlicht und funktionell. Lampen gibt es keine. Für den Notfall haben die Eveliten aber so etwas, wie Schatten-Lampen erfunden. Diese verdunkeln die Umgebung anstatt sie zu erhellen.
+Das ihnen innewohnende [Schatten-Element](</Lygea/Das Universum/Magie/Die Elemente.md>) wirkt auf Eveliten so, wie das Licht auf andere Wesen. Deshalb sind die Nächte ihre Tage und die Tage ihre Nächte. Im Hellen können sie schlechter sehen. Viele Ihrer Erfindungen haben daher den Sinn diese Invertierung zu revidieren, was vor allem im Kontakt mit anderen Völkern wichtig ist.
+Ihre [Stadt-Dome ](</Lygea/Geschichte/Rassengeschichte/Evelitische Geschichte/Evelitische Geschichte.md#Die Dome>)beinhalten Häuser ohne Fenster. Nur schmale Schlitze lassen Luft in die Räume hinein. Ihre Möbel sind schlicht und funktionell. Lampen gibt es keine. Für den Notfall haben die Eveliten aber so etwas, wie Schatten-Lampen erfunden. Diese verdunkeln die Umgebung anstatt sie zu erhellen.
 # Gesellschaft
 Die Eveliten sehen sich selbst und das Leben als eine große Schule.
 
@@ -159,12 +159,12 @@ Die misslichste Lage, in die ein Evelit kommen kann, ist die, der Lüge bezichti
 Behinderungen oder chronische Krankheiten sind für einen Eveliten ebenfalls kein schöner Zustand. Die Betroffenen werden dann zu Forschungsobjekten (v.a. für das Institut der Medizin) degradiert. Manche Betroffenen werden so geheilt bzw. es werden Wege gefunden, wie diese trotzdem in den Forschungsalltag zurückgeführt werden können.
 # Rituale
 ## Die Aufgabe - Das Chronik-Ritual
-Trotz ihrer steifen Natur sind Eveliten fantastische Erzähler, selbst wenn es um wissenschaftliche Themen geht. Ein Zuhörer, lebendig oder tot, vergisst dabei schnell alles um sich herum und kann tief in die Geschichte oder den Sachverhalt eintauchen. Irrende [[Die Seele|Seelen]], die einer evelitischen Geschichte lauschen, besinnen sich ihrer selbst und werden dadurch beruhigt.
-Die [[#Gesellschaft|Historiker]] führen dieses Ritual einmal in der Woche durch. Jedes Mitglied der Fakultät der Geschichte ist nacheinander an der Reihe. Dazu versammelt sich das gesamte Institut und hört dem Erzähler zu.
+Trotz ihrer steifen Natur sind Eveliten fantastische Erzähler, selbst wenn es um wissenschaftliche Themen geht. Ein Zuhörer, lebendig oder tot, vergisst dabei schnell alles um sich herum und kann tief in die Geschichte oder den Sachverhalt eintauchen. Irrende [Seelen](</Lygea/Das Universum/Magie/Die Seele.md>), die einer evelitischen Geschichte lauschen, besinnen sich ihrer selbst und werden dadurch beruhigt.
+Die [Historiker](<#Gesellschaft>) führen dieses Ritual einmal in der Woche durch. Jedes Mitglied der Fakultät der Geschichte ist nacheinander an der Reihe. Dazu versammelt sich das gesamte Institut und hört dem Erzähler zu.
 ## Die Geburt - Eine ungeliebte Angelegenheit
 Eveliten machen sich nicht viel aus Neugeborenen und sehen diese eher als nervige Aufgabe, als Bereicherung. Zeugung, Austragung und Geburt sind für Eveliten sehr unangenehme Dinge. Darum haben die Eveliten schnell Methoden zur künstlichen Befruchtung,
 Austragung, Geburt und Stillung entwickelt.
-Ist die Stillzeit vorbei, wird das Kind in die Schule, ins Internat ([[#Gesellschaft|Fakultät der Geschichte]]) gebracht. Dort wird es von den Historikern in allen grundlegenden Fächern unterrichtet, bis es an den Platz gestellt wird, wofür es gezeugt wurde.
+Ist die Stillzeit vorbei, wird das Kind in die Schule, ins Internat ([Fakultät der Geschichte](<#Gesellschaft>)) gebracht. Dort wird es von den Historikern in allen grundlegenden Fächern unterrichtet, bis es an den Platz gestellt wird, wofür es gezeugt wurde.
 
 Eveliten feiern keine Geburtstage.
 ## Die Reife - Schulabschluss
@@ -173,5 +173,5 @@ Ein Schüler darf den vermasselten Schulabschluss 3 Mal wiederholen und muss die
 ## Die Hochzeit - Nicht existent
 Eveliten können mit dem Konzept von Hochzeit oder Partnerschaft nichts anfangen.
 ## Der Tod - Auszeichnungen
-Stirbt ein Evelit, kommt das ganze Institut, bei Nacht oder einer [[Kosmische Ereignisse#Ereignisse|Gos Finsternis]], zusammen. Es wird verlesen, was derjenige alles in seinem Leben für die Wissenschaft erreicht, gelernt, erforscht und entdeckt hat.
+Stirbt ein Evelit, kommt das ganze Institut, bei Nacht oder einer [Gos Finsternis](</Lygea/Das Universum/Astronomie/Kosmische Ereignisse.md#Ereignisse>), zusammen. Es wird verlesen, was derjenige alles in seinem Leben für die Wissenschaft erreicht, gelernt, erforscht und entdeckt hat.
 Der Leichnam wird, wenn möglich, am Ende der Lesungen verbrannt und einfach entsorgt. Verstorbene Kinder werden nicht gewürdigt und bei der nächstbesten Gelegenheit zeremonienlos verbrannt. Dann bestimmt der Vorgesetzte des Verstorbenen, wer dessen Platz einnehmen wird und ein neuer Evelit wird gezeugt.

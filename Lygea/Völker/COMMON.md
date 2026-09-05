@@ -1,5 +1,5 @@
 // TODO
-Modern lygean common tongue, spoken mostly in [[Bardeena]] (basically English)
+Modern lygean common tongue, spoken mostly in [Bardeena](</Lygea/Völker/Bardeena/Bardeena.md>) (basically English)
 
 The modern tongue is basically English but it, too, had to develop. There are some words and terms that warrant some explanations.
 

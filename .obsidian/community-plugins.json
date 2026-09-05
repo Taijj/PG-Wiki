@@ -1,5 +1,7 @@
 [
-  "obsidian-link-converter",
   "table-editor-obsidian",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "better-markdown-links",
+  "advanced-rename-and-delete-handler",
+  "editor-width-slider"
 ]
